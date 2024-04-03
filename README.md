@@ -4,8 +4,8 @@ This repository contains data and code for the paper EpitopeTransfer: Improving 
 
 ## Table of Contents
 - [Dependencies](#dependencies)
-- [Run Models for Paper Metrics](#run-models-for-paper-metrics)
-- [Make full-pipeline predictions](#make-full-pipeline-predictions)
+- [Running Models for Published Metrics](#running-models-for-published-metrics)
+- [Making Full-Pipeline Predictions](#making-full-pipeline-predictions)
 - [Citation](#citation)
 - [Contact](#contact)
 
