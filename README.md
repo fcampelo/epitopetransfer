@@ -26,21 +26,21 @@ For those who prefer Conda, create a project environment following the [Conda en
 
 2. **Project dependencies**
 
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 3. **Run Models for Paper Metrics**
 
-To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
+   To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
+s
+   ```bash
+   python main.py [taxa]
 
-```bash
-python main.py [taxa]
+   Replace [taxa] with the name of the taxa you wish to process from the list below, or use all to process all available taxa. Example:
 
-Replace [taxa] with the name of the taxa you wish to process from the list below, or use all to process all available taxa. Example:
-
-```bash
-python main.py bpertussis
+   ```bash
+   python main.py bpertussis
 
 ### Available Taxa
 
@@ -52,18 +52,18 @@ python main.py bpertussis
 4. **Make full-pipeline predictions**
 
 
-Run EpitopeTransfer model with your own data
+    Run EpitopeTransfer model with your own data
 
-## Citation
-If you find our work useful in your research, please consider citing:
-```bibtex
-@inproceedings{lindeberg2024EpitopeTransfer,
-  title={EpitopeTransfer: Improving linear B-cell epitope prediction through phylogeny-aware transfer learning},
-  author={Lindeberg Leite and Teófilo de Campos and Francisco Lobo and Felipe Campelo},
-  booktitle={Briefings in Bioinformatics},
-  year={2024},
-}
-````
-## Contact
+5. **Citation**
+   If you find our work useful in your research, please consider citing:
+  ```bibtex
+  @inproceedings{lindeberg2024EpitopeTransfer,
+    title={EpitopeTransfer: Improving linear B-cell epitope prediction through phylogeny-aware transfer learning},
+    author={Lindeberg Leite and Teófilo de Campos and Francisco Lobo and Felipe Campelo},
+    booktitle={Briefings in Bioinformatics},
+    year={2024},
+  }
+  ````
+6. **Contact**
 Email: [f.campelo@aston.ac.uk](mailto:f.campelo@aston.ac.uk) - Principal investigator <br>
 Email: [lindpessoa@gmail.com](mailto:lindpessoa@gmail.com)
