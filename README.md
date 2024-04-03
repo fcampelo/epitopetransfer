@@ -33,7 +33,7 @@ For those who prefer Conda, create a project environment following the [Conda en
 3. **Run Models for Paper Metrics**
 
    To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
-s
+
    ```bash
    python main.py [taxa]
 
@@ -42,11 +42,11 @@ s
    ```bash
    python main.py bpertussis
 
-### Available Taxa
+   Available Taxa
 
-- `bpertussis` - For running the model on B. pertussis data.
-- `corynebacterium` - For running the model on Corynebacterium data.
-- `all` - Use this option to run the models for all the above taxa.
+    - `bpertussis` - For running the model on B. pertussis data.
+    - `corynebacterium` - For running the model on Corynebacterium data.
+    - `all` - Use this option to run the models for all the above taxa.
 
 
 4. **Make full-pipeline predictions**
