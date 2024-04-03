@@ -1,6 +1,6 @@
 # EpitopeTransfer
 
-This repository contains data and code for the paper EpitopeTransfer: Improving linear B-cell epitope prediction through phylogeny-aware transfer learning by Lindeberg Pessoa Leite, Teófilo E. de Campos, Francisco Pereira Lobo and Felipe Campelo.
+This repository contains data and code for the paper **EpitopeTransfer: Improving linear B-cell epitope prediction through phylogeny-aware transfer learning** by Lindeberg Pessoa Leite, Teófilo E. de Campos, Francisco Pereira Lobo and Felipe Campelo.
 
 ## Table of Contents
 - [Dependencies](#dependencies)
