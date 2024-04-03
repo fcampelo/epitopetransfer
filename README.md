@@ -29,7 +29,7 @@ This project requires Python 3.10. Follow the instructions below to set up your 
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run Models for Paper Metrics**
+## Run Models for Paper Metrics
 
     To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
 
@@ -47,12 +47,12 @@ This project requires Python 3.10. Follow the instructions below to set up your 
     - **corynebacterium:** For running the model on *Corynebacterium* data.
     - **all:** Use this option to run the models for all the above taxa.
 
-4. **Make full-pipeline predictions**
+## Make full-pipeline predictions
 
 
     Run EpitopeTransfer model with your own data
 
-5. **Citation**
+## Citation 
    If you find our work useful in your research, please consider citing:
   ```bibtex
   @inproceedings{lindeberg2024EpitopeTransfer,
@@ -62,6 +62,6 @@ This project requires Python 3.10. Follow the instructions below to set up your 
     year={2024},
   }
   ````
-6. **Contact**
+## Contact
 Email: [f.campelo@aston.ac.uk](mailto:f.campelo@aston.ac.uk) - Principal investigator <br>
 Email: [lindpessoa@gmail.com](mailto:lindpessoa@gmail.com)
