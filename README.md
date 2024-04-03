@@ -22,7 +22,7 @@ This project requires Python 3.10. Follow the instructions below to set up your 
    sudo apt update
    sudo apt install python3.10
    ```
-  For those who prefer Conda, create a project environment following the [Conda environment management guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+   For those who prefer Conda, create a project environment following the [Conda environment management guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 2. **Project dependencies**
 
@@ -43,9 +43,9 @@ This project requires Python 3.10. Follow the instructions below to set up your 
   ```
   Available Taxa
 
-    - `bpertussis` - For running the model on B. pertussis data.
-    - `corynebacterium` - For running the model on Corynebacterium data.
-    - `all` - Use this option to run the models for all the above taxa.
+  - **bpertussis:** For running the model on *B. pertussis* data.
+  - **corynebacterium:** For running the model on *Corynebacterium* data.
+  - **all:** Use this option to run the models for all the above taxa.
 
 4. **Make full-pipeline predictions**
 
