@@ -31,21 +31,21 @@ This project requires Python 3.10. Follow the instructions below to set up your 
    ```
 ## Run Models for Paper Metrics
 
-    To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
+To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
 
-    ```bash
-    python main.py [taxa]
-    ```
-    Replace [taxa] with the name of the taxa you wish to process from the list below, or use all to process all available taxa. Example:
+```bash
+python main.py [taxa]
+```
+Replace [taxa] with the name of the taxa you wish to process from the list below, or use all to process all available taxa. Example:
 
-    ```bash
-    python main.py bpertussis
-    ```
-    Available Taxa
+```bash
+python main.py bpertussis
+```
+Available Taxa
 
-    - **bpertussis:** For running the model on *B. pertussis* data.
-    - **corynebacterium:** For running the model on *Corynebacterium* data.
-    - **all:** Use this option to run the models for all the above taxa.
+- **bpertussis:** For running the model on *B. pertussis* data.
+- **corynebacterium:** For running the model on *Corynebacterium* data.
+- **all:** Use this option to run the models for all the above taxa.
 
 ## Make full-pipeline predictions
 
