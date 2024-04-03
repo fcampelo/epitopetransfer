@@ -1,7 +1,7 @@
 # EpitopeTransfer
 
 This repository contains data and code for the paper EpitopeTransfer: Improving linear B-cell epitope prediction through phylogeny-aware transfer learning by Lindeberg Pessoa Leite, Teófilo E. de Campos, Francisco Pereira Lobo and Felipe Campelo.
-s
+
 ## Table of Contents
 - [Dependencies](#dependencies)
 - [Run Models for Paper Metrics](#run-models-for-paper-metrics)
@@ -24,13 +24,13 @@ This project requires Python 3.10. Follow the instructions below to set up your 
 
 For those who prefer Conda, create a project environment following the [Conda environment management guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
-2. ** Project dependencies**
+2. **Project dependencies**
 
   ```bash
   pip install -r requirements.txt
 
 
-## Run Models for Paper Metrics
+3. **Run Models for Paper Metrics**
 
 To run the models for specific taxa or for all taxa included in the study, use the following command format in the terminal:
 
@@ -49,7 +49,8 @@ python main.py bpertussis
 - `all` - Use this option to run the models for all the above taxa.
 
 
-## Make full-pipeline predictions
+4. **Make full-pipeline predictions**
+
 
 Run EpitopeTransfer model with your own data
 
