@@ -49,8 +49,7 @@ Available Taxa
 
 ## Make full-pipeline predictions
 
-
-    Run EpitopeTransfer model with your own data
+Run EpitopeTransfer model with your own data
 
 ## Citation 
    If you find our work useful in your research, please consider citing:
