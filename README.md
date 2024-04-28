@@ -4,7 +4,7 @@ This repository contains data and code for the paper **EpitopeTransfer: Improvin
 
 ## Table of Contents
 - [Dependencies](#dependencies)
-- [Running Models for Published Metrics](#running-models-for-published-metrics)
+- [Running Models for Published Metrics](#run-models-for-paper-metrics)
 - [Citation](#citation)
 - [Contact](#contact)
 
