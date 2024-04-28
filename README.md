@@ -42,19 +42,20 @@ python main.py bpertussis
 ```
 Available Taxa
 
-- **bpertussis:** For running the model on *B. pertussis* data.
-- **corynebacterium:** For running the model on *Corynebacterium* data.
-- **orthopoxvirus:** For running the model on *Orthopoxvirus* data.
-- **ecoli:** For running the model on *E. coli* data.
-- **enterobacteriaceae:** For running the model on *Enterobacteriaceae* data.
-- **lentivirus:** For running the model on *Lentivirus* data.
-- **mtuberculosis:** For running the model on *M. tuberculosis* data.
-- **paeruginosa:** For running the model on *P. aeruginosa* data.
-- **sars_cov2:** For running the model on *SARS-CoV-2* data.
-- **smansoni:** For running the model on *S. mansoni* data.
-- **tgondii:** For running the model on *T. gondii* data.
-- **pfalciparum:** For running the model on *P. falciparum* data.
-- **all:** Use this option to run the models for all the above taxa.
+- **bpertussis:** *Bordetella pertussis* data.
+- **corynebacterium:** *Corynebacterium* data.
+- **orthopoxvirus:** *Orthopoxvirus* data.
+- **ecoli:** *Escherichia coli* data.
+- **enterobacteriaceae:** *Enterobacteriaceae* data.
+- **lentivirus:** *Lentivirus* data.
+- **mtuberculosis:** *Mycobacterium tuberculosis* data.
+- **paeruginosa:** *Pseudomonas aeruginosa* data.
+- **sars_cov2:** *SARS-CoV-2* data.
+- **smansoni:** *Schistosoma mansoni* data.
+- **tgondii:** *Toxoplasma gondii* data.
+- **pfalciparum:** *Plasmodium falciparum* data.
+- **all:** All taxa listed above.
+
 
 
 ## Citation 
