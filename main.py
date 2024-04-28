@@ -34,7 +34,7 @@ if __name__ == "__main__":
         test_predictions = (test_probs > best_threshold).astype(int)
 
         test_mcc = matthews_corrcoef(test_labels, test_predictions)
-        f1 = f1_score(test_labels, test_predictions, average='binary')
+        f1 = f1_score(test_labels, test_predictions)
         auc_score = roc_auc_score(test_labels, test_probs)
 
         # Print the evaluation results
