@@ -10,7 +10,7 @@ This repository contains data and code for the paper **EpitopeTransfer: Improvin
 
 ## Dependencies
 
-This project requires Python 3.10. Follow the instructions below to set up your environment and install the required dependencies.
+This project requires Python 3.10, although other versions are likely compatible. Follow the instructions below to set up your environment and install the required dependencies.
 
 
 1. **Install Python 3.10**
