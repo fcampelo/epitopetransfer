@@ -5,7 +5,6 @@ This repository contains data and code for the paper **EpitopeTransfer: Improvin
 ## Table of Contents
 - [Dependencies](#dependencies)
 - [Running Models for Published Metrics](#running-models-for-published-metrics)
-- [Making Full-Pipeline Predictions](#making-full-pipeline-predictions)
 - [Citation](#citation)
 - [Contact](#contact)
 
@@ -45,11 +44,18 @@ Available Taxa
 
 - **bpertussis:** For running the model on *B. pertussis* data.
 - **corynebacterium:** For running the model on *Corynebacterium* data.
+- **orthopoxvirus:** For running the model on *Orthopoxvirus* data.
+- **ecoli:** For running the model on *E. coli* data.
+- **enterobacteriaceae:** For running the model on *Enterobacteriaceae* data.
+- **lentivirus:** For running the model on *Lentivirus* data.
+- **mtuberculosis:** For running the model on *M. tuberculosis* data.
+- **paeruginosa:** For running the model on *P. aeruginosa* data.
+- **sars_cov2:** For running the model on *SARS-CoV-2* data.
+- **smansoni:** For running the model on *S. mansoni* data.
+- **tgondii:** For running the model on *T. gondii* data.
+- **pfalciparum:** For running the model on *P. falciparum* data.
 - **all:** Use this option to run the models for all the above taxa.
 
-## Make full-pipeline predictions
-
-Run EpitopeTransfer model with your own data
 
 ## Citation 
    If you find our work useful in your research, please consider citing:
