@@ -42,20 +42,20 @@ python main.py bpertussis
 ```
 Available Taxa
 
-|                                      **Taxa**                                          |
-|------------------------------------------|---------------------------------------------|
-| **bpertussis**: *Bordetella pertussis*   | **filoviridae**: *Filoviridae*              |
-| **corynebacterium**: *Corynebacterium*   | **ovolvulus**: *Onchocerca volvulus*        |
-| **orthopoxvirus**: *Orthopoxvirus*       | **ctrachomatis**: *Chlamydia trachomatis*   |
-| **ecoli**: *Escherichia coli*            | **human_gammaherpesvirus_4**: *Human Gammaherpesvirus 4* |
+| **Taxa**                                  | **Taxa**                         |
+|-------------------------------------------|---------------------------------------------|
+| **bpertussis**: *Bordetella pertussis*    | **filoviridae**: *Filoviridae*              |
+| **corynebacterium**: *Corynebacterium*    | **ovolvulus**: *Onchocerca volvulus*        |
+| **orthopoxvirus**: *Orthopoxvirus*        | **ctrachomatis**: *Chlamydia trachomatis*   |
+| **ecoli**: *Escherichia coli*             | **human_gammaherpesvirus_4**: *Human Gammaherpesvirus 4* |
 | **enterobacteriaceae**: *Enterobacteriaceae* | **influenza_a**: *Influenza A*            |
-| **lentivirus**: *Lentivirus*             | **cdifficile**: *Clostridioides difficile*  |
+| **lentivirus**: *Lentivirus*              | **cdifficile**: *Clostridioides difficile*  |
 | **mtuberculosis**: *Mycobacterium tuberculosis* | **measles_morbilivirus**: *Measles morbillivirus* |
-| **paeruginosa**: *Pseudomonas aeruginosa*| **mononegavirales**: *Mononegavirales*      |
-| **sars_cov2**: *SARS-CoV-2*              |                                             |
-| **smansoni**: *Schistosoma mansoni*      |                                             |
-| **tgondii**: *Toxoplasma gondii*         |                                             |
-| **pfalciparum**: *Plasmodium falciparum* |                                             |
+| **paeruginosa**: *Pseudomonas aeruginosa* | **mononegavirales**: *Mononegavirales*      |
+| **sars_cov2**: *SARS-CoV-2*               |                                             |
+| **smansoni**: *Schistosoma mansoni*       |                                             |
+| **tgondii**: *Toxoplasma gondii*          |                                             |
+| **pfalciparum**: *Plasmodium falciparum*  |                                             |
 
 
 obs: To run the taxa in the second column, upgrade scikit-learn to version 1.3.2 (pip install scikit-learn-1.3.2)
