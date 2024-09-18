@@ -71,5 +71,5 @@ obs: To run the taxa in the second column, upgrade scikit-learn to version 1.3.2
   }
   ````
 ## Contact
-Email: [f.campelo@aston.ac.uk](mailto:f.campelo@bristol.ac.uk) - Principal investigator <br>
+Email: [f.campelo@bristol.ac.uk](mailto:f.campelo@bristol.ac.uk) - Principal investigator <br>
 Email: [lindpessoa@gmail.com](mailto:lindpessoa@gmail.com)
