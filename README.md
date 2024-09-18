@@ -42,19 +42,20 @@ python main.py bpertussis
 ```
 Available Taxa
 
-- **bpertussis:** *Bordetella pertussis* data.
-- **corynebacterium:** *Corynebacterium* data.
-- **orthopoxvirus:** *Orthopoxvirus* data.
-- **ecoli:** *Escherichia coli* data.
-- **enterobacteriaceae:** *Enterobacteriaceae* data.
-- **lentivirus:** *Lentivirus* data.
-- **mtuberculosis:** *Mycobacterium tuberculosis* data.
-- **paeruginosa:** *Pseudomonas aeruginosa* data.
-- **sars_cov2:** *SARS-CoV-2* data.
-- **smansoni:** *Schistosoma mansoni* data.
-- **tgondii:** *Toxoplasma gondii* data.
-- **pfalciparum:** *Plasmodium falciparum* data.
-- **all:** All taxa listed above.
+| **Taxon**                  | **Taxon**                        |
+|----------------------------|----------------------------------|
+| **bpertussis**: *Bordetella pertussis*          | **sars_cov2**: *SARS-CoV-2*                       |
+| **corynebacterium**: *Corynebacterium*          | **smansoni**: *Schistosoma mansoni*               |
+| **orthopoxvirus**: *Orthopoxvirus*              | **tgondii**: *Toxoplasma gondii*                  |
+| **ecoli**: *Escherichia coli*                   | **pfalciparum**: *Plasmodium falciparum*          |
+| **enterobacteriaceae**: *Enterobacteriaceae*    | **ctrachomatis**: *Chlamydia trachomatis*         |
+| **lentivirus**: *Lentivirus*                    | **human_gammaherpesvirus_4**: *Human Gammaherpesvirus 4* |
+| **mtuberculosis**: *Mycobacterium tuberculosis* | **influenza_a**: *Influenza A*                    |
+| **paeruginosa**: *Pseudomonas aeruginosa*       | **cdifficile**: *Clostridioides difficile*        |
+| **filoviridae**: *Filoviridae*                  | **measles_morbilivirus**: *Measles morbillivirus* |
+| **ovolvulus**: *Onchocerca volvulus*            | **mononegavirales**: *Mononegavirales*            |
+| **all**: All taxa listed above                  |                                                  |
+
 
 
 
