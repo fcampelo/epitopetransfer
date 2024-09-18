@@ -1,4 +1,3 @@
-
 # This script generates features for a target domain by leveraging higher-level pre-trained models.
 # It processes protein sequences by extracting embeddings and selecting labeled regions (reduction step).
 # Using these embeddings, the script trains a RandomForest classifier with hyperparameter optimization 
@@ -8,7 +7,6 @@
 # The script implements cross-validation to ensure robust evaluation and automatically selects the best hyperparameters.
 # After training, it evaluates the model using a test set and generates predictions, saving the results in CSV format.
 # The trained model is also saved for future use, enabling easy reusability for inference or further analysis.
-
 
 import torch
 import numpy as np

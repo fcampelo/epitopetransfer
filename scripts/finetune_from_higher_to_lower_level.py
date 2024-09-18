@@ -1,8 +1,5 @@
-
-
 # This script fine-tunes a pre-trained ESM-1b model for epitope prediction, focusing on higher-level taxonomic groups. 
 # It processes protein sequences, identifies labeled regions, and segments the sequences using a window-based context approach.
-
 
 import os
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, TrainingArguments, Trainer
@@ -10,7 +7,6 @@ import torch
 import pandas as pd
 import numpy as np
 from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score, matthews_corrcoef, roc_auc_score, classification_report
-
 
 # Replace here with your paths
 tokenizer_model = "./model/esm1b_t33_650M_UR50S"
