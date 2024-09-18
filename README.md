@@ -42,22 +42,23 @@ python main.py bpertussis
 ```
 Available Taxa
 
-| **Taxon**                  | **Taxon**                        |
-|----------------------------|----------------------------------|
-| **bpertussis**: *Bordetella pertussis*          | **sars_cov2**: *SARS-CoV-2*                       |
-| **corynebacterium**: *Corynebacterium*          | **smansoni**: *Schistosoma mansoni*               |
-| **orthopoxvirus**: *Orthopoxvirus*              | **tgondii**: *Toxoplasma gondii*                  |
-| **ecoli**: *Escherichia coli*                   | **pfalciparum**: *Plasmodium falciparum*          |
-| **enterobacteriaceae**: *Enterobacteriaceae*    | **ctrachomatis**: *Chlamydia trachomatis*         |
-| **lentivirus**: *Lentivirus*                    | **human_gammaherpesvirus_4**: *Human Gammaherpesvirus 4* |
-| **mtuberculosis**: *Mycobacterium tuberculosis* | **influenza_a**: *Influenza A*                    |
-| **paeruginosa**: *Pseudomonas aeruginosa*       | **cdifficile**: *Clostridioides difficile*        |
-| **filoviridae**: *Filoviridae*                  | **measles_morbilivirus**: *Measles morbillivirus* |
-| **ovolvulus**: *Onchocerca volvulus*            | **mononegavirales**: *Mononegavirales*            |
-| **all**: All taxa listed above                  |                                                  |
+|                                      **Taxa**                                          |
+|------------------------------------------|---------------------------------------------|
+| **bpertussis**: *Bordetella pertussis*   | **filoviridae**: *Filoviridae*              |
+| **corynebacterium**: *Corynebacterium*   | **ovolvulus**: *Onchocerca volvulus*        |
+| **orthopoxvirus**: *Orthopoxvirus*       | **ctrachomatis**: *Chlamydia trachomatis*   |
+| **ecoli**: *Escherichia coli*            | **human_gammaherpesvirus_4**: *Human Gammaherpesvirus 4* |
+| **enterobacteriaceae**: *Enterobacteriaceae* | **influenza_a**: *Influenza A*            |
+| **lentivirus**: *Lentivirus*             | **cdifficile**: *Clostridioides difficile*  |
+| **mtuberculosis**: *Mycobacterium tuberculosis* | **measles_morbilivirus**: *Measles morbillivirus* |
+| **paeruginosa**: *Pseudomonas aeruginosa*| **mononegavirales**: *Mononegavirales*      |
+| **sars_cov2**: *SARS-CoV-2*              |                                             |
+| **smansoni**: *Schistosoma mansoni*      |                                             |
+| **tgondii**: *Toxoplasma gondii*         |                                             |
+| **pfalciparum**: *Plasmodium falciparum* |                                             |
 
 
-
+obs: To run the taxa in the second column, upgrade scikit-learn to version 1.3.2 (pip install scikit-learn-1.3.2)
 
 ## Citation 
    If you find our work useful in your research, please consider citing:
@@ -70,5 +71,5 @@ Available Taxa
   }
   ````
 ## Contact
-Email: [f.campelo@aston.ac.uk](mailto:f.campelo@aston.ac.uk) - Principal investigator <br>
+Email: [f.campelo@aston.ac.uk](mailto:f.campelo@bristol.ac.uk) - Principal investigator <br>
 Email: [lindpessoa@gmail.com](mailto:lindpessoa@gmail.com)
