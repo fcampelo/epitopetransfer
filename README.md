@@ -9,8 +9,8 @@ Francisco Pereira Lobo and Felipe Campelo.
 
 -   [Dependencies](#dependencies)
 -   [Running Models for Published
-    Metrics](#run-models-for-paper-metrics)
--   [Running the analyses](#run-analyses)
+    Metrics](#running-models-for-paper-metrics)
+-   [Running the analyses](#Running-the-analyses)
 -   [Contact](#contact)
 
 ## Dependencies {#dependencies}
@@ -71,7 +71,7 @@ Available Taxa
 obs: To run the taxa in the second column, upgrade scikit-learn to
 version 1.3.2 (pip install scikit-learn-1.3.2)
 
-## Running the analyses {#run-analyses}
+## Running the analyses
 
 The analysis of the results was done using R version 4.4.1 (reproducible
 using the script under folder `./R`). The main packages used in the
