@@ -1,0 +1,109 @@
+Set Used	Comparison	Metric	pValue	CI	pVal.FDR
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	AUC	0.00422096252441406	Median of paired diffs: 0.031 (0.009, 0.069)	0.00506515502929687
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	AUC	0.0327682495117188	Median of paired diffs: 0.038 (0.003, 0.074)	0.0327682495117188
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	AUC	0.00143241882324219	Median of paired diffs: 0.139 (0.061, 0.215)	0.00214862823486328
+NoLeakage	EpitopeTransfer vs. Epidope	AUC	0.000850677490234375	Median of paired diffs: 0.107 (0.048, 0.166)	0.00170135498046875
+NoLeakage	EpitopeTransfer vs. EpitopeVec	AUC	0.000104904174804688	Median of paired diffs: 0.151 (0.088, 0.204)	0.0005035400390625
+NoLeakage	EpitopeTransfer vs. Epitope1D	AUC	0.0001678466796875	Median of paired diffs: 0.143 (0.093, 0.213)	0.0005035400390625
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	Accuracy	0.00315284729003906	Median of paired diffs: 0.041 (0.014, 0.134)	0.00378341674804687
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	Accuracy	0.00309842718489209	Median of paired diffs: 0.108 (0.016, 0.205)	0.00378341674804687
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	Accuracy	0.00729560852050781	Median of paired diffs: 0.147 (0.053, 0.222)	0.00729560852050781
+NoLeakage	EpitopeTransfer vs. Epidope	Accuracy	0.00271224975585938	Median of paired diffs: 0.238 (0.115, 0.344)	0.00378341674804687
+NoLeakage	EpitopeTransfer vs. EpitopeVec	Accuracy	8.20159912109375e-05	Median of paired diffs: 0.204 (0.133, 0.265)	0.000492095947265625
+NoLeakage	EpitopeTransfer vs. Epitope1D	Accuracy	0.000707626342773438	Median of paired diffs: 0.157 (0.086, 0.223)	0.00212287902832031
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	Balanced accuracy	0.0153121948242188	Median of paired diffs: 0.043 (0.010, 0.083)	0.0183746337890625
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	Balanced accuracy	0.0185642368956695	Median of paired diffs: 0.042 (0.007, 0.106)	0.0185642368956695
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	Balanced accuracy	0.00729560852050781	Median of paired diffs: 0.102 (0.041, 0.175)	0.0109434127807617
+NoLeakage	EpitopeTransfer vs. Epidope	Balanced accuracy	0.000261306762695312	Median of paired diffs: 0.133 (0.075, 0.201)	0.000522613525390625
+NoLeakage	EpitopeTransfer vs. EpitopeVec	Balanced accuracy	6.29425048828125e-05	Median of paired diffs: 0.127 (0.069, 0.181)	0.000377655029296875
+NoLeakage	EpitopeTransfer vs. Epitope1D	Balanced accuracy	0.000209808349609375	Median of paired diffs: 0.114 (0.050, 0.190)	0.000522613525390625
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	F1	0.00315284729003906	Median of paired diffs: 0.048 (0.016, 0.079)	0.00315284729003906
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	F1	0.000197336651248119	Median of paired diffs: 0.049 (0.021, 0.092)	0.00025177001953125
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	F1	0.000104904174804688	Median of paired diffs: 0.280 (0.173, 0.360)	0.000209808349609375
+NoLeakage	EpitopeTransfer vs. Epidope	F1	3.814697265625e-06	Median of paired diffs: 0.431 (0.295, 0.547)	2.288818359375e-05
+NoLeakage	EpitopeTransfer vs. EpitopeVec	F1	6.29425048828125e-05	Median of paired diffs: 0.157 (0.096, 0.227)	0.000188827514648438
+NoLeakage	EpitopeTransfer vs. Epitope1D	F1	0.000209808349609375	Median of paired diffs: 0.264 (0.141, 0.382)	0.00025177001953125
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	MCC	0.00315284729003906	Median of paired diffs: 0.089 (0.028, 0.149)	0.00378341674804687
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	MCC	0.00660066414773902	Median of paired diffs: 0.082 (0.027, 0.185)	0.00660066414773902
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	MCC	0.00101661682128906	Median of paired diffs: 0.221 (0.093, 0.347)	0.00152492523193359
+NoLeakage	EpitopeTransfer vs. Epidope	MCC	0.000133514404296875	Median of paired diffs: 0.269 (0.151, 0.396)	0.00026702880859375
+NoLeakage	EpitopeTransfer vs. EpitopeVec	MCC	6.29425048828125e-05	Median of paired diffs: 0.277 (0.152, 0.389)	0.000188827514648438
+NoLeakage	EpitopeTransfer vs. Epitope1D	MCC	3.62396240234375e-05	Median of paired diffs: 0.240 (0.115, 0.381)	0.000188827514648438
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	NPV	0.0670976664245173	Median of paired diffs: 0.037 (-0.004, 0.139)	0.0670976664245173
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	NPV	0.0255198709577561	Median of paired diffs: 0.073 (0.008, 0.335)	0.0306238451493074
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	NPV	0.00638961791992188	Median of paired diffs: 0.161 (0.059, 0.264)	0.0127792358398438
+NoLeakage	EpitopeTransfer vs. Epidope	NPV	0.00120925903320312	Median of paired diffs: 0.259 (0.136, 0.430)	0.00725555419921875
+NoLeakage	EpitopeTransfer vs. EpitopeVec	NPV	0.00638961791992188	Median of paired diffs: 0.216 (0.067, 0.395)	0.0127792358398438
+NoLeakage	EpitopeTransfer vs. Epitope1D	NPV	0.0239505767822266	Median of paired diffs: 0.131 (0.016, 0.252)	0.0306238451493074
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	PPV	0.164957046508789	Median of paired diffs: 0.023 (-0.010, 0.099)	0.197948455810547
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	PPV	0.028293051072653	Median of paired diffs: 0.052 (0.003, 0.127)	0.0491523742675781
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	PPV	0.00943565368652344	Median of paired diffs: 0.120 (0.037, 0.204)	0.0283069610595703
+NoLeakage	EpitopeTransfer vs. Epidope	PPV	0.728506088256836	Median of paired diffs: 0.010 (-0.077, 0.113)	0.728506088256836
+NoLeakage	EpitopeTransfer vs. EpitopeVec	PPV	0.0327682495117188	Median of paired diffs: 0.077 (0.005, 0.160)	0.0491523742675781
+NoLeakage	EpitopeTransfer vs. Epitope1D	PPV	0.0001678466796875	Median of paired diffs: 0.147 (0.081, 0.226)	0.001007080078125
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	Sensitivity	1	Median of paired diffs: 0.000 (-0.103, 0.114)	1
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	Sensitivity	0.762792055812661	Median of paired diffs: -0.029 (-0.172, 0.092)	0.915350466975194
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	Sensitivity	0.000261306762695312	Median of paired diffs: 0.410 (0.211, 0.554)	0.000783920288085938
+NoLeakage	EpitopeTransfer vs. Epidope	Sensitivity	5.7220458984375e-06	Median of paired diffs: 0.592 (0.431, 0.739)	3.4332275390625e-05
+NoLeakage	EpitopeTransfer vs. EpitopeVec	Sensitivity	0.00120925903320312	Median of paired diffs: 0.244 (0.109, 0.355)	0.00241851806640625
+NoLeakage	EpitopeTransfer vs. Epitope1D	Sensitivity	0.00198554992675781	Median of paired diffs: 0.354 (0.101, 0.559)	0.00297832489013672
+NoLeakage	EpitopeTransfer vs. ESM-1b bl.	Specificity	0.0909624041851633	Median of paired diffs: 0.082 (-0.011, 0.244)	0.181924808370327
+NoLeakage	EpitopeTransfer vs. NPTransfer bl.	Specificity	0.163434990101037	Median of paired diffs: 0.179 (-0.060, 0.388)	0.245152485151555
+NoLeakage	EpitopeTransfer vs. Bepipred 3.0	Specificity	0.0637226104736328	Median of paired diffs: -0.153 (-0.348, 0.017)	0.181924808370327
+NoLeakage	EpitopeTransfer vs. Epidope	Specificity	0.00271224975585938	Median of paired diffs: -0.313 (-0.499, -0.049)	0.0162734985351562
+NoLeakage	EpitopeTransfer vs. EpitopeVec	Specificity	0.570596694946289	Median of paired diffs: 0.046 (-0.106, 0.196)	0.570596694946289
+NoLeakage	EpitopeTransfer vs. Epitope1D	Specificity	0.43043327331543	Median of paired diffs: -0.060 (-0.309, 0.144)	0.516519927978516
+Holdout	EpitopeTransfer vs. ESM-1b bl.	AUC	0.00422096252441406	Median of paired diffs: 0.031 (0.009, 0.069)	0.0126628875732422
+Holdout	EpitopeTransfer vs. NPTransfer bl.	AUC	0.0327682495117188	Median of paired diffs: 0.038 (0.003, 0.074)	0.0393218994140625
+Holdout	EpitopeTransfer vs. Bepipred 3.0	AUC	0.0295753479003906	Median of paired diffs: 0.093 (0.020, 0.186)	0.0393218994140625
+Holdout	EpitopeTransfer vs. Epidope	AUC	0.0758514404296875	Median of paired diffs: 0.060 (-0.010, 0.121)	0.0758514404296875
+Holdout	EpitopeTransfer vs. EpitopeVec	AUC	0.00943565368652344	Median of paired diffs: 0.081 (0.022, 0.155)	0.0188713073730469
+Holdout	EpitopeTransfer vs. Epitope1D	AUC	0.00232505798339844	Median of paired diffs: 0.130 (0.060, 0.209)	0.0126628875732422
+Holdout	EpitopeTransfer vs. ESM-1b bl.	Accuracy	0.00315284729003906	Median of paired diffs: 0.041 (0.014, 0.134)	0.0043853759765625
+Holdout	EpitopeTransfer vs. NPTransfer bl.	Accuracy	0.00309842718489209	Median of paired diffs: 0.108 (0.016, 0.205)	0.0043853759765625
+Holdout	EpitopeTransfer vs. Bepipred 3.0	Accuracy	0.00365447998046875	Median of paired diffs: 0.197 (0.095, 0.276)	0.0043853759765625
+Holdout	EpitopeTransfer vs. Epidope	Accuracy	0.00830841064453125	Median of paired diffs: 0.174 (0.043, 0.262)	0.00830841064453125
+Holdout	EpitopeTransfer vs. EpitopeVec	Accuracy	0.000261306762695312	Median of paired diffs: 0.148 (0.073, 0.227)	0.00144767761230469
+Holdout	EpitopeTransfer vs. Epitope1D	Accuracy	0.000482559204101562	Median of paired diffs: 0.167 (0.087, 0.256)	0.00144767761230469
+Holdout	EpitopeTransfer vs. ESM-1b bl.	Balanced accuracy	0.0153121948242188	Median of paired diffs: 0.043 (0.010, 0.083)	0.0222770842748034
+Holdout	EpitopeTransfer vs. NPTransfer bl.	Balanced accuracy	0.0185642368956695	Median of paired diffs: 0.042 (0.007, 0.106)	0.0222770842748034
+Holdout	EpitopeTransfer vs. Bepipred 3.0	Balanced accuracy	0.00198554992675781	Median of paired diffs: 0.112 (0.059, 0.182)	0.00465011596679688
+Holdout	EpitopeTransfer vs. Epidope	Balanced accuracy	0.00232505798339844	Median of paired diffs: 0.093 (0.041, 0.153)	0.00465011596679688
+Holdout	EpitopeTransfer vs. EpitopeVec	Balanced accuracy	0.0239505767822266	Median of paired diffs: 0.071 (0.010, 0.148)	0.0239505767822266
+Holdout	EpitopeTransfer vs. Epitope1D	Balanced accuracy	0.00198554992675781	Median of paired diffs: 0.094 (0.042, 0.156)	0.00465011596679688
+Holdout	EpitopeTransfer vs. ESM-1b bl.	F1	0.00315284729003906	Median of paired diffs: 0.048 (0.016, 0.079)	0.00315284729003906
+Holdout	EpitopeTransfer vs. NPTransfer bl.	F1	0.000197336651248119	Median of paired diffs: 0.049 (0.021, 0.092)	0.000296004976872179
+Holdout	EpitopeTransfer vs. Bepipred 3.0	F1	2.6702880859375e-05	Median of paired diffs: 0.265 (0.169, 0.379)	8.0108642578125e-05
+Holdout	EpitopeTransfer vs. Epidope	F1	1.33514404296875e-05	Median of paired diffs: 0.381 (0.261, 0.473)	8.0108642578125e-05
+Holdout	EpitopeTransfer vs. EpitopeVec	F1	0.000394821166992188	Median of paired diffs: 0.115 (0.060, 0.191)	0.000473785400390625
+Holdout	EpitopeTransfer vs. Epitope1D	F1	0.000104904174804688	Median of paired diffs: 0.217 (0.109, 0.332)	0.000209808349609375
+Holdout	EpitopeTransfer vs. ESM-1b bl.	MCC	0.00315284729003906	Median of paired diffs: 0.089 (0.028, 0.149)	0.00378341674804687
+Holdout	EpitopeTransfer vs. NPTransfer bl.	MCC	0.00660066414773902	Median of paired diffs: 0.082 (0.027, 0.185)	0.00660066414773902
+Holdout	EpitopeTransfer vs. Bepipred 3.0	MCC	0.00101661682128906	Median of paired diffs: 0.247 (0.163, 0.406)	0.00203323364257812
+Holdout	EpitopeTransfer vs. Epidope	MCC	0.00101661682128906	Median of paired diffs: 0.173 (0.089, 0.295)	0.00203323364257812
+Holdout	EpitopeTransfer vs. EpitopeVec	MCC	0.00232505798339844	Median of paired diffs: 0.179 (0.069, 0.322)	0.00348758697509766
+Holdout	EpitopeTransfer vs. Epitope1D	MCC	0.000850677490234375	Median of paired diffs: 0.211 (0.099, 0.345)	0.00203323364257812
+Holdout	EpitopeTransfer vs. ESM-1b bl.	NPV	0.0670976664245173	Median of paired diffs: 0.037 (-0.004, 0.139)	0.0670976664245173
+Holdout	EpitopeTransfer vs. NPTransfer bl.	NPV	0.0255198709577561	Median of paired diffs: 0.073 (0.008, 0.335)	0.0306238451493074
+Holdout	EpitopeTransfer vs. Bepipred 3.0	NPV	0.00315284729003906	Median of paired diffs: 0.158 (0.051, 0.311)	0.00728988647460938
+Holdout	EpitopeTransfer vs. Epidope	NPV	0.00168991088867188	Median of paired diffs: 0.127 (0.049, 0.309)	0.00728988647460938
+Holdout	EpitopeTransfer vs. EpitopeVec	NPV	0.00422096252441406	Median of paired diffs: 0.092 (0.026, 0.301)	0.00728988647460938
+Holdout	EpitopeTransfer vs. Epitope1D	NPV	0.00485992431640625	Median of paired diffs: 0.144 (0.032, 0.305)	0.00728988647460938
+Holdout	EpitopeTransfer vs. ESM-1b bl.	PPV	0.164957046508789	Median of paired diffs: 0.023 (-0.010, 0.099)	0.197948455810547
+Holdout	EpitopeTransfer vs. NPTransfer bl.	PPV	0.028293051072653	Median of paired diffs: 0.052 (0.003, 0.127)	0.0565861021453061
+Holdout	EpitopeTransfer vs. Bepipred 3.0	PPV	0.00729560852050781	Median of paired diffs: 0.122 (0.034, 0.235)	0.0218868255615234
+Holdout	EpitopeTransfer vs. Epidope	PPV	0.570596694946289	Median of paired diffs: 0.026 (-0.065, 0.124)	0.570596694946289
+Holdout	EpitopeTransfer vs. EpitopeVec	PPV	0.00271224975585938	Median of paired diffs: 0.093 (0.020, 0.178)	0.0162734985351562
+Holdout	EpitopeTransfer vs. Epitope1D	PPV	0.0531692504882812	Median of paired diffs: 0.093 (-0.002, 0.188)	0.0797538757324219
+Holdout	EpitopeTransfer vs. ESM-1b bl.	Sensitivity	1	Median of paired diffs: 0.000 (-0.103, 0.114)	1
+Holdout	EpitopeTransfer vs. NPTransfer bl.	Sensitivity	0.762792055812661	Median of paired diffs: -0.029 (-0.172, 0.092)	0.915350466975194
+Holdout	EpitopeTransfer vs. Bepipred 3.0	Sensitivity	0.00168991088867188	Median of paired diffs: 0.345 (0.164, 0.526)	0.00506973266601562
+Holdout	EpitopeTransfer vs. Epidope	Sensitivity	3.62396240234375e-05	Median of paired diffs: 0.554 (0.379, 0.670)	0.000217437744140625
+Holdout	EpitopeTransfer vs. EpitopeVec	Sensitivity	0.0637226104736328	Median of paired diffs: 0.133 (-0.004, 0.256)	0.0955839157104492
+Holdout	EpitopeTransfer vs. Epitope1D	Sensitivity	0.00516064176792184	Median of paired diffs: 0.307 (0.077, 0.489)	0.0103212835358437
+Holdout	EpitopeTransfer vs. ESM-1b bl.	Specificity	0.0909624041851633	Median of paired diffs: 0.082 (-0.011, 0.244)	0.27288721255549
+Holdout	EpitopeTransfer vs. NPTransfer bl.	Specificity	0.163434990101037	Median of paired diffs: 0.179 (-0.060, 0.388)	0.326869980202073
+Holdout	EpitopeTransfer vs. Bepipred 3.0	Specificity	0.294252395629883	Median of paired diffs: -0.099 (-0.288, 0.095)	0.441378593444824
+Holdout	EpitopeTransfer vs. Epidope	Specificity	0.00237929031404876	Median of paired diffs: -0.337 (-0.500, -0.124)	0.0142757418842925
+Holdout	EpitopeTransfer vs. EpitopeVec	Specificity	0.521673202514648	Median of paired diffs: 0.052 (-0.112, 0.226)	0.521673202514648
+Holdout	EpitopeTransfer vs. Epitope1D	Specificity	0.521673202514648	Median of paired diffs: -0.076 (-0.284, 0.161)	0.521673202514648

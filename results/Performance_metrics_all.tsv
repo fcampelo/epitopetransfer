@@ -1,0 +1,2521 @@
+Method	Dataset	Metric	Value	Set
+Bepipred 3.0	C. difficile	AUC	0.575009192302978	Holdout
+Bepipred 3.0	C. difficile	F1	0	Holdout
+Bepipred 3.0	C. difficile	MCC	-0.0266236610177439	Holdout
+Bepipred 3.0	C. difficile	PPV	0	Holdout
+Bepipred 3.0	C. difficile	NPV	0.905963302752294	Holdout
+Bepipred 3.0	C. difficile	Sensitivity	0	Holdout
+Bepipred 3.0	C. difficile	Specificity	0.992462311557789	Holdout
+Bepipred 3.0	C. difficile	Balanced accuracy	0.496231155778894	Holdout
+Bepipred 3.0	C. difficile	Accuracy	0.899772209567198	Holdout
+Bepipred 3.0	C. trachomatis	AUC	0.559080070281124	Holdout
+Bepipred 3.0	C. trachomatis	F1	0.583201267828843	Holdout
+Bepipred 3.0	C. trachomatis	MCC	-0.0552514589434009	Holdout
+Bepipred 3.0	C. trachomatis	PPV	0.490666666666667	Holdout
+Bepipred 3.0	C. trachomatis	NPV	0.446153846153846	Holdout
+Bepipred 3.0	C. trachomatis	Sensitivity	0.71875	Holdout
+Bepipred 3.0	C. trachomatis	Specificity	0.232931726907631	Holdout
+Bepipred 3.0	C. trachomatis	Balanced accuracy	0.475840863453815	Holdout
+Bepipred 3.0	C. trachomatis	Accuracy	0.479207920792079	Holdout
+Bepipred 3.0	Filoviridae	AUC	0.462385506465517	Holdout
+Bepipred 3.0	Filoviridae	F1	0.235294117647059	Holdout
+Bepipred 3.0	Filoviridae	MCC	0.142653130620099	Holdout
+Bepipred 3.0	Filoviridae	PPV	0.138138138138138	Holdout
+Bepipred 3.0	Filoviridae	NPV	0.949367088607595	Holdout
+Bepipred 3.0	Filoviridae	Sensitivity	0.793103448275862	Holdout
+Bepipred 3.0	Filoviridae	Specificity	0.439453125	Holdout
+Bepipred 3.0	Filoviridae	Balanced accuracy	0.616278286637931	Holdout
+Bepipred 3.0	Filoviridae	Accuracy	0.475438596491228	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	AUC	0.602299452609093	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	F1	0.273105745212323	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	MCC	-0.180414348779791	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	PPV	0.326043737574553	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	NPV	0.482558139534884	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	Sensitivity	0.234957020057307	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	Specificity	0.594982078853047	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	Balanced accuracy	0.414969549455177	Holdout
+Bepipred 3.0	Human Gammaherpesvirus 4	Accuracy	0.431270358306189	Holdout
+Bepipred 3.0	Influenza A	AUC	0.570495413528923	Holdout
+Bepipred 3.0	Influenza A	F1	0.5389369592089	Holdout
+Bepipred 3.0	Influenza A	MCC	0.239002798376319	Holdout
+Bepipred 3.0	Influenza A	PPV	0.900826446280992	Holdout
+Bepipred 3.0	Influenza A	NPV	0.321011673151751	Holdout
+Bepipred 3.0	Influenza A	Sensitivity	0.384479717813051	Holdout
+Bepipred 3.0	Influenza A	Specificity	0.873015873015873	Holdout
+Bepipred 3.0	Influenza A	Balanced accuracy	0.628747795414462	Holdout
+Bepipred 3.0	Influenza A	Accuracy	0.506613756613757	Holdout
+Bepipred 3.0	Measles morbilivirus	AUC	0.618811274509804	Holdout
+Bepipred 3.0	Measles morbilivirus	F1	0.281345565749235	Holdout
+Bepipred 3.0	Measles morbilivirus	MCC	-0.309702962429536	Holdout
+Bepipred 3.0	Measles morbilivirus	PPV	0.292993630573248	Holdout
+Bepipred 3.0	Measles morbilivirus	NPV	0.395121951219512	Holdout
+Bepipred 3.0	Measles morbilivirus	Sensitivity	0.270588235294118	Holdout
+Bepipred 3.0	Measles morbilivirus	Specificity	0.421875	Holdout
+Bepipred 3.0	Measles morbilivirus	Balanced accuracy	0.346231617647059	Holdout
+Bepipred 3.0	Measles morbilivirus	Accuracy	0.350828729281768	Holdout
+Bepipred 3.0	Mononegavirales	AUC	0.554363323043354	Holdout
+Bepipred 3.0	Mononegavirales	F1	0.27134724857685	Holdout
+Bepipred 3.0	Mononegavirales	MCC	-0.136016391792331	Holdout
+Bepipred 3.0	Mononegavirales	PPV	0.258589511754069	Holdout
+Bepipred 3.0	Mononegavirales	NPV	0.608315098468271	Holdout
+Bepipred 3.0	Mononegavirales	Sensitivity	0.285429141716567	Holdout
+Bepipred 3.0	Mononegavirales	Specificity	0.575569358178054	Holdout
+Bepipred 3.0	Mononegavirales	Balanced accuracy	0.43049924994731	Holdout
+Bepipred 3.0	Mononegavirales	Accuracy	0.476482617586912	Holdout
+Bepipred 3.0	O. volvulus	AUC	0.721277443783838	Holdout
+Bepipred 3.0	O. volvulus	F1	0.364220674879486	Holdout
+Bepipred 3.0	O. volvulus	MCC	0.277448376415638	Holdout
+Bepipred 3.0	O. volvulus	PPV	0.225165562913907	Holdout
+Bepipred 3.0	O. volvulus	NPV	0.980482204362801	Holdout
+Bepipred 3.0	O. volvulus	Sensitivity	0.952380952380952	Holdout
+Bepipred 3.0	O. volvulus	Specificity	0.421936758893281	Holdout
+Bepipred 3.0	O. volvulus	Balanced accuracy	0.687158855637116	Holdout
+Bepipred 3.0	O. volvulus	Accuracy	0.501469970600588	Holdout
+Bepipred 3.0	B. pertussis	AUC	0.635291499777481	Holdout
+Bepipred 3.0	B. pertussis	F1	0.777777777777778	Holdout
+Bepipred 3.0	B. pertussis	MCC	-0.00846625840543454	Holdout
+Bepipred 3.0	B. pertussis	PPV	0.716535433070866	Holdout
+Bepipred 3.0	B. pertussis	NPV	0.272727272727273	Holdout
+Bepipred 3.0	B. pertussis	Sensitivity	0.850467289719626	Holdout
+Bepipred 3.0	B. pertussis	Specificity	0.142857142857143	Holdout
+Bepipred 3.0	B. pertussis	Balanced accuracy	0.496662216288384	Holdout
+Bepipred 3.0	B. pertussis	Accuracy	0.651006711409396	Holdout
+Bepipred 3.0	Corynebacterium	AUC	0.647839506172839	Holdout
+Bepipred 3.0	Corynebacterium	F1	0.303030303030303	Holdout
+Bepipred 3.0	Corynebacterium	MCC	0.247059688071247	Holdout
+Bepipred 3.0	Corynebacterium	PPV	0.833333333333333	Holdout
+Bepipred 3.0	Corynebacterium	NPV	0.568627450980392	Holdout
+Bepipred 3.0	Corynebacterium	Sensitivity	0.185185185185185	Holdout
+Bepipred 3.0	Corynebacterium	Specificity	0.966666666666667	Holdout
+Bepipred 3.0	Corynebacterium	Balanced accuracy	0.575925925925926	Holdout
+Bepipred 3.0	Corynebacterium	Accuracy	0.596491228070175	Holdout
+Bepipred 3.0	E. coli	AUC	0.399582728592163	Holdout
+Bepipred 3.0	E. coli	F1	0.375286041189931	Holdout
+Bepipred 3.0	E. coli	MCC	-0.135734686005636	Holdout
+Bepipred 3.0	E. coli	PPV	0.656	Holdout
+Bepipred 3.0	E. coli	NPV	0.215017064846416	Holdout
+Bepipred 3.0	E. coli	Sensitivity	0.262820512820513	Holdout
+Bepipred 3.0	E. coli	Specificity	0.594339622641509	Holdout
+Bepipred 3.0	E. coli	Balanced accuracy	0.428580067731011	Holdout
+Bepipred 3.0	E. coli	Accuracy	0.34688995215311	Holdout
+Bepipred 3.0	Enterobacteriaceae	AUC	0.553897445115602	Holdout
+Bepipred 3.0	Enterobacteriaceae	F1	0.434004474272931	Holdout
+Bepipred 3.0	Enterobacteriaceae	MCC	0.0544340487954579	Holdout
+Bepipred 3.0	Enterobacteriaceae	PPV	0.506527415143603	Holdout
+Bepipred 3.0	Enterobacteriaceae	NPV	0.550354609929078	Holdout
+Bepipred 3.0	Enterobacteriaceae	Sensitivity	0.379647749510763	Holdout
+Bepipred 3.0	Enterobacteriaceae	Specificity	0.672443674176776	Holdout
+Bepipred 3.0	Enterobacteriaceae	Balanced accuracy	0.52604571184377	Holdout
+Bepipred 3.0	Enterobacteriaceae	Accuracy	0.534926470588235	Holdout
+Bepipred 3.0	Lentivirus	AUC	0.580993330993331	Holdout
+Bepipred 3.0	Lentivirus	F1	0.489795918367347	Holdout
+Bepipred 3.0	Lentivirus	MCC	0.37561981149183	Holdout
+Bepipred 3.0	Lentivirus	PPV	1	Holdout
+Bepipred 3.0	Lentivirus	NPV	0.435028248587571	Holdout
+Bepipred 3.0	Lentivirus	Sensitivity	0.324324324324324	Holdout
+Bepipred 3.0	Lentivirus	Specificity	1	Holdout
+Bepipred 3.0	Lentivirus	Balanced accuracy	0.662162162162162	Holdout
+Bepipred 3.0	Lentivirus	Accuracy	0.555555555555556	Holdout
+Bepipred 3.0	M. tuberculosis	AUC	0.555915917532433	Holdout
+Bepipred 3.0	M. tuberculosis	F1	0.254310344827586	Holdout
+Bepipred 3.0	M. tuberculosis	MCC	0.0291429905911864	Holdout
+Bepipred 3.0	M. tuberculosis	PPV	0.552693208430913	Holdout
+Bepipred 3.0	M. tuberculosis	NPV	0.487542955326461	Holdout
+Bepipred 3.0	M. tuberculosis	Sensitivity	0.165150454863541	Holdout
+Bepipred 3.0	M. tuberculosis	Specificity	0.855957767722474	Holdout
+Bepipred 3.0	M. tuberculosis	Balanced accuracy	0.510554111293007	Holdout
+Bepipred 3.0	M. tuberculosis	Accuracy	0.497640653357532	Holdout
+Bepipred 3.0	Orthopoxvirus	AUC	0.727877789046653	Holdout
+Bepipred 3.0	Orthopoxvirus	F1	0.492063492063492	Holdout
+Bepipred 3.0	Orthopoxvirus	MCC	0.374947813936303	Holdout
+Bepipred 3.0	Orthopoxvirus	PPV	0.455882352941177	Holdout
+Bepipred 3.0	Orthopoxvirus	NPV	0.896946564885496	Holdout
+Bepipred 3.0	Orthopoxvirus	Sensitivity	0.53448275862069	Holdout
+Bepipred 3.0	Orthopoxvirus	Specificity	0.863970588235294	Holdout
+Bepipred 3.0	Orthopoxvirus	Balanced accuracy	0.699226673427992	Holdout
+Bepipred 3.0	Orthopoxvirus	Accuracy	0.806060606060606	Holdout
+Bepipred 3.0	P. aeruginosa	AUC	0.960344182566405	Holdout
+Bepipred 3.0	P. aeruginosa	F1	0	Holdout
+Bepipred 3.0	P. aeruginosa	MCC	-0.257563713164464	Holdout
+Bepipred 3.0	P. aeruginosa	PPV	0	Holdout
+Bepipred 3.0	P. aeruginosa	NPV	0.27027027027027	Holdout
+Bepipred 3.0	P. aeruginosa	Sensitivity	0	Holdout
+Bepipred 3.0	P. aeruginosa	Specificity	0.909090909090909	Holdout
+Bepipred 3.0	P. aeruginosa	Balanced accuracy	0.454545454545455	Holdout
+Bepipred 3.0	P. aeruginosa	Accuracy	0.263157894736842	Holdout
+Bepipred 3.0	P. falciparum	AUC	0.675086270310032	Holdout
+Bepipred 3.0	P. falciparum	F1	0.372289156626506	Holdout
+Bepipred 3.0	P. falciparum	MCC	0.118928306120425	Holdout
+Bepipred 3.0	P. falciparum	PPV	0.735714285714286	Holdout
+Bepipred 3.0	P. falciparum	NPV	0.405301820504631	Holdout
+Bepipred 3.0	P. falciparum	Sensitivity	0.249193548387097	Holdout
+Bepipred 3.0	P. falciparum	Specificity	0.851106639839034	Holdout
+Bepipred 3.0	P. falciparum	Balanced accuracy	0.550150094113065	Holdout
+Bepipred 3.0	P. falciparum	Accuracy	0.475195164945857	Holdout
+Bepipred 3.0	SARS-Cov-2	AUC	0.569176483225863	Holdout
+Bepipred 3.0	SARS-Cov-2	F1	0.135759960649287	Holdout
+Bepipred 3.0	SARS-Cov-2	MCC	0.0110957279477823	Holdout
+Bepipred 3.0	SARS-Cov-2	PPV	0.109785202863962	Holdout
+Bepipred 3.0	SARS-Cov-2	NPV	0.899257855676615	Holdout
+Bepipred 3.0	SARS-Cov-2	Sensitivity	0.177835051546392	Holdout
+Bepipred 3.0	SARS-Cov-2	Specificity	0.835779277957147	Holdout
+Bepipred 3.0	SARS-Cov-2	Balanced accuracy	0.506807164751769	Holdout
+Bepipred 3.0	SARS-Cov-2	Accuracy	0.768511198945982	Holdout
+Bepipred 3.0	S. mansoni	AUC	0.559654493977638	Holdout
+Bepipred 3.0	S. mansoni	F1	0.366930917327293	Holdout
+Bepipred 3.0	S. mansoni	MCC	0.126094507336244	Holdout
+Bepipred 3.0	S. mansoni	PPV	0.378504672897196	Holdout
+Bepipred 3.0	S. mansoni	NPV	0.75	Holdout
+Bepipred 3.0	S. mansoni	Sensitivity	0.356043956043956	Holdout
+Bepipred 3.0	S. mansoni	Specificity	0.767685589519651	Holdout
+Bepipred 3.0	S. mansoni	Balanced accuracy	0.561864772781803	Holdout
+Bepipred 3.0	S. mansoni	Accuracy	0.650625	Holdout
+Bepipred 3.0	T. gondii	AUC	0.545588075291046	Holdout
+Bepipred 3.0	T. gondii	F1	0.702830188679245	Holdout
+Bepipred 3.0	T. gondii	MCC	-0.0697346581853435	Holdout
+Bepipred 3.0	T. gondii	PPV	0.671171171171171	Holdout
+Bepipred 3.0	T. gondii	NPV	0.253521126760563	Holdout
+Bepipred 3.0	T. gondii	Sensitivity	0.737623762376238	Holdout
+Bepipred 3.0	T. gondii	Specificity	0.197802197802198	Holdout
+Bepipred 3.0	T. gondii	Balanced accuracy	0.467712980089218	Holdout
+Bepipred 3.0	T. gondii	Accuracy	0.569965870307167	Holdout
+Epidope	C. difficile	AUC	0.74390243902439	Holdout
+Epidope	C. difficile	F1	0	Holdout
+Epidope	C. difficile	MCC	0	Holdout
+Epidope	C. difficile	PPV	0	Holdout
+Epidope	C. difficile	NPV	0.906605922551253	Holdout
+Epidope	C. difficile	Sensitivity	0	Holdout
+Epidope	C. difficile	Specificity	1	Holdout
+Epidope	C. difficile	Balanced accuracy	0.5	Holdout
+Epidope	C. difficile	Accuracy	0.906605922551253	Holdout
+Epidope	C. trachomatis	AUC	0.664815512048193	Holdout
+Epidope	C. trachomatis	F1	0.311377245508982	Holdout
+Epidope	C. trachomatis	MCC	0.136555066755716	Holdout
+Epidope	C. trachomatis	PPV	0.666666666666667	Holdout
+Epidope	C. trachomatis	NPV	0.522248243559719	Holdout
+Epidope	C. trachomatis	Sensitivity	0.203125	Holdout
+Epidope	C. trachomatis	Specificity	0.895582329317269	Holdout
+Epidope	C. trachomatis	Balanced accuracy	0.549353664658635	Holdout
+Epidope	C. trachomatis	Accuracy	0.544554455445545	Holdout
+Epidope	Filoviridae	AUC	0.87725619612069	Holdout
+Epidope	Filoviridae	F1	0.315789473684211	Holdout
+Epidope	Filoviridae	MCC	0.239837648327769	Holdout
+Epidope	Filoviridae	PPV	0.321428571428571	Holdout
+Epidope	Filoviridae	NPV	0.922178988326848	Holdout
+Epidope	Filoviridae	Sensitivity	0.310344827586207	Holdout
+Epidope	Filoviridae	Specificity	0.92578125	Holdout
+Epidope	Filoviridae	Balanced accuracy	0.618063038793103	Holdout
+Epidope	Filoviridae	Accuracy	0.863157894736842	Holdout
+Epidope	Human Gammaherpesvirus 4	AUC	0.617000955109838	Holdout
+Epidope	Human Gammaherpesvirus 4	F1	0.244173140954495	Holdout
+Epidope	Human Gammaherpesvirus 4	MCC	0.0683243058825099	Holdout
+Epidope	Human Gammaherpesvirus 4	PPV	0.541871921182266	Holdout
+Epidope	Human Gammaherpesvirus 4	NPV	0.558558558558559	Holdout
+Epidope	Human Gammaherpesvirus 4	Sensitivity	0.157593123209169	Holdout
+Epidope	Human Gammaherpesvirus 4	Specificity	0.888888888888889	Holdout
+Epidope	Human Gammaherpesvirus 4	Balanced accuracy	0.523241006049029	Holdout
+Epidope	Human Gammaherpesvirus 4	Accuracy	0.556351791530945	Holdout
+Epidope	Influenza A	AUC	0.476834355141233	Holdout
+Epidope	Influenza A	F1	0.206471494607088	Holdout
+Epidope	Influenza A	MCC	0.0540287822349112	Holdout
+Epidope	Influenza A	PPV	0.817073170731707	Holdout
+Epidope	Influenza A	NPV	0.258160237388724	Holdout
+Epidope	Influenza A	Sensitivity	0.118165784832451	Holdout
+Epidope	Influenza A	Specificity	0.920634920634921	Holdout
+Epidope	Influenza A	Balanced accuracy	0.519400352733686	Holdout
+Epidope	Influenza A	Accuracy	0.318783068783069	Holdout
+Epidope	Measles morbilivirus	AUC	0.501164215686275	Holdout
+Epidope	Measles morbilivirus	F1	0.355731225296443	Holdout
+Epidope	Measles morbilivirus	MCC	0.0792939898251419	Holdout
+Epidope	Measles morbilivirus	PPV	0.542168674698795	Holdout
+Epidope	Measles morbilivirus	NPV	0.551971326164875	Holdout
+Epidope	Measles morbilivirus	Sensitivity	0.264705882352941	Holdout
+Epidope	Measles morbilivirus	Specificity	0.802083333333333	Holdout
+Epidope	Measles morbilivirus	Balanced accuracy	0.533394607843137	Holdout
+Epidope	Measles morbilivirus	Accuracy	0.549723756906077	Holdout
+Epidope	Mononegavirales	AUC	0.816635879379956	Holdout
+Epidope	Mononegavirales	F1	0.499388004895961	Holdout
+Epidope	Mononegavirales	MCC	0.335956163624814	Holdout
+Epidope	Mononegavirales	PPV	0.645569620253165	Holdout
+Epidope	Mononegavirales	NPV	0.741963509991312	Holdout
+Epidope	Mononegavirales	Sensitivity	0.407185628742515	Holdout
+Epidope	Mononegavirales	Specificity	0.884057971014493	Holdout
+Epidope	Mononegavirales	Balanced accuracy	0.645621799878504	Holdout
+Epidope	Mononegavirales	Accuracy	0.721199727334697	Holdout
+Epidope	O. volvulus	AUC	0.49526826540893	Holdout
+Epidope	O. volvulus	F1	0.0526315789473684	Holdout
+Epidope	O. volvulus	MCC	-0.0551751230474301	Holdout
+Epidope	O. volvulus	PPV	0.0799999999999999	Holdout
+Epidope	O. volvulus	NPV	0.844514959202176	Holdout
+Epidope	O. volvulus	Sensitivity	0.0392156862745098	Holdout
+Epidope	O. volvulus	Specificity	0.920454545454545	Holdout
+Epidope	O. volvulus	Balanced accuracy	0.479835115864528	Holdout
+Epidope	O. volvulus	Accuracy	0.78832423351533	Holdout
+Epidope	B. pertussis	AUC	0.641299510458389	Holdout
+Epidope	B. pertussis	F1	0.287769784172662	Holdout
+Epidope	B. pertussis	MCC	-0.108242674901111	Holdout
+Epidope	B. pertussis	PPV	0.625	Holdout
+Epidope	B. pertussis	NPV	0.256410256410256	Holdout
+Epidope	B. pertussis	Sensitivity	0.186915887850467	Holdout
+Epidope	B. pertussis	Specificity	0.714285714285714	Holdout
+Epidope	B. pertussis	Balanced accuracy	0.450600801068091	Holdout
+Epidope	B. pertussis	Accuracy	0.335570469798658	Holdout
+Epidope	Corynebacterium	AUC	0.732716049382716	Holdout
+Epidope	Corynebacterium	F1	0.285714285714286	Holdout
+Epidope	Corynebacterium	MCC	0.308606699924184	Holdout
+Epidope	Corynebacterium	PPV	1	Holdout
+Epidope	Corynebacterium	NPV	0.571428571428572	Holdout
+Epidope	Corynebacterium	Sensitivity	0.166666666666667	Holdout
+Epidope	Corynebacterium	Specificity	1	Holdout
+Epidope	Corynebacterium	Balanced accuracy	0.583333333333333	Holdout
+Epidope	Corynebacterium	Accuracy	0.605263157894737	Holdout
+Epidope	E. coli	AUC	0.803912675374939	Holdout
+Epidope	E. coli	F1	0.340425531914894	Holdout
+Epidope	E. coli	MCC	0.24783577202887	Holdout
+Epidope	E. coli	PPV	1	Holdout
+Epidope	E. coli	NPV	0.299435028248588	Holdout
+Epidope	E. coli	Sensitivity	0.205128205128205	Holdout
+Epidope	E. coli	Specificity	1	Holdout
+Epidope	E. coli	Balanced accuracy	0.602564102564103	Holdout
+Epidope	E. coli	Accuracy	0.406698564593301	Holdout
+Epidope	Enterobacteriaceae	AUC	0.612710999264025	Holdout
+Epidope	Enterobacteriaceae	F1	0.187713310580205	Holdout
+Epidope	Enterobacteriaceae	MCC	0.143749929178558	Holdout
+Epidope	Enterobacteriaceae	PPV	0.733333333333333	Holdout
+Epidope	Enterobacteriaceae	NPV	0.549851924975321	Holdout
+Epidope	Enterobacteriaceae	Sensitivity	0.107632093933464	Holdout
+Epidope	Enterobacteriaceae	Specificity	0.965337954939341	Holdout
+Epidope	Enterobacteriaceae	Balanced accuracy	0.536485024436403	Holdout
+Epidope	Enterobacteriaceae	Accuracy	0.5625	Holdout
+Epidope	Lentivirus	AUC	0.552474552474552	Holdout
+Epidope	Lentivirus	F1	0.457399103139013	Holdout
+Epidope	Lentivirus	MCC	0.0331191198082935	Holdout
+Epidope	Lentivirus	PPV	0.68	Holdout
+Epidope	Lentivirus	NPV	0.353333333333333	Holdout
+Epidope	Lentivirus	Sensitivity	0.344594594594595	Holdout
+Epidope	Lentivirus	Specificity	0.688311688311688	Holdout
+Epidope	Lentivirus	Balanced accuracy	0.516453141453141	Holdout
+Epidope	Lentivirus	Accuracy	0.462222222222222	Holdout
+Epidope	M. tuberculosis	AUC	0.519060835293907	Holdout
+Epidope	M. tuberculosis	F1	0.154963680387409	Holdout
+Epidope	M. tuberculosis	MCC	0.0328444308474112	Holdout
+Epidope	M. tuberculosis	PPV	0.573991031390135	Holdout
+Epidope	M. tuberculosis	NPV	0.486176935229068	Holdout
+Epidope	M. tuberculosis	Sensitivity	0.0895731280615815	Holdout
+Epidope	M. tuberculosis	Specificity	0.928355957767723	Holdout
+Epidope	M. tuberculosis	Balanced accuracy	0.508964542914652	Holdout
+Epidope	M. tuberculosis	Accuracy	0.493284936479129	Holdout
+Epidope	Orthopoxvirus	AUC	0.688197261663286	Holdout
+Epidope	Orthopoxvirus	F1	0.350597609561753	Holdout
+Epidope	Orthopoxvirus	MCC	0.162848910736643	Holdout
+Epidope	Orthopoxvirus	PPV	0.227979274611399	Holdout
+Epidope	Orthopoxvirus	NPV	0.897810218978102	Holdout
+Epidope	Orthopoxvirus	Sensitivity	0.758620689655172	Holdout
+Epidope	Orthopoxvirus	Specificity	0.452205882352941	Holdout
+Epidope	Orthopoxvirus	Balanced accuracy	0.605413286004057	Holdout
+Epidope	Orthopoxvirus	Accuracy	0.506060606060606	Holdout
+Epidope	P. aeruginosa	AUC	0.873924429479985	Holdout
+Epidope	P. aeruginosa	F1	0.116279069767442	Holdout
+Epidope	P. aeruginosa	MCC	0.136705571151384	Holdout
+Epidope	P. aeruginosa	PPV	1	Holdout
+Epidope	P. aeruginosa	NPV	0.302752293577982	Holdout
+Epidope	P. aeruginosa	Sensitivity	0.0617283950617284	Holdout
+Epidope	P. aeruginosa	Specificity	1	Holdout
+Epidope	P. aeruginosa	Balanced accuracy	0.530864197530864	Holdout
+Epidope	P. aeruginosa	Accuracy	0.333333333333333	Holdout
+Epidope	P. falciparum	AUC	0.602721706583588	Holdout
+Epidope	P. falciparum	F1	0.431426985008329	Holdout
+Epidope	P. falciparum	MCC	0.0881052919271374	Holdout
+Epidope	P. falciparum	PPV	0.692513368983957	Holdout
+Epidope	P. falciparum	NPV	0.402246402246402	Holdout
+Epidope	P. falciparum	Sensitivity	0.313306451612903	Holdout
+Epidope	P. falciparum	Specificity	0.768611670020121	Holdout
+Epidope	P. falciparum	Balanced accuracy	0.540959060816512	Holdout
+Epidope	P. falciparum	Accuracy	0.484260891463108	Holdout
+Epidope	SARS-Cov-2	AUC	0.596568730539611	Holdout
+Epidope	SARS-Cov-2	F1	0.261627906976744	Holdout
+Epidope	SARS-Cov-2	MCC	0.169316106753455	Holdout
+Epidope	SARS-Cov-2	PPV	0.238347457627119	Holdout
+Epidope	SARS-Cov-2	NPV	0.917092988263617	Holdout
+Epidope	SARS-Cov-2	Sensitivity	0.289948453608247	Holdout
+Epidope	SARS-Cov-2	Specificity	0.894481948928676	Holdout
+Epidope	SARS-Cov-2	Balanced accuracy	0.592215201268462	Holdout
+Epidope	SARS-Cov-2	Accuracy	0.832674571805007	Holdout
+Epidope	S. mansoni	AUC	0.671993857670714	Holdout
+Epidope	S. mansoni	F1	0.369791666666667	Holdout
+Epidope	S. mansoni	MCC	0.185075589179134	Holdout
+Epidope	S. mansoni	PPV	0.453674121405751	Holdout
+Epidope	S. mansoni	NPV	0.756798756798757	Holdout
+Epidope	S. mansoni	Sensitivity	0.312087912087912	Holdout
+Epidope	S. mansoni	Specificity	0.850655021834061	Holdout
+Epidope	S. mansoni	Balanced accuracy	0.581371466960987	Holdout
+Epidope	S. mansoni	Accuracy	0.6975	Holdout
+Epidope	T. gondii	AUC	0.533511043412033	Holdout
+Epidope	T. gondii	F1	0.29718875502008	Holdout
+Epidope	T. gondii	MCC	0.0923963323439238	Holdout
+Epidope	T. gondii	PPV	0.787234042553191	Holdout
+Epidope	T. gondii	NPV	0.329268292682927	Holdout
+Epidope	T. gondii	Sensitivity	0.183168316831683	Holdout
+Epidope	T. gondii	Specificity	0.89010989010989	Holdout
+Epidope	T. gondii	Balanced accuracy	0.536639103470787	Holdout
+Epidope	T. gondii	Accuracy	0.402730375426621	Holdout
+Epitope1D	C. difficile	AUC	0.459829635984802	Holdout
+Epitope1D	C. difficile	F1	0.193181818181818	Holdout
+Epitope1D	C. difficile	MCC	0.0853376378813374	Holdout
+Epitope1D	C. difficile	PPV	0.109324758842444	Holdout
+Epitope1D	C. difficile	NPV	0.9453125	Holdout
+Epitope1D	C. difficile	Sensitivity	0.829268292682927	Holdout
+Epitope1D	C. difficile	Specificity	0.304020100502513	Holdout
+Epitope1D	C. difficile	Balanced accuracy	0.56664419659272	Holdout
+Epitope1D	C. difficile	Accuracy	0.353075170842825	Holdout
+Epitope1D	C. trachomatis	AUC	0.706725338855422	Holdout
+Epitope1D	C. trachomatis	F1	0.373563218390805	Holdout
+Epitope1D	C. trachomatis	MCC	0.188422023770674	Holdout
+Epitope1D	C. trachomatis	PPV	0.706521739130435	Holdout
+Epitope1D	C. trachomatis	NPV	0.537530266343826	Holdout
+Epitope1D	C. trachomatis	Sensitivity	0.25390625	Holdout
+Epitope1D	C. trachomatis	Specificity	0.891566265060241	Holdout
+Epitope1D	C. trachomatis	Balanced accuracy	0.57273625753012	Holdout
+Epitope1D	C. trachomatis	Accuracy	0.568316831683168	Holdout
+Epitope1D	Filoviridae	AUC	0.856899919181034	Holdout
+Epitope1D	Filoviridae	F1	0.455555555555555	Holdout
+Epitope1D	Filoviridae	MCC	0.404445318122666	Holdout
+Epitope1D	Filoviridae	PPV	0.336065573770492	Holdout
+Epitope1D	Filoviridae	NPV	0.962053571428571	Holdout
+Epitope1D	Filoviridae	Sensitivity	0.706896551724138	Holdout
+Epitope1D	Filoviridae	Specificity	0.841796875	Holdout
+Epitope1D	Filoviridae	Balanced accuracy	0.774346713362069	Holdout
+Epitope1D	Filoviridae	Accuracy	0.828070175438597	Holdout
+Epitope1D	Human Gammaherpesvirus 4	AUC	0.636109998527967	Holdout
+Epitope1D	Human Gammaherpesvirus 4	F1	0.608310249307479	Holdout
+Epitope1D	Human Gammaherpesvirus 4	MCC	0.133104209189421	Holdout
+Epitope1D	Human Gammaherpesvirus 4	PPV	0.495934959349594	Holdout
+Epitope1D	Human Gammaherpesvirus 4	NPV	0.651869158878505	Holdout
+Epitope1D	Human Gammaherpesvirus 4	Sensitivity	0.786532951289398	Holdout
+Epitope1D	Human Gammaherpesvirus 4	Specificity	0.333333333333333	Holdout
+Epitope1D	Human Gammaherpesvirus 4	Balanced accuracy	0.559933142311366	Holdout
+Epitope1D	Human Gammaherpesvirus 4	Accuracy	0.539413680781759	Holdout
+Epitope1D	Influenza A	AUC	0.465645791924451	Holdout
+Epitope1D	Influenza A	F1	0.497584541062802	Holdout
+Epitope1D	Influenza A	MCC	0.0658567623663181	Holdout
+Epitope1D	Influenza A	PPV	0.789272030651341	Holdout
+Epitope1D	Influenza A	NPV	0.270707070707071	Holdout
+Epitope1D	Influenza A	Sensitivity	0.36331569664903	Holdout
+Epitope1D	Influenza A	Specificity	0.708994708994709	Holdout
+Epitope1D	Influenza A	Balanced accuracy	0.536155202821869	Holdout
+Epitope1D	Influenza A	Accuracy	0.44973544973545	Holdout
+Epitope1D	Measles morbilivirus	AUC	0.616681985294118	Holdout
+Epitope1D	Measles morbilivirus	F1	0.028169014084507	Holdout
+Epitope1D	Measles morbilivirus	MCC	-0.294147349647395	Holdout
+Epitope1D	Measles morbilivirus	PPV	0.0697674418604651	Holdout
+Epitope1D	Measles morbilivirus	NPV	0.476489028213166	Holdout
+Epitope1D	Measles morbilivirus	Sensitivity	0.0176470588235294	Holdout
+Epitope1D	Measles morbilivirus	Specificity	0.791666666666667	Holdout
+Epitope1D	Measles morbilivirus	Balanced accuracy	0.404656862745098	Holdout
+Epitope1D	Measles morbilivirus	Accuracy	0.428176795580111	Holdout
+Epitope1D	Mononegavirales	AUC	0.606526078278226	Holdout
+Epitope1D	Mononegavirales	F1	0.494325346784363	Holdout
+Epitope1D	Mononegavirales	MCC	0.346609070526652	Holdout
+Epitope1D	Mononegavirales	PPV	0.671232876712329	Holdout
+Epitope1D	Mononegavirales	NPV	0.740425531914894	Holdout
+Epitope1D	Mononegavirales	Sensitivity	0.391217564870259	Holdout
+Epitope1D	Mononegavirales	Specificity	0.900621118012422	Holdout
+Epitope1D	Mononegavirales	Balanced accuracy	0.645919341441341	Holdout
+Epitope1D	Mononegavirales	Accuracy	0.7266530334015	Holdout
+Epitope1D	O. volvulus	AUC	0.701185909146267	Holdout
+Epitope1D	O. volvulus	F1	0.267365661861075	Holdout
+Epitope1D	O. volvulus	MCC	0.128642797530494	Holdout
+Epitope1D	O. volvulus	PPV	0.251231527093596	Holdout
+Epitope1D	O. volvulus	NPV	0.870886075949367	Holdout
+Epitope1D	O. volvulus	Sensitivity	0.285714285714286	Holdout
+Epitope1D	O. volvulus	Specificity	0.849802371541502	Holdout
+Epitope1D	O. volvulus	Balanced accuracy	0.567758328627894	Holdout
+Epitope1D	O. volvulus	Accuracy	0.76522469550609	Holdout
+Epitope1D	B. pertussis	AUC	0.674232309746328	Holdout
+Epitope1D	B. pertussis	F1	0.554838709677419	Holdout
+Epitope1D	B. pertussis	MCC	0.272300043634626	Holdout
+Epitope1D	B. pertussis	PPV	0.895833333333333	Holdout
+Epitope1D	B. pertussis	NPV	0.366336633663366	Holdout
+Epitope1D	B. pertussis	Sensitivity	0.401869158878505	Holdout
+Epitope1D	B. pertussis	Specificity	0.880952380952381	Holdout
+Epitope1D	B. pertussis	Balanced accuracy	0.641410769915443	Holdout
+Epitope1D	B. pertussis	Accuracy	0.536912751677852	Holdout
+Epitope1D	Corynebacterium	AUC	0.512808641975309	Holdout
+Epitope1D	Corynebacterium	F1	0.45	Holdout
+Epitope1D	Corynebacterium	MCC	-0.151694969054229	Holdout
+Epitope1D	Corynebacterium	PPV	0.409090909090909	Holdout
+Epitope1D	Corynebacterium	NPV	0.4375	Holdout
+Epitope1D	Corynebacterium	Sensitivity	0.5	Holdout
+Epitope1D	Corynebacterium	Specificity	0.35	Holdout
+Epitope1D	Corynebacterium	Balanced accuracy	0.425	Holdout
+Epitope1D	Corynebacterium	Accuracy	0.421052631578947	Holdout
+Epitope1D	E. coli	AUC	0.482855587808418	Holdout
+Epitope1D	E. coli	F1	0.416243654822335	Holdout
+Epitope1D	E. coli	MCC	0.287947241979523	Holdout
+Epitope1D	E. coli	PPV	1	Holdout
+Epitope1D	E. coli	NPV	0.31547619047619	Holdout
+Epitope1D	E. coli	Sensitivity	0.262820512820513	Holdout
+Epitope1D	E. coli	Specificity	1	Holdout
+Epitope1D	E. coli	Balanced accuracy	0.631410256410256	Holdout
+Epitope1D	E. coli	Accuracy	0.449760765550239	Holdout
+Epitope1D	Enterobacteriaceae	AUC	0.558321773665664	Holdout
+Epitope1D	Enterobacteriaceae	F1	0.406403940886699	Holdout
+Epitope1D	Enterobacteriaceae	MCC	0.097278354032169	Holdout
+Epitope1D	Enterobacteriaceae	PPV	0.548172757475083	Holdout
+Epitope1D	Enterobacteriaceae	NPV	0.560355781448539	Holdout
+Epitope1D	Enterobacteriaceae	Sensitivity	0.322896281800391	Holdout
+Epitope1D	Enterobacteriaceae	Specificity	0.764298093587522	Holdout
+Epitope1D	Enterobacteriaceae	Balanced accuracy	0.543597187693956	Holdout
+Epitope1D	Enterobacteriaceae	Accuracy	0.556985294117647	Holdout
+Epitope1D	Lentivirus	AUC	0.484906984906985	Holdout
+Epitope1D	Lentivirus	F1	0.461538461538462	Holdout
+Epitope1D	Lentivirus	MCC	0.180762113745804	Holdout
+Epitope1D	Lentivirus	PPV	0.8	Holdout
+Epitope1D	Lentivirus	NPV	0.393939393939394	Holdout
+Epitope1D	Lentivirus	Sensitivity	0.324324324324324	Holdout
+Epitope1D	Lentivirus	Specificity	0.844155844155844	Holdout
+Epitope1D	Lentivirus	Balanced accuracy	0.584240084240084	Holdout
+Epitope1D	Lentivirus	Accuracy	0.502222222222222	Holdout
+Epitope1D	M. tuberculosis	AUC	0.521556278214575	Holdout
+Epitope1D	M. tuberculosis	F1	0.576354679802956	Holdout
+Epitope1D	M. tuberculosis	MCC	-0.0115085162864272	Holdout
+Epitope1D	M. tuberculosis	PPV	0.51456844420011	Holdout
+Epitope1D	M. tuberculosis	NPV	0.473290598290598	Holdout
+Epitope1D	M. tuberculosis	Sensitivity	0.655003498950315	Holdout
+Epitope1D	M. tuberculosis	Specificity	0.334087481146305	Holdout
+Epitope1D	M. tuberculosis	Balanced accuracy	0.49454549004831	Holdout
+Epitope1D	M. tuberculosis	Accuracy	0.5005444646098	Holdout
+Epitope1D	Orthopoxvirus	AUC	0.512709178498986	Holdout
+Epitope1D	Orthopoxvirus	F1	0.32	Holdout
+Epitope1D	Orthopoxvirus	MCC	0.102761657221085	Holdout
+Epitope1D	Orthopoxvirus	PPV	0.194756554307116	Holdout
+Epitope1D	Orthopoxvirus	NPV	0.904761904761905	Holdout
+Epitope1D	Orthopoxvirus	Sensitivity	0.896551724137931	Holdout
+Epitope1D	Orthopoxvirus	Specificity	0.209558823529412	Holdout
+Epitope1D	Orthopoxvirus	Balanced accuracy	0.553055273833671	Holdout
+Epitope1D	Orthopoxvirus	Accuracy	0.33030303030303	Holdout
+Epitope1D	P. aeruginosa	AUC	0.460905349794239	Holdout
+Epitope1D	P. aeruginosa	F1	0.2	Holdout
+Epitope1D	P. aeruginosa	MCC	-0.181649753637689	Holdout
+Epitope1D	P. aeruginosa	PPV	0.526315789473684	Holdout
+Epitope1D	P. aeruginosa	NPV	0.252631578947368	Holdout
+Epitope1D	P. aeruginosa	Sensitivity	0.123456790123457	Holdout
+Epitope1D	P. aeruginosa	Specificity	0.727272727272727	Holdout
+Epitope1D	P. aeruginosa	Balanced accuracy	0.425364758698092	Holdout
+Epitope1D	P. aeruginosa	Accuracy	0.298245614035088	Holdout
+Epitope1D	P. falciparum	AUC	0.507809085696978	Holdout
+Epitope1D	P. falciparum	F1	0.724569901453148	Holdout
+Epitope1D	P. falciparum	MCC	-0.0343506590337016	Holdout
+Epitope1D	P. falciparum	PPV	0.618477331052181	Holdout
+Epitope1D	P. falciparum	NPV	0.329741379310345	Holdout
+Epitope1D	P. falciparum	Sensitivity	0.874596774193548	Holdout
+Epitope1D	P. falciparum	Specificity	0.10261569416499	Holdout
+Epitope1D	P. falciparum	Balanced accuracy	0.488606234179269	Holdout
+Epitope1D	P. falciparum	Accuracy	0.584739360362629	Holdout
+Epitope1D	SARS-Cov-2	AUC	0.567556345118987	Holdout
+Epitope1D	SARS-Cov-2	F1	0.133333333333333	Holdout
+Epitope1D	SARS-Cov-2	MCC	0.0904566952566268	Holdout
+Epitope1D	SARS-Cov-2	PPV	0.236842105263158	Holdout
+Epitope1D	SARS-Cov-2	NPV	0.902896551724138	Holdout
+Epitope1D	SARS-Cov-2	Sensitivity	0.0927835051546392	Holdout
+Epitope1D	SARS-Cov-2	Specificity	0.965771614045441	Holdout
+Epitope1D	SARS-Cov-2	Balanced accuracy	0.52927755960004	Holdout
+Epitope1D	SARS-Cov-2	Accuracy	0.876092136616362	Holdout
+Epitope1D	S. mansoni	AUC	0.581800470272086	Holdout
+Epitope1D	S. mansoni	F1	0.261904761904762	Holdout
+Epitope1D	S. mansoni	MCC	-0.0376555799373375	Holdout
+Epitope1D	S. mansoni	PPV	0.257995735607676	Holdout
+Epitope1D	S. mansoni	NPV	0.704686118479222	Holdout
+Epitope1D	S. mansoni	Sensitivity	0.265934065934066	Holdout
+Epitope1D	S. mansoni	Specificity	0.696069868995633	Holdout
+Epitope1D	S. mansoni	Balanced accuracy	0.48100196746485	Holdout
+Epitope1D	S. mansoni	Accuracy	0.57375	Holdout
+Epitope1D	T. gondii	AUC	0.618811881188119	Holdout
+Epitope1D	T. gondii	F1	0.736363636363636	Holdout
+Epitope1D	T. gondii	MCC	-0.039324538161817	Holdout
+Epitope1D	T. gondii	PPV	0.680672268907563	Holdout
+Epitope1D	T. gondii	NPV	0.272727272727273	Holdout
+Epitope1D	T. gondii	Sensitivity	0.801980198019802	Holdout
+Epitope1D	T. gondii	Specificity	0.164835164835165	Holdout
+Epitope1D	T. gondii	Balanced accuracy	0.483407681427483	Holdout
+Epitope1D	T. gondii	Accuracy	0.604095563139932	Holdout
+EpitopeTransfer	C. difficile	AUC	0.706520406912612	Holdout
+EpitopeTransfer	C. difficile	F1	0.236111111111111	Holdout
+EpitopeTransfer	C. difficile	MCC	0.172511556860175	Holdout
+EpitopeTransfer	C. difficile	PPV	0.137651821862348	Holdout
+EpitopeTransfer	C. difficile	NPV	0.963541666666667	Holdout
+EpitopeTransfer	C. difficile	Sensitivity	0.829268292682927	Holdout
+EpitopeTransfer	C. difficile	Specificity	0.464824120603015	Holdout
+EpitopeTransfer	C. difficile	Balanced accuracy	0.647046206642971	Holdout
+EpitopeTransfer	C. difficile	Accuracy	0.498861047835991	Holdout
+EpitopeTransfer	C. trachomatis	AUC	0.773421812248996	Holdout
+EpitopeTransfer	C. trachomatis	F1	0.716599190283401	Holdout
+EpitopeTransfer	C. trachomatis	MCC	0.447121288823959	Holdout
+EpitopeTransfer	C. trachomatis	PPV	0.743697478991597	Holdout
+EpitopeTransfer	C. trachomatis	NPV	0.704119850187266	Holdout
+EpitopeTransfer	C. trachomatis	Sensitivity	0.69140625	Holdout
+EpitopeTransfer	C. trachomatis	Specificity	0.755020080321285	Holdout
+EpitopeTransfer	C. trachomatis	Balanced accuracy	0.723213165160643	Holdout
+EpitopeTransfer	C. trachomatis	Accuracy	0.722772277227723	Holdout
+EpitopeTransfer	Filoviridae	AUC	0.971612338362069	Holdout
+EpitopeTransfer	Filoviridae	F1	0.780141843971631	Holdout
+EpitopeTransfer	Filoviridae	MCC	0.765919196345281	Holdout
+EpitopeTransfer	Filoviridae	PPV	0.662650602409638	Holdout
+EpitopeTransfer	Filoviridae	NPV	0.993839835728953	Holdout
+EpitopeTransfer	Filoviridae	Sensitivity	0.948275862068966	Holdout
+EpitopeTransfer	Filoviridae	Specificity	0.9453125	Holdout
+EpitopeTransfer	Filoviridae	Balanced accuracy	0.946794181034483	Holdout
+EpitopeTransfer	Filoviridae	Accuracy	0.945614035087719	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	AUC	0.593038481683458	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	F1	0.444015444015444	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	MCC	0.240911452563318	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	PPV	0.680473372781065	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	NPV	0.609022556390977	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	Sensitivity	0.329512893982808	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	Specificity	0.870967741935484	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	Balanced accuracy	0.600240317959146	Holdout
+EpitopeTransfer	Human Gammaherpesvirus 4	Accuracy	0.624755700325733	Holdout
+EpitopeTransfer	Influenza A	AUC	0.755717925030094	Holdout
+EpitopeTransfer	Influenza A	F1	0.817950889077053	Holdout
+EpitopeTransfer	Influenza A	MCC	0.175976033435571	Holdout
+EpitopeTransfer	Influenza A	PPV	0.786644951140065	Holdout
+EpitopeTransfer	Influenza A	NPV	0.408450704225352	Holdout
+EpitopeTransfer	Influenza A	Sensitivity	0.851851851851852	Holdout
+EpitopeTransfer	Influenza A	Specificity	0.306878306878307	Holdout
+EpitopeTransfer	Influenza A	Balanced accuracy	0.579365079365079	Holdout
+EpitopeTransfer	Influenza A	Accuracy	0.715608465608466	Holdout
+EpitopeTransfer	Measles morbilivirus	AUC	0.686121323529412	Holdout
+EpitopeTransfer	Measles morbilivirus	F1	0.69060773480663	Holdout
+EpitopeTransfer	Measles morbilivirus	MCC	0.386335784313726	Holdout
+EpitopeTransfer	Measles morbilivirus	PPV	0.651041666666667	Holdout
+EpitopeTransfer	Measles morbilivirus	NPV	0.735294117647059	Holdout
+EpitopeTransfer	Measles morbilivirus	Sensitivity	0.735294117647059	Holdout
+EpitopeTransfer	Measles morbilivirus	Specificity	0.651041666666667	Holdout
+EpitopeTransfer	Measles morbilivirus	Balanced accuracy	0.693167892156863	Holdout
+EpitopeTransfer	Measles morbilivirus	Accuracy	0.69060773480663	Holdout
+EpitopeTransfer	Mononegavirales	AUC	0.725381535066513	Holdout
+EpitopeTransfer	Mononegavirales	F1	0.565074135090609	Holdout
+EpitopeTransfer	Mononegavirales	MCC	0.286167160029344	Holdout
+EpitopeTransfer	Mononegavirales	PPV	0.481065918653576	Holdout
+EpitopeTransfer	Mononegavirales	NPV	0.790450928381963	Holdout
+EpitopeTransfer	Mononegavirales	Sensitivity	0.684630738522954	Holdout
+EpitopeTransfer	Mononegavirales	Specificity	0.616977225672878	Holdout
+EpitopeTransfer	Mononegavirales	Balanced accuracy	0.650803982097916	Holdout
+EpitopeTransfer	Mononegavirales	Accuracy	0.640081799591002	Holdout
+EpitopeTransfer	O. volvulus	AUC	0.626022741112255	Holdout
+EpitopeTransfer	O. volvulus	F1	0.362179487179487	Holdout
+EpitopeTransfer	O. volvulus	MCC	0.272042861609763	Holdout
+EpitopeTransfer	O. volvulus	PPV	0.423220973782772	Holdout
+EpitopeTransfer	O. volvulus	NPV	0.884578997161779	Holdout
+EpitopeTransfer	O. volvulus	Sensitivity	0.316526610644258	Holdout
+EpitopeTransfer	O. volvulus	Specificity	0.923913043478261	Holdout
+EpitopeTransfer	O. volvulus	Balanced accuracy	0.620219827061259	Holdout
+EpitopeTransfer	O. volvulus	Accuracy	0.832843343133137	Holdout
+EpitopeTransfer	B. pertussis	AUC	0.554517133956386	Holdout
+EpitopeTransfer	B. pertussis	F1	0.8359375	Holdout
+EpitopeTransfer	B. pertussis	MCC	0	Holdout
+EpitopeTransfer	B. pertussis	PPV	0.718120805369127	Holdout
+EpitopeTransfer	B. pertussis	NPV	0	Holdout
+EpitopeTransfer	B. pertussis	Sensitivity	1	Holdout
+EpitopeTransfer	B. pertussis	Specificity	0	Holdout
+EpitopeTransfer	B. pertussis	Balanced accuracy	0.5	Holdout
+EpitopeTransfer	B. pertussis	Accuracy	0.718120805369127	Holdout
+EpitopeTransfer	Corynebacterium	AUC	0.768827160493827	Holdout
+EpitopeTransfer	Corynebacterium	F1	0.707070707070707	Holdout
+EpitopeTransfer	Corynebacterium	MCC	0.49183710666061	Holdout
+EpitopeTransfer	Corynebacterium	PPV	0.777777777777778	Holdout
+EpitopeTransfer	Corynebacterium	NPV	0.72463768115942	Holdout
+EpitopeTransfer	Corynebacterium	Sensitivity	0.648148148148148	Holdout
+EpitopeTransfer	Corynebacterium	Specificity	0.833333333333333	Holdout
+EpitopeTransfer	Corynebacterium	Balanced accuracy	0.740740740740741	Holdout
+EpitopeTransfer	Corynebacterium	Accuracy	0.745614035087719	Holdout
+EpitopeTransfer	E. coli	AUC	0.853259554910498	Holdout
+EpitopeTransfer	E. coli	F1	0.872370266479663	Holdout
+EpitopeTransfer	E. coli	MCC	0.325406771440337	Holdout
+EpitopeTransfer	E. coli	PPV	0.775561097256858	Holdout
+EpitopeTransfer	E. coli	NPV	0.941176470588236	Holdout
+EpitopeTransfer	E. coli	Sensitivity	0.996794871794872	Holdout
+EpitopeTransfer	E. coli	Specificity	0.150943396226415	Holdout
+EpitopeTransfer	E. coli	Balanced accuracy	0.573869134010643	Holdout
+EpitopeTransfer	E. coli	Accuracy	0.782296650717703	Holdout
+EpitopeTransfer	Enterobacteriaceae	AUC	0.825584116507884	Holdout
+EpitopeTransfer	Enterobacteriaceae	F1	0.738377392889699	Holdout
+EpitopeTransfer	Enterobacteriaceae	MCC	0.479421182379271	Holdout
+EpitopeTransfer	Enterobacteriaceae	PPV	0.691126279863481	Holdout
+EpitopeTransfer	Enterobacteriaceae	NPV	0.788844621513944	Holdout
+EpitopeTransfer	Enterobacteriaceae	Sensitivity	0.792563600782779	Holdout
+EpitopeTransfer	Enterobacteriaceae	Specificity	0.68630849220104	Holdout
+EpitopeTransfer	Enterobacteriaceae	Balanced accuracy	0.739436046491909	Holdout
+EpitopeTransfer	Enterobacteriaceae	Accuracy	0.736213235294118	Holdout
+EpitopeTransfer	Lentivirus	AUC	0.789048789048789	Holdout
+EpitopeTransfer	Lentivirus	F1	0.925	Holdout
+EpitopeTransfer	Lentivirus	MCC	0.769589628905795	Holdout
+EpitopeTransfer	Lentivirus	PPV	0.86046511627907	Holdout
+EpitopeTransfer	Lentivirus	NPV	1	Holdout
+EpitopeTransfer	Lentivirus	Sensitivity	1	Holdout
+EpitopeTransfer	Lentivirus	Specificity	0.688311688311688	Holdout
+EpitopeTransfer	Lentivirus	Balanced accuracy	0.844155844155844	Holdout
+EpitopeTransfer	Lentivirus	Accuracy	0.893333333333333	Holdout
+EpitopeTransfer	M. tuberculosis	AUC	0.522180072976599	Holdout
+EpitopeTransfer	M. tuberculosis	F1	0.58593054318789	Holdout
+EpitopeTransfer	M. tuberculosis	MCC	-0.0306635517105727	Holdout
+EpitopeTransfer	M. tuberculosis	PPV	0.508762886597938	Holdout
+EpitopeTransfer	M. tuberculosis	NPV	0.457668711656442	Holdout
+EpitopeTransfer	M. tuberculosis	Sensitivity	0.690692792162351	Holdout
+EpitopeTransfer	M. tuberculosis	Specificity	0.281297134238311	Holdout
+EpitopeTransfer	M. tuberculosis	Balanced accuracy	0.485994963200331	Holdout
+EpitopeTransfer	M. tuberculosis	Accuracy	0.493647912885662	Holdout
+EpitopeTransfer	Orthopoxvirus	AUC	0.69757860040568	Holdout
+EpitopeTransfer	Orthopoxvirus	F1	0.442105263157895	Holdout
+EpitopeTransfer	Orthopoxvirus	MCC	0.365812086013634	Holdout
+EpitopeTransfer	Orthopoxvirus	PPV	0.567567567567568	Holdout
+EpitopeTransfer	Orthopoxvirus	NPV	0.873720136518771	Holdout
+EpitopeTransfer	Orthopoxvirus	Sensitivity	0.362068965517241	Holdout
+EpitopeTransfer	Orthopoxvirus	Specificity	0.941176470588235	Holdout
+EpitopeTransfer	Orthopoxvirus	Balanced accuracy	0.651622718052738	Holdout
+EpitopeTransfer	Orthopoxvirus	Accuracy	0.839393939393939	Holdout
+EpitopeTransfer	P. aeruginosa	AUC	0.72053872053872	Holdout
+EpitopeTransfer	P. aeruginosa	F1	0.835051546391753	Holdout
+EpitopeTransfer	P. aeruginosa	MCC	0.147382635309143	Holdout
+EpitopeTransfer	P. aeruginosa	PPV	0.716814159292035	Holdout
+EpitopeTransfer	P. aeruginosa	NPV	1	Holdout
+EpitopeTransfer	P. aeruginosa	Sensitivity	1	Holdout
+EpitopeTransfer	P. aeruginosa	Specificity	0.0303030303030303	Holdout
+EpitopeTransfer	P. aeruginosa	Balanced accuracy	0.515151515151515	Holdout
+EpitopeTransfer	P. aeruginosa	Accuracy	0.719298245614035	Holdout
+EpitopeTransfer	P. falciparum	AUC	0.81044911944787	Holdout
+EpitopeTransfer	P. falciparum	F1	0.826028190770419	Holdout
+EpitopeTransfer	P. falciparum	MCC	0.505325441216076	Holdout
+EpitopeTransfer	P. falciparum	PPV	0.792515746572805	Holdout
+EpitopeTransfer	P. falciparum	NPV	0.731918238993711	Holdout
+EpitopeTransfer	P. falciparum	Sensitivity	0.8625	Holdout
+EpitopeTransfer	P. falciparum	Specificity	0.624413145539906	Holdout
+EpitopeTransfer	P. falciparum	Balanced accuracy	0.743456572769953	Holdout
+EpitopeTransfer	P. falciparum	Accuracy	0.773105011332158	Holdout
+EpitopeTransfer	SARS-Cov-2	AUC	0.547382832948538	Holdout
+EpitopeTransfer	SARS-Cov-2	F1	0.119844357976654	Holdout
+EpitopeTransfer	SARS-Cov-2	MCC	0.0433957627630588	Holdout
+EpitopeTransfer	SARS-Cov-2	PPV	0.151277013752456	Holdout
+EpitopeTransfer	SARS-Cov-2	NPV	0.901285129219037	Holdout
+EpitopeTransfer	SARS-Cov-2	Sensitivity	0.0992268041237113	Holdout
+EpitopeTransfer	SARS-Cov-2	Specificity	0.936601115350748	Holdout
+EpitopeTransfer	SARS-Cov-2	Balanced accuracy	0.51791395973723	Holdout
+EpitopeTransfer	SARS-Cov-2	Accuracy	0.85098814229249	Holdout
+EpitopeTransfer	S. mansoni	AUC	0.556675464273718	Holdout
+EpitopeTransfer	S. mansoni	F1	0.437463641652123	Holdout
+EpitopeTransfer	S. mansoni	MCC	0.0562945514980207	Holdout
+EpitopeTransfer	S. mansoni	PPV	0.29746835443038	Holdout
+EpitopeTransfer	S. mansoni	NPV	0.764880952380952	Holdout
+EpitopeTransfer	S. mansoni	Sensitivity	0.826373626373626	Holdout
+EpitopeTransfer	S. mansoni	Specificity	0.224454148471616	Holdout
+EpitopeTransfer	S. mansoni	Balanced accuracy	0.525413887422621	Holdout
+EpitopeTransfer	S. mansoni	Accuracy	0.395625	Holdout
+EpitopeTransfer	T. gondii	AUC	0.705363942987705	Holdout
+EpitopeTransfer	T. gondii	F1	0.81057268722467	Holdout
+EpitopeTransfer	T. gondii	MCC	0.218267589534157	Holdout
+EpitopeTransfer	T. gondii	PPV	0.73015873015873	Holdout
+EpitopeTransfer	T. gondii	NPV	0.560975609756098	Holdout
+EpitopeTransfer	T. gondii	Sensitivity	0.910891089108911	Holdout
+EpitopeTransfer	T. gondii	Specificity	0.252747252747253	Holdout
+EpitopeTransfer	T. gondii	Balanced accuracy	0.581819170928082	Holdout
+EpitopeTransfer	T. gondii	Accuracy	0.706484641638225	Holdout
+EpitopeVec	C. difficile	AUC	0.850900845691874	Holdout
+EpitopeVec	C. difficile	F1	0.281786941580756	Holdout
+EpitopeVec	C. difficile	MCC	0.279068803317255	Holdout
+EpitopeVec	C. difficile	PPV	0.164	Holdout
+EpitopeVec	C. difficile	NPV	1	Holdout
+EpitopeVec	C. difficile	Sensitivity	1	Holdout
+EpitopeVec	C. difficile	Specificity	0.474874371859296	Holdout
+EpitopeVec	C. difficile	Balanced accuracy	0.737437185929648	Holdout
+EpitopeVec	C. difficile	Accuracy	0.523917995444191	Holdout
+EpitopeVec	C. trachomatis	AUC	0.716843938253012	Holdout
+EpitopeVec	C. trachomatis	F1	0.623700623700624	Holdout
+EpitopeVec	C. trachomatis	MCC	0.286409024729244	Holdout
+EpitopeVec	C. trachomatis	PPV	0.666666666666667	Holdout
+EpitopeVec	C. trachomatis	NPV	0.621428571428571	Holdout
+EpitopeVec	C. trachomatis	Sensitivity	0.5859375	Holdout
+EpitopeVec	C. trachomatis	Specificity	0.698795180722892	Holdout
+EpitopeVec	C. trachomatis	Balanced accuracy	0.642366340361446	Holdout
+EpitopeVec	C. trachomatis	Accuracy	0.641584158415842	Holdout
+EpitopeVec	Filoviridae	AUC	0.752104660560345	Holdout
+EpitopeVec	Filoviridae	F1	0.271386430678466	Holdout
+EpitopeVec	Filoviridae	MCC	0.202045026358531	Holdout
+EpitopeVec	Filoviridae	PPV	0.163701067615658	Holdout
+EpitopeVec	Filoviridae	NPV	0.958477508650519	Holdout
+EpitopeVec	Filoviridae	Sensitivity	0.793103448275862	Holdout
+EpitopeVec	Filoviridae	Specificity	0.541015625	Holdout
+EpitopeVec	Filoviridae	Balanced accuracy	0.667059536637931	Holdout
+EpitopeVec	Filoviridae	Accuracy	0.566666666666667	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	AUC	0.559555719875528	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	F1	0.507607192254495	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	MCC	0.0703235169263604	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	PPV	0.490641711229946	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	NPV	0.579415501905972	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	Sensitivity	0.525787965616046	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	Specificity	0.544802867383513	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	Balanced accuracy	0.535295416499779	Holdout
+EpitopeVec	Human Gammaherpesvirus 4	Accuracy	0.536156351791531	Holdout
+EpitopeVec	Influenza A	AUC	0.630114871737447	Holdout
+EpitopeVec	Influenza A	F1	0.797927461139896	Holdout
+EpitopeVec	Influenza A	MCC	0.138664382975527	Holdout
+EpitopeVec	Influenza A	PPV	0.781725888324873	Holdout
+EpitopeVec	Influenza A	NPV	0.363636363636364	Holdout
+EpitopeVec	Influenza A	Sensitivity	0.814814814814815	Holdout
+EpitopeVec	Influenza A	Specificity	0.317460317460317	Holdout
+EpitopeVec	Influenza A	Balanced accuracy	0.566137566137566	Holdout
+EpitopeVec	Influenza A	Accuracy	0.69047619047619	Holdout
+EpitopeVec	Measles morbilivirus	AUC	0.537928921568627	Holdout
+EpitopeVec	Measles morbilivirus	F1	0.58679706601467	Holdout
+EpitopeVec	Measles morbilivirus	MCC	0.0907151323802073	Holdout
+EpitopeVec	Measles morbilivirus	PPV	0.502092050209205	Holdout
+EpitopeVec	Measles morbilivirus	NPV	0.59349593495935	Holdout
+EpitopeVec	Measles morbilivirus	Sensitivity	0.705882352941177	Holdout
+EpitopeVec	Measles morbilivirus	Specificity	0.380208333333333	Holdout
+EpitopeVec	Measles morbilivirus	Balanced accuracy	0.543045343137255	Holdout
+EpitopeVec	Measles morbilivirus	Accuracy	0.533149171270718	Holdout
+EpitopeVec	Mononegavirales	AUC	0.670966555501833	Holdout
+EpitopeVec	Mononegavirales	F1	0.494533221194281	Holdout
+EpitopeVec	Mononegavirales	MCC	0.170058233901862	Holdout
+EpitopeVec	Mononegavirales	PPV	0.427325581395349	Holdout
+EpitopeVec	Mononegavirales	NPV	0.734274711168164	Holdout
+EpitopeVec	Mononegavirales	Sensitivity	0.586826347305389	Holdout
+EpitopeVec	Mononegavirales	Specificity	0.592132505175983	Holdout
+EpitopeVec	Mononegavirales	Balanced accuracy	0.589479426240686	Holdout
+EpitopeVec	Mononegavirales	Accuracy	0.590320381731425	Holdout
+EpitopeVec	O. volvulus	AUC	0.584837690016718	Holdout
+EpitopeVec	O. volvulus	F1	0.261989978525412	Holdout
+EpitopeVec	O. volvulus	MCC	0.0641956098733158	Holdout
+EpitopeVec	O. volvulus	PPV	0.175961538461538	Holdout
+EpitopeVec	O. volvulus	NPV	0.870246085011186	Holdout
+EpitopeVec	O. volvulus	Sensitivity	0.512605042016807	Holdout
+EpitopeVec	O. volvulus	Specificity	0.576581027667984	Holdout
+EpitopeVec	O. volvulus	Balanced accuracy	0.544593034842395	Holdout
+EpitopeVec	O. volvulus	Accuracy	0.566988660226796	Holdout
+EpitopeVec	B. pertussis	AUC	0.750333778371162	Holdout
+EpitopeVec	B. pertussis	F1	0.753926701570681	Holdout
+EpitopeVec	B. pertussis	MCC	0.351266224542177	Holdout
+EpitopeVec	B. pertussis	PPV	0.857142857142857	Holdout
+EpitopeVec	B. pertussis	NPV	0.461538461538462	Holdout
+EpitopeVec	B. pertussis	Sensitivity	0.672897196261682	Holdout
+EpitopeVec	B. pertussis	Specificity	0.714285714285714	Holdout
+EpitopeVec	B. pertussis	Balanced accuracy	0.693591455273698	Holdout
+EpitopeVec	B. pertussis	Accuracy	0.684563758389262	Holdout
+EpitopeVec	Corynebacterium	AUC	0.727777777777778	Holdout
+EpitopeVec	Corynebacterium	F1	0.672131147540984	Holdout
+EpitopeVec	Corynebacterium	MCC	0.314747177484697	Holdout
+EpitopeVec	Corynebacterium	PPV	0.602941176470588	Holdout
+EpitopeVec	Corynebacterium	NPV	0.717391304347826	Holdout
+EpitopeVec	Corynebacterium	Sensitivity	0.759259259259259	Holdout
+EpitopeVec	Corynebacterium	Specificity	0.55	Holdout
+EpitopeVec	Corynebacterium	Balanced accuracy	0.65462962962963	Holdout
+EpitopeVec	Corynebacterium	Accuracy	0.649122807017544	Holdout
+EpitopeVec	E. coli	AUC	0.533291001451379	Holdout
+EpitopeVec	E. coli	F1	0.62781954887218	Holdout
+EpitopeVec	E. coli	MCC	0.0307202245065396	Holdout
+EpitopeVec	E. coli	PPV	0.759090909090909	Holdout
+EpitopeVec	E. coli	NPV	0.267676767676768	Holdout
+EpitopeVec	E. coli	Sensitivity	0.53525641025641	Holdout
+EpitopeVec	E. coli	Specificity	0.5	Holdout
+EpitopeVec	E. coli	Balanced accuracy	0.517628205128205	Holdout
+EpitopeVec	E. coli	Accuracy	0.526315789473684	Holdout
+EpitopeVec	Enterobacteriaceae	AUC	0.548960986545564	Holdout
+EpitopeVec	Enterobacteriaceae	F1	0.533575317604356	Holdout
+EpitopeVec	Enterobacteriaceae	MCC	0.0607265436663316	Holdout
+EpitopeVec	Enterobacteriaceae	PPV	0.49746192893401	Holdout
+EpitopeVec	Enterobacteriaceae	NPV	0.563380281690141	Holdout
+EpitopeVec	Enterobacteriaceae	Sensitivity	0.575342465753425	Holdout
+EpitopeVec	Enterobacteriaceae	Specificity	0.48526863084922	Holdout
+EpitopeVec	Enterobacteriaceae	Balanced accuracy	0.530305548301322	Holdout
+EpitopeVec	Enterobacteriaceae	Accuracy	0.527573529411765	Holdout
+EpitopeVec	Lentivirus	AUC	0.595998595998596	Holdout
+EpitopeVec	Lentivirus	F1	0.571428571428571	Holdout
+EpitopeVec	Lentivirus	MCC	0.0674723421055707	Holdout
+EpitopeVec	Lentivirus	PPV	0.692307692307692	Holdout
+EpitopeVec	Lentivirus	NPV	0.371900826446281	Holdout
+EpitopeVec	Lentivirus	Sensitivity	0.486486486486487	Holdout
+EpitopeVec	Lentivirus	Specificity	0.584415584415584	Holdout
+EpitopeVec	Lentivirus	Balanced accuracy	0.535451035451035	Holdout
+EpitopeVec	Lentivirus	Accuracy	0.52	Holdout
+EpitopeVec	M. tuberculosis	AUC	0.519018879554836	Holdout
+EpitopeVec	M. tuberculosis	F1	0.51006711409396	Holdout
+EpitopeVec	M. tuberculosis	MCC	-0.00756799064341671	Holdout
+EpitopeVec	M. tuberculosis	PPV	0.514978601997147	Holdout
+EpitopeVec	M. tuberculosis	NPV	0.477457501847746	Holdout
+EpitopeVec	M. tuberculosis	Sensitivity	0.505248425472358	Holdout
+EpitopeVec	M. tuberculosis	Specificity	0.487179487179487	Holdout
+EpitopeVec	M. tuberculosis	Balanced accuracy	0.496213956325923	Holdout
+EpitopeVec	M. tuberculosis	Accuracy	0.496551724137931	Holdout
+EpitopeVec	Orthopoxvirus	AUC	0.677548174442191	Holdout
+EpitopeVec	Orthopoxvirus	F1	0.138248847926267	Holdout
+EpitopeVec	Orthopoxvirus	MCC	-0.206270051903523	Holdout
+EpitopeVec	Orthopoxvirus	PPV	0.0943396226415094	Holdout
+EpitopeVec	Orthopoxvirus	NPV	0.748538011695906	Holdout
+EpitopeVec	Orthopoxvirus	Sensitivity	0.258620689655172	Holdout
+EpitopeVec	Orthopoxvirus	Specificity	0.470588235294118	Holdout
+EpitopeVec	Orthopoxvirus	Balanced accuracy	0.364604462474645	Holdout
+EpitopeVec	Orthopoxvirus	Accuracy	0.433333333333333	Holdout
+EpitopeVec	P. aeruginosa	AUC	0.565282454171343	Holdout
+EpitopeVec	P. aeruginosa	F1	0.697986577181208	Holdout
+EpitopeVec	P. aeruginosa	MCC	0.145250099587134	Holdout
+EpitopeVec	P. aeruginosa	PPV	0.764705882352941	Holdout
+EpitopeVec	P. aeruginosa	NPV	0.369565217391304	Holdout
+EpitopeVec	P. aeruginosa	Sensitivity	0.641975308641975	Holdout
+EpitopeVec	P. aeruginosa	Specificity	0.515151515151515	Holdout
+EpitopeVec	P. aeruginosa	Balanced accuracy	0.578563411896745	Holdout
+EpitopeVec	P. aeruginosa	Accuracy	0.605263157894737	Holdout
+EpitopeVec	P. falciparum	AUC	0.511606331537613	Holdout
+EpitopeVec	P. falciparum	F1	0.642390659014447	Holdout
+EpitopeVec	P. falciparum	MCC	0.0175192350439778	Holdout
+EpitopeVec	P. falciparum	PPV	0.630781189273222	Holdout
+EpitopeVec	P. falciparum	NPV	0.386981402002861	Holdout
+EpitopeVec	P. falciparum	Sensitivity	0.654435483870968	Holdout
+EpitopeVec	P. falciparum	Specificity	0.362843729040912	Holdout
+EpitopeVec	P. falciparum	Balanced accuracy	0.50863960645594	Holdout
+EpitopeVec	P. falciparum	Accuracy	0.544950893981365	Holdout
+EpitopeVec	SARS-Cov-2	AUC	0.629954456258945	Holdout
+EpitopeVec	SARS-Cov-2	F1	0.221556886227545	Holdout
+EpitopeVec	SARS-Cov-2	MCC	0.101435820657243	Holdout
+EpitopeVec	SARS-Cov-2	PPV	0.134885025238362	Holdout
+EpitopeVec	SARS-Cov-2	NPV	0.92668986083499	Holdout
+EpitopeVec	SARS-Cov-2	Sensitivity	0.619845360824742	Holdout
+EpitopeVec	SARS-Cov-2	Specificity	0.547255650132081	Holdout
+EpitopeVec	SARS-Cov-2	Balanced accuracy	0.583550505478412	Holdout
+EpitopeVec	SARS-Cov-2	Accuracy	0.55467720685112	Holdout
+EpitopeVec	S. mansoni	AUC	0.55340371418974	Holdout
+EpitopeVec	S. mansoni	F1	0.295546558704453	Holdout
+EpitopeVec	S. mansoni	MCC	-0.0163782347512895	Holdout
+EpitopeVec	S. mansoni	PPV	0.273921200750469	Holdout
+EpitopeVec	S. mansoni	NPV	0.710402999062793	Holdout
+EpitopeVec	S. mansoni	Sensitivity	0.320879120879121	Holdout
+EpitopeVec	S. mansoni	Specificity	0.662008733624454	Holdout
+EpitopeVec	S. mansoni	Balanced accuracy	0.491443927251788	Holdout
+EpitopeVec	S. mansoni	Accuracy	0.565	Holdout
+EpitopeVec	T. gondii	AUC	0.61957349581112	Holdout
+EpitopeVec	T. gondii	F1	0.682291666666667	Holdout
+EpitopeVec	T. gondii	MCC	0.0840143137830922	Holdout
+EpitopeVec	T. gondii	PPV	0.71978021978022	Holdout
+EpitopeVec	T. gondii	NPV	0.36036036036036	Holdout
+EpitopeVec	T. gondii	Sensitivity	0.648514851485149	Holdout
+EpitopeVec	T. gondii	Specificity	0.43956043956044	Holdout
+EpitopeVec	T. gondii	Balanced accuracy	0.544037645522794	Holdout
+EpitopeVec	T. gondii	Accuracy	0.583617747440273	Holdout
+ESM-1b bl.	C. difficile	AUC	0.486211545532541	Holdout
+ESM-1b bl.	C. difficile	F1	0.176991150442478	Holdout
+ESM-1b bl.	C. difficile	MCC	0.0517383821375513	Holdout
+ESM-1b bl.	C. difficile	PPV	0.097323600973236	Holdout
+ESM-1b bl.	C. difficile	NPV	0.964285714285714	Holdout
+ESM-1b bl.	C. difficile	Sensitivity	0.975609756097561	Holdout
+ESM-1b bl.	C. difficile	Specificity	0.0678391959798995	Holdout
+ESM-1b bl.	C. difficile	Balanced accuracy	0.52172447603873	Holdout
+ESM-1b bl.	C. difficile	Accuracy	0.152619589977221	Holdout
+ESM-1b bl.	C. trachomatis	AUC	0.768746862449799	Holdout
+ESM-1b bl.	C. trachomatis	F1	0.617924528301887	Holdout
+ESM-1b bl.	C. trachomatis	MCC	0.385305726943011	Holdout
+ESM-1b bl.	C. trachomatis	PPV	0.779761904761905	Holdout
+ESM-1b bl.	C. trachomatis	NPV	0.629080118694362	Holdout
+ESM-1b bl.	C. trachomatis	Sensitivity	0.51171875	Holdout
+ESM-1b bl.	C. trachomatis	Specificity	0.85140562248996	Holdout
+ESM-1b bl.	C. trachomatis	Balanced accuracy	0.68156218624498	Holdout
+ESM-1b bl.	C. trachomatis	Accuracy	0.679207920792079	Holdout
+ESM-1b bl.	Filoviridae	AUC	0.943595096982759	Holdout
+ESM-1b bl.	Filoviridae	F1	0.602941176470588	Holdout
+ESM-1b bl.	Filoviridae	MCC	0.558264943237627	Holdout
+ESM-1b bl.	Filoviridae	PPV	0.525641025641026	Holdout
+ESM-1b bl.	Filoviridae	NPV	0.965447154471545	Holdout
+ESM-1b bl.	Filoviridae	Sensitivity	0.706896551724138	Holdout
+ESM-1b bl.	Filoviridae	Specificity	0.927734375	Holdout
+ESM-1b bl.	Filoviridae	Balanced accuracy	0.817315463362069	Holdout
+ESM-1b bl.	Filoviridae	Accuracy	0.905263157894737	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	AUC	0.607527737553618	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	F1	0.376873661670236	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	MCC	0.24912736104327	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	PPV	0.745762711864407	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	NPV	0.598152424942263	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	Sensitivity	0.25214899713467	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	Specificity	0.92831541218638	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	Balanced accuracy	0.590232204660525	Holdout
+ESM-1b bl.	Human Gammaherpesvirus 4	Accuracy	0.620846905537459	Holdout
+ESM-1b bl.	Influenza A	AUC	0.718671556414061	Holdout
+ESM-1b bl.	Influenza A	F1	0.823899371069182	Holdout
+ESM-1b bl.	Influenza A	MCC	-0.0578513272334432	Holdout
+ESM-1b bl.	Influenza A	PPV	0.743262411347518	Holdout
+ESM-1b bl.	Influenza A	NPV	0.156862745098039	Holdout
+ESM-1b bl.	Influenza A	Sensitivity	0.924162257495591	Holdout
+ESM-1b bl.	Influenza A	Specificity	0.0423280423280423	Holdout
+ESM-1b bl.	Influenza A	Balanced accuracy	0.483245149911817	Holdout
+ESM-1b bl.	Influenza A	Accuracy	0.703703703703704	Holdout
+ESM-1b bl.	Measles morbilivirus	AUC	0.577420343137255	Holdout
+ESM-1b bl.	Measles morbilivirus	F1	0.608040201005025	Holdout
+ESM-1b bl.	Measles morbilivirus	MCC	0.159664344969828	Holdout
+ESM-1b bl.	Measles morbilivirus	PPV	0.530701754385965	Holdout
+ESM-1b bl.	Measles morbilivirus	NPV	0.634328358208955	Holdout
+ESM-1b bl.	Measles morbilivirus	Sensitivity	0.711764705882353	Holdout
+ESM-1b bl.	Measles morbilivirus	Specificity	0.442708333333333	Holdout
+ESM-1b bl.	Measles morbilivirus	Balanced accuracy	0.577236519607843	Holdout
+ESM-1b bl.	Measles morbilivirus	Accuracy	0.569060773480663	Holdout
+ESM-1b bl.	Mononegavirales	AUC	0.740039589557944	Holdout
+ESM-1b bl.	Mononegavirales	F1	0.59308314937454	Holdout
+ESM-1b bl.	Mononegavirales	MCC	0.32084140651009	Holdout
+ESM-1b bl.	Mononegavirales	PPV	0.46969696969697	Holdout
+ESM-1b bl.	Mononegavirales	NPV	0.839080459770115	Holdout
+ESM-1b bl.	Mononegavirales	Sensitivity	0.80439121756487	Holdout
+ESM-1b bl.	Mononegavirales	Specificity	0.528985507246377	Holdout
+ESM-1b bl.	Mononegavirales	Balanced accuracy	0.666688362405624	Holdout
+ESM-1b bl.	Mononegavirales	Accuracy	0.623040218132243	Holdout
+ESM-1b bl.	O. volvulus	AUC	0.672958808029141	Holdout
+ESM-1b bl.	O. volvulus	F1	0.250497017892644	Holdout
+ESM-1b bl.	O. volvulus	MCC	0.201578330456862	Holdout
+ESM-1b bl.	O. volvulus	PPV	0.431506849315068	Holdout
+ESM-1b bl.	O. volvulus	NPV	0.868456375838926	Holdout
+ESM-1b bl.	O. volvulus	Sensitivity	0.176470588235294	Holdout
+ESM-1b bl.	O. volvulus	Specificity	0.95899209486166	Holdout
+ESM-1b bl.	O. volvulus	Balanced accuracy	0.567731341548477	Holdout
+ESM-1b bl.	O. volvulus	Accuracy	0.841663166736665	Holdout
+ESM-1b bl.	B. pertussis	AUC	0.527481085892301	Holdout
+ESM-1b bl.	B. pertussis	F1	0.822134387351779	Holdout
+ESM-1b bl.	B. pertussis	MCC	-0.0898083993027845	Holdout
+ESM-1b bl.	B. pertussis	PPV	0.712328767123288	Holdout
+ESM-1b bl.	B. pertussis	NPV	0	Holdout
+ESM-1b bl.	B. pertussis	Sensitivity	0.97196261682243	Holdout
+ESM-1b bl.	B. pertussis	Specificity	0	Holdout
+ESM-1b bl.	B. pertussis	Balanced accuracy	0.485981308411215	Holdout
+ESM-1b bl.	B. pertussis	Accuracy	0.697986577181208	Holdout
+ESM-1b bl.	Corynebacterium	AUC	0.51712962962963	Holdout
+ESM-1b bl.	Corynebacterium	F1	0.683544303797468	Holdout
+ESM-1b bl.	Corynebacterium	MCC	0.294174202707276	Holdout
+ESM-1b bl.	Corynebacterium	PPV	0.519230769230769	Holdout
+ESM-1b bl.	Corynebacterium	NPV	1	Holdout
+ESM-1b bl.	Corynebacterium	Sensitivity	1	Holdout
+ESM-1b bl.	Corynebacterium	Specificity	0.166666666666667	Holdout
+ESM-1b bl.	Corynebacterium	Balanced accuracy	0.583333333333333	Holdout
+ESM-1b bl.	Corynebacterium	Accuracy	0.56140350877193	Holdout
+ESM-1b bl.	E. coli	AUC	0.854983067247218	Holdout
+ESM-1b bl.	E. coli	F1	0.862690707350901	Holdout
+ESM-1b bl.	E. coli	MCC	0.21661312239165	Holdout
+ESM-1b bl.	E. coli	PPV	0.76039119804401	Holdout
+ESM-1b bl.	E. coli	NPV	0.888888888888889	Holdout
+ESM-1b bl.	E. coli	Sensitivity	0.996794871794872	Holdout
+ESM-1b bl.	E. coli	Specificity	0.0754716981132075	Holdout
+ESM-1b bl.	E. coli	Balanced accuracy	0.53613328495404	Holdout
+ESM-1b bl.	E. coli	Accuracy	0.763157894736842	Holdout
+ESM-1b bl.	Enterobacteriaceae	AUC	0.722479794605338	Holdout
+ESM-1b bl.	Enterobacteriaceae	F1	0.631578947368421	Holdout
+ESM-1b bl.	Enterobacteriaceae	MCC	-0.0348986886857516	Holdout
+ESM-1b bl.	Enterobacteriaceae	PPV	0.467166979362101	Holdout
+ESM-1b bl.	Enterobacteriaceae	NPV	0.409090909090909	Holdout
+ESM-1b bl.	Enterobacteriaceae	Sensitivity	0.974559686888454	Holdout
+ESM-1b bl.	Enterobacteriaceae	Specificity	0.0155979202772964	Holdout
+ESM-1b bl.	Enterobacteriaceae	Balanced accuracy	0.495078803582875	Holdout
+ESM-1b bl.	Enterobacteriaceae	Accuracy	0.465992647058824	Holdout
+ESM-1b bl.	Lentivirus	AUC	0.794489294489295	Holdout
+ESM-1b bl.	Lentivirus	F1	0.876623376623377	Holdout
+ESM-1b bl.	Lentivirus	MCC	0.614975326035242	Holdout
+ESM-1b bl.	Lentivirus	PPV	0.84375	Holdout
+ESM-1b bl.	Lentivirus	NPV	0.8	Holdout
+ESM-1b bl.	Lentivirus	Sensitivity	0.912162162162162	Holdout
+ESM-1b bl.	Lentivirus	Specificity	0.675324675324675	Holdout
+ESM-1b bl.	Lentivirus	Balanced accuracy	0.793743418743419	Holdout
+ESM-1b bl.	Lentivirus	Accuracy	0.831111111111111	Holdout
+ESM-1b bl.	M. tuberculosis	AUC	0.50623900311053	Holdout
+ESM-1b bl.	M. tuberculosis	F1	0.647742633144093	Holdout
+ESM-1b bl.	M. tuberculosis	MCC	0.0392287884825752	Holdout
+ESM-1b bl.	M. tuberculosis	PPV	0.527753303964758	Holdout
+ESM-1b bl.	M. tuberculosis	NPV	0.523711340206186	Holdout
+ESM-1b bl.	M. tuberculosis	Sensitivity	0.838348495451365	Holdout
+ESM-1b bl.	M. tuberculosis	Specificity	0.191553544494721	Holdout
+ESM-1b bl.	M. tuberculosis	Balanced accuracy	0.514951019973043	Holdout
+ESM-1b bl.	M. tuberculosis	Accuracy	0.527041742286751	Holdout
+ESM-1b bl.	Orthopoxvirus	AUC	0.693141480730223	Holdout
+ESM-1b bl.	Orthopoxvirus	F1	0.396551724137931	Holdout
+ESM-1b bl.	Orthopoxvirus	MCC	0.245873504012445	Holdout
+ESM-1b bl.	Orthopoxvirus	PPV	0.264367816091954	Holdout
+ESM-1b bl.	Orthopoxvirus	NPV	0.923076923076923	Holdout
+ESM-1b bl.	Orthopoxvirus	Sensitivity	0.793103448275862	Holdout
+ESM-1b bl.	Orthopoxvirus	Specificity	0.529411764705882	Holdout
+ESM-1b bl.	Orthopoxvirus	Balanced accuracy	0.661257606490872	Holdout
+ESM-1b bl.	Orthopoxvirus	Accuracy	0.575757575757576	Holdout
+ESM-1b bl.	P. aeruginosa	AUC	0.669098391320614	Holdout
+ESM-1b bl.	P. aeruginosa	F1	0.690647482014389	Holdout
+ESM-1b bl.	P. aeruginosa	MCC	0.262683909374395	Holdout
+ESM-1b bl.	P. aeruginosa	PPV	0.827586206896552	Holdout
+ESM-1b bl.	P. aeruginosa	NPV	0.410714285714286	Holdout
+ESM-1b bl.	P. aeruginosa	Sensitivity	0.592592592592593	Holdout
+ESM-1b bl.	P. aeruginosa	Specificity	0.696969696969697	Holdout
+ESM-1b bl.	P. aeruginosa	Balanced accuracy	0.644781144781145	Holdout
+ESM-1b bl.	P. aeruginosa	Accuracy	0.62280701754386	Holdout
+ESM-1b bl.	P. falciparum	AUC	0.791586075593345	Holdout
+ESM-1b bl.	P. falciparum	F1	0.814591951861602	Holdout
+ESM-1b bl.	P. falciparum	MCC	0.453271236562517	Holdout
+ESM-1b bl.	P. falciparum	PPV	0.763213530655391	Holdout
+ESM-1b bl.	P. falciparum	NPV	0.722859664607237	Holdout
+ESM-1b bl.	P. falciparum	Sensitivity	0.873387096774194	Holdout
+ESM-1b bl.	P. falciparum	Specificity	0.549295774647887	Holdout
+ESM-1b bl.	P. falciparum	Balanced accuracy	0.71134143571104	Holdout
+ESM-1b bl.	P. falciparum	Accuracy	0.751699823721984	Holdout
+ESM-1b bl.	SARS-Cov-2	AUC	0.46088877810693	Holdout
+ESM-1b bl.	SARS-Cov-2	F1	0.163890739506995	Holdout
+ESM-1b bl.	SARS-Cov-2	MCC	0.0723132017299886	Holdout
+ESM-1b bl.	SARS-Cov-2	PPV	0.169655172413793	Holdout
+ESM-1b bl.	SARS-Cov-2	NPV	0.904879825200291	Holdout
+ESM-1b bl.	SARS-Cov-2	Sensitivity	0.158505154639175	Holdout
+ESM-1b bl.	SARS-Cov-2	Specificity	0.911652480187849	Holdout
+ESM-1b bl.	SARS-Cov-2	Balanced accuracy	0.535078817413512	Holdout
+ESM-1b bl.	SARS-Cov-2	Accuracy	0.834650856389987	Holdout
+ESM-1b bl.	S. mansoni	AUC	0.543571188636691	Holdout
+ESM-1b bl.	S. mansoni	F1	0.329774614472123	Holdout
+ESM-1b bl.	S. mansoni	MCC	0.0926527760270721	Holdout
+ESM-1b bl.	S. mansoni	PPV	0.358247422680412	Holdout
+ESM-1b bl.	S. mansoni	NPV	0.739273927392739	Holdout
+ESM-1b bl.	S. mansoni	Sensitivity	0.305494505494506	Holdout
+ESM-1b bl.	S. mansoni	Specificity	0.782532751091703	Holdout
+ESM-1b bl.	S. mansoni	Balanced accuracy	0.544013628293104	Holdout
+ESM-1b bl.	S. mansoni	Accuracy	0.646875	Holdout
+ESM-1b bl.	T. gondii	AUC	0.654063758024154	Holdout
+ESM-1b bl.	T. gondii	F1	0.805970149253731	Holdout
+ESM-1b bl.	T. gondii	MCC	0.127740215810867	Holdout
+ESM-1b bl.	T. gondii	PPV	0.707865168539326	Holdout
+ESM-1b bl.	T. gondii	NPV	0.5	Holdout
+ESM-1b bl.	T. gondii	Sensitivity	0.935643564356436	Holdout
+ESM-1b bl.	T. gondii	Specificity	0.142857142857143	Holdout
+ESM-1b bl.	T. gondii	Balanced accuracy	0.539250353606789	Holdout
+ESM-1b bl.	T. gondii	Accuracy	0.689419795221843	Holdout
+NPTransfer bl.	C. difficile	AUC	0.58426277730114	Holdout
+NPTransfer bl.	C. difficile	F1	0.170833333333333	Holdout
+NPTransfer bl.	C. difficile	MCC	0	Holdout
+NPTransfer bl.	C. difficile	PPV	0.0933940774487472	Holdout
+NPTransfer bl.	C. difficile	NPV	0	Holdout
+NPTransfer bl.	C. difficile	Sensitivity	1	Holdout
+NPTransfer bl.	C. difficile	Specificity	0	Holdout
+NPTransfer bl.	C. difficile	Balanced accuracy	0.5	Holdout
+NPTransfer bl.	C. difficile	Accuracy	0.0933940774487472	Holdout
+NPTransfer bl.	C. trachomatis	AUC	0.775484751506024	Holdout
+NPTransfer bl.	C. trachomatis	F1	0.711382113821138	Holdout
+NPTransfer bl.	C. trachomatis	MCC	0.439511088461213	Holdout
+NPTransfer bl.	C. trachomatis	PPV	0.741525423728813	Holdout
+NPTransfer bl.	C. trachomatis	NPV	0.698884758364312	Holdout
+NPTransfer bl.	C. trachomatis	Sensitivity	0.68359375	Holdout
+NPTransfer bl.	C. trachomatis	Specificity	0.755020080321285	Holdout
+NPTransfer bl.	C. trachomatis	Balanced accuracy	0.719306915160643	Holdout
+NPTransfer bl.	C. trachomatis	Accuracy	0.718811881188119	Holdout
+NPTransfer bl.	Filoviridae	AUC	0.966258081896552	Holdout
+NPTransfer bl.	Filoviridae	F1	0.742424242424242	Holdout
+NPTransfer bl.	Filoviridae	MCC	0.715986861403242	Holdout
+NPTransfer bl.	Filoviridae	PPV	0.662162162162162	Holdout
+NPTransfer bl.	Filoviridae	NPV	0.981854838709677	Holdout
+NPTransfer bl.	Filoviridae	Sensitivity	0.844827586206897	Holdout
+NPTransfer bl.	Filoviridae	Specificity	0.951171875	Holdout
+NPTransfer bl.	Filoviridae	Balanced accuracy	0.897999730603448	Holdout
+NPTransfer bl.	Filoviridae	Accuracy	0.940350877192982	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	AUC	0.59328752914112	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	F1	0.42911877394636	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	MCC	0.208733447042548	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	PPV	0.647398843930636	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	NPV	0.6013456686291	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	Sensitivity	0.320916905444126	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	Specificity	0.854241338112306	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	Balanced accuracy	0.587579121778216	Holdout
+NPTransfer bl.	Human Gammaherpesvirus 4	Accuracy	0.611726384364821	Holdout
+NPTransfer bl.	Influenza A	AUC	0.631682577008856	Holdout
+NPTransfer bl.	Influenza A	F1	0.814262023217247	Holdout
+NPTransfer bl.	Influenza A	MCC	0.099241625856968	Holdout
+NPTransfer bl.	Influenza A	PPV	0.768388106416275	Holdout
+NPTransfer bl.	Influenza A	NPV	0.35042735042735	Holdout
+NPTransfer bl.	Influenza A	Sensitivity	0.865961199294533	Holdout
+NPTransfer bl.	Influenza A	Specificity	0.216931216931217	Holdout
+NPTransfer bl.	Influenza A	Balanced accuracy	0.541446208112875	Holdout
+NPTransfer bl.	Influenza A	Accuracy	0.703703703703704	Holdout
+NPTransfer bl.	Measles morbilivirus	AUC	0.633547794117647	Holdout
+NPTransfer bl.	Measles morbilivirus	F1	0.658385093167702	Holdout
+NPTransfer bl.	Measles morbilivirus	MCC	0.194331969249576	Holdout
+NPTransfer bl.	Measles morbilivirus	PPV	0.507987220447284	Holdout
+NPTransfer bl.	Measles morbilivirus	NPV	0.775510204081633	Holdout
+NPTransfer bl.	Measles morbilivirus	Sensitivity	0.935294117647059	Holdout
+NPTransfer bl.	Measles morbilivirus	Specificity	0.197916666666667	Holdout
+NPTransfer bl.	Measles morbilivirus	Balanced accuracy	0.566605392156863	Holdout
+NPTransfer bl.	Measles morbilivirus	Accuracy	0.544198895027624	Holdout
+NPTransfer bl.	Mononegavirales	AUC	0.739081877652562	Holdout
+NPTransfer bl.	Mononegavirales	F1	0.547028274668205	Holdout
+NPTransfer bl.	Mononegavirales	MCC	0.208712700843372	Holdout
+NPTransfer bl.	Mononegavirales	PPV	0.38474025974026	Holdout
+NPTransfer bl.	Mononegavirales	NPV	0.885106382978723	Holdout
+NPTransfer bl.	Mononegavirales	Sensitivity	0.946107784431138	Holdout
+NPTransfer bl.	Mononegavirales	Specificity	0.215320910973085	Holdout
+NPTransfer bl.	Mononegavirales	Balanced accuracy	0.580714347702111	Holdout
+NPTransfer bl.	Mononegavirales	Accuracy	0.464894342194956	Holdout
+NPTransfer bl.	O. volvulus	AUC	0.635519425161369	Holdout
+NPTransfer bl.	O. volvulus	F1	0.347249834327369	Holdout
+NPTransfer bl.	O. volvulus	MCC	0.210153153809439	Holdout
+NPTransfer bl.	O. volvulus	PPV	0.227430555555556	Holdout
+NPTransfer bl.	O. volvulus	NPV	0.922701383238405	Holdout
+NPTransfer bl.	O. volvulus	Sensitivity	0.733893557422969	Holdout
+NPTransfer bl.	O. volvulus	Specificity	0.560276679841897	Holdout
+NPTransfer bl.	O. volvulus	Balanced accuracy	0.647085118632433	Holdout
+NPTransfer bl.	O. volvulus	Accuracy	0.586308273834523	Holdout
+NPTransfer bl.	B. pertussis	AUC	0.588340008900757	Holdout
+NPTransfer bl.	B. pertussis	F1	0.8359375	Holdout
+NPTransfer bl.	B. pertussis	MCC	0	Holdout
+NPTransfer bl.	B. pertussis	PPV	0.718120805369127	Holdout
+NPTransfer bl.	B. pertussis	NPV	0	Holdout
+NPTransfer bl.	B. pertussis	Sensitivity	1	Holdout
+NPTransfer bl.	B. pertussis	Specificity	0	Holdout
+NPTransfer bl.	B. pertussis	Balanced accuracy	0.5	Holdout
+NPTransfer bl.	B. pertussis	Accuracy	0.718120805369127	Holdout
+NPTransfer bl.	Corynebacterium	AUC	0.55	Holdout
+NPTransfer bl.	Corynebacterium	F1	0.642857142857143	Holdout
+NPTransfer bl.	Corynebacterium	MCC	0	Holdout
+NPTransfer bl.	Corynebacterium	PPV	0.473684210526316	Holdout
+NPTransfer bl.	Corynebacterium	NPV	0	Holdout
+NPTransfer bl.	Corynebacterium	Sensitivity	1	Holdout
+NPTransfer bl.	Corynebacterium	Specificity	0	Holdout
+NPTransfer bl.	Corynebacterium	Balanced accuracy	0.5	Holdout
+NPTransfer bl.	Corynebacterium	Accuracy	0.473684210526316	Holdout
+NPTransfer bl.	E. coli	AUC	0.830400338655056	Holdout
+NPTransfer bl.	E. coli	F1	0.874285714285714	Holdout
+NPTransfer bl.	E. coli	MCC	0.349229268676267	Holdout
+NPTransfer bl.	E. coli	PPV	0.788659793814433	Holdout
+NPTransfer bl.	E. coli	NPV	0.8	Holdout
+NPTransfer bl.	E. coli	Sensitivity	0.980769230769231	Holdout
+NPTransfer bl.	E. coli	Specificity	0.226415094339623	Holdout
+NPTransfer bl.	E. coli	Balanced accuracy	0.603592162554427	Holdout
+NPTransfer bl.	E. coli	Accuracy	0.789473684210526	Holdout
+NPTransfer bl.	Enterobacteriaceae	AUC	0.728238713637921	Holdout
+NPTransfer bl.	Enterobacteriaceae	F1	0.61941251596424	Holdout
+NPTransfer bl.	Enterobacteriaceae	MCC	-0.11276508519086	Holdout
+NPTransfer bl.	Enterobacteriaceae	PPV	0.459715639810427	Holdout
+NPTransfer bl.	Enterobacteriaceae	NPV	0.212121212121212	Holdout
+NPTransfer bl.	Enterobacteriaceae	Sensitivity	0.949119373776908	Holdout
+NPTransfer bl.	Enterobacteriaceae	Specificity	0.0121317157712305	Holdout
+NPTransfer bl.	Enterobacteriaceae	Balanced accuracy	0.480625544774069	Holdout
+NPTransfer bl.	Enterobacteriaceae	Accuracy	0.452205882352941	Holdout
+NPTransfer bl.	Lentivirus	AUC	0.647683397683398	Holdout
+NPTransfer bl.	Lentivirus	F1	0.847058823529412	Holdout
+NPTransfer bl.	Lentivirus	MCC	0.468851732528178	Holdout
+NPTransfer bl.	Lentivirus	PPV	0.75	Holdout
+NPTransfer bl.	Lentivirus	NPV	0.878787878787879	Holdout
+NPTransfer bl.	Lentivirus	Sensitivity	0.972972972972973	Holdout
+NPTransfer bl.	Lentivirus	Specificity	0.376623376623377	Holdout
+NPTransfer bl.	Lentivirus	Balanced accuracy	0.674798174798175	Holdout
+NPTransfer bl.	Lentivirus	Accuracy	0.768888888888889	Holdout
+NPTransfer bl.	M. tuberculosis	AUC	0.559649714437102	Holdout
+NPTransfer bl.	M. tuberculosis	F1	0.57760663507109	Holdout
+NPTransfer bl.	M. tuberculosis	MCC	-0.0556824775315637	Holdout
+NPTransfer bl.	M. tuberculosis	PPV	0.500770416024653	Holdout
+NPTransfer bl.	M. tuberculosis	NPV	0.438118811881188	Holdout
+NPTransfer bl.	M. tuberculosis	Sensitivity	0.682295311406578	Holdout
+NPTransfer bl.	M. tuberculosis	Specificity	0.266968325791855	Holdout
+NPTransfer bl.	M. tuberculosis	Balanced accuracy	0.474631818599217	Holdout
+NPTransfer bl.	M. tuberculosis	Accuracy	0.482395644283122	Holdout
+NPTransfer bl.	Orthopoxvirus	AUC	0.635775862068966	Holdout
+NPTransfer bl.	Orthopoxvirus	F1	0.337209302325581	Holdout
+NPTransfer bl.	Orthopoxvirus	MCC	0.181122692847289	Holdout
+NPTransfer bl.	Orthopoxvirus	PPV	0.202797202797203	Holdout
+NPTransfer bl.	Orthopoxvirus	NPV	1	Holdout
+NPTransfer bl.	Orthopoxvirus	Sensitivity	1	Holdout
+NPTransfer bl.	Orthopoxvirus	Specificity	0.161764705882353	Holdout
+NPTransfer bl.	Orthopoxvirus	Balanced accuracy	0.580882352941177	Holdout
+NPTransfer bl.	Orthopoxvirus	Accuracy	0.309090909090909	Holdout
+NPTransfer bl.	P. aeruginosa	AUC	0.789749345304901	Holdout
+NPTransfer bl.	P. aeruginosa	F1	0.581196581196581	Holdout
+NPTransfer bl.	P. aeruginosa	MCC	0.350407345771308	Holdout
+NPTransfer bl.	P. aeruginosa	PPV	0.944444444444444	Holdout
+NPTransfer bl.	P. aeruginosa	NPV	0.397435897435897	Holdout
+NPTransfer bl.	P. aeruginosa	Sensitivity	0.419753086419753	Holdout
+NPTransfer bl.	P. aeruginosa	Specificity	0.939393939393939	Holdout
+NPTransfer bl.	P. aeruginosa	Balanced accuracy	0.679573512906846	Holdout
+NPTransfer bl.	P. aeruginosa	Accuracy	0.570175438596491	Holdout
+NPTransfer bl.	P. falciparum	AUC	0.785573927435581	Holdout
+NPTransfer bl.	P. falciparum	F1	0.783640081799591	Holdout
+NPTransfer bl.	P. falciparum	MCC	0.437470370500401	Holdout
+NPTransfer bl.	P. falciparum	PPV	0.795020746887967	Holdout
+NPTransfer bl.	P. falciparum	NPV	0.638693145419603	Holdout
+NPTransfer bl.	P. falciparum	Sensitivity	0.77258064516129	Holdout
+NPTransfer bl.	P. falciparum	Specificity	0.668678739101274	Holdout
+NPTransfer bl.	P. falciparum	Balanced accuracy	0.720629692131282	Holdout
+NPTransfer bl.	P. falciparum	Accuracy	0.733568370687484	Holdout
+NPTransfer bl.	SARS-Cov-2	AUC	0.497627969553285	Holdout
+NPTransfer bl.	SARS-Cov-2	F1	0.119402985074627	Holdout
+NPTransfer bl.	SARS-Cov-2	MCC	0.037037049528598	Holdout
+NPTransfer bl.	SARS-Cov-2	PPV	0.141843971631206	Holdout
+NPTransfer bl.	SARS-Cov-2	NPV	0.900939368061486	Holdout
+NPTransfer bl.	SARS-Cov-2	Sensitivity	0.103092783505155	Holdout
+NPTransfer bl.	SARS-Cov-2	Specificity	0.92896976812445	Holdout
+NPTransfer bl.	SARS-Cov-2	Balanced accuracy	0.516031275814802	Holdout
+NPTransfer bl.	SARS-Cov-2	Accuracy	0.844532279314888	Holdout
+NPTransfer bl.	S. mansoni	AUC	0.555681174720476	Holdout
+NPTransfer bl.	S. mansoni	F1	0.22	Holdout
+NPTransfer bl.	S. mansoni	MCC	0.119521307591149	Holdout
+NPTransfer bl.	S. mansoni	PPV	0.455172413793104	Holdout
+NPTransfer bl.	S. mansoni	NPV	0.732646048109966	Holdout
+NPTransfer bl.	S. mansoni	Sensitivity	0.145054945054945	Holdout
+NPTransfer bl.	S. mansoni	Specificity	0.931004366812227	Holdout
+NPTransfer bl.	S. mansoni	Balanced accuracy	0.538029655933586	Holdout
+NPTransfer bl.	S. mansoni	Accuracy	0.7075	Holdout
+NPTransfer bl.	T. gondii	AUC	0.602056359482102	Holdout
+NPTransfer bl.	T. gondii	F1	0.718204488778055	Holdout
+NPTransfer bl.	T. gondii	MCC	0.107532144776619	Holdout
+NPTransfer bl.	T. gondii	PPV	0.723618090452261	Holdout
+NPTransfer bl.	T. gondii	NPV	0.382978723404255	Holdout
+NPTransfer bl.	T. gondii	Sensitivity	0.712871287128713	Holdout
+NPTransfer bl.	T. gondii	Specificity	0.395604395604396	Holdout
+NPTransfer bl.	T. gondii	Balanced accuracy	0.554237841366554	Holdout
+NPTransfer bl.	T. gondii	Accuracy	0.614334470989761	Holdout
+Bepipred 3.0	C. difficile	AUC	0.575848811553135	NoLeakage
+Bepipred 3.0	C. difficile	F1	0	NoLeakage
+Bepipred 3.0	C. difficile	MCC	-0.0555946728181773	NoLeakage
+Bepipred 3.0	C. difficile	PPV	0	NoLeakage
+Bepipred 3.0	C. difficile	NPV	0.78894472361809	NoLeakage
+Bepipred 3.0	C. difficile	Sensitivity	0	NoLeakage
+Bepipred 3.0	C. difficile	Specificity	0.985355648535565	NoLeakage
+Bepipred 3.0	C. difficile	Balanced accuracy	0.492677824267782	NoLeakage
+Bepipred 3.0	C. difficile	Accuracy	0.779801324503311	NoLeakage
+Bepipred 3.0	C. trachomatis	AUC	0.552879999296918	NoLeakage
+Bepipred 3.0	C. trachomatis	F1	0.532610960616795	NoLeakage
+Bepipred 3.0	C. trachomatis	MCC	-0.0563749913288744	NoLeakage
+Bepipred 3.0	C. trachomatis	PPV	0.539468130012664	NoLeakage
+Bepipred 3.0	C. trachomatis	NPV	0.404343329886246	NoLeakage
+Bepipred 3.0	C. trachomatis	Sensitivity	0.525925925925926	NoLeakage
+Bepipred 3.0	C. trachomatis	Specificity	0.417512012813668	NoLeakage
+Bepipred 3.0	C. trachomatis	Balanced accuracy	0.471718969369797	NoLeakage
+Bepipred 3.0	C. trachomatis	Accuracy	0.478735765744829	NoLeakage
+Bepipred 3.0	Filoviridae	AUC	0.558303603431806	NoLeakage
+Bepipred 3.0	Filoviridae	F1	0.310334253296535	NoLeakage
+Bepipred 3.0	Filoviridae	MCC	0.0730870190549139	NoLeakage
+Bepipred 3.0	Filoviridae	PPV	0.228133453561767	NoLeakage
+Bepipred 3.0	Filoviridae	NPV	0.830545913537393	NoLeakage
+Bepipred 3.0	Filoviridae	Sensitivity	0.485139022051774	NoLeakage
+Bepipred 3.0	Filoviridae	Specificity	0.605893186003683	NoLeakage
+Bepipred 3.0	Filoviridae	Balanced accuracy	0.545516104027729	NoLeakage
+Bepipred 3.0	Filoviridae	Accuracy	0.582513458325599	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	AUC	0.525778847041148	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	F1	0.253093119166486	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	MCC	-0.0155368529833876	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	PPV	0.315989159891599	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	NPV	0.666385975656434	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	Sensitivity	0.211078928312817	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	Specificity	0.775224864190934	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	Balanced accuracy	0.493151896251875	NoLeakage
+Bepipred 3.0	Human Gammaherpesvirus 4	Accuracy	0.589207903062138	NoLeakage
+Bepipred 3.0	Influenza A	AUC	0.596808390783658	NoLeakage
+Bepipred 3.0	Influenza A	F1	0.708936365724788	NoLeakage
+Bepipred 3.0	Influenza A	MCC	0.156819897114757	NoLeakage
+Bepipred 3.0	Influenza A	PPV	0.849201981287837	NoLeakage
+Bepipred 3.0	Influenza A	NPV	0.278867102396514	NoLeakage
+Bepipred 3.0	Influenza A	Sensitivity	0.608438485804416	NoLeakage
+Bepipred 3.0	Influenza A	Specificity	0.583586626139818	NoLeakage
+Bepipred 3.0	Influenza A	Balanced accuracy	0.596012555972117	NoLeakage
+Bepipred 3.0	Influenza A	Accuracy	0.603318722604884	NoLeakage
+Bepipred 3.0	Measles morbilivirus	AUC	0.566013939595088	NoLeakage
+Bepipred 3.0	Measles morbilivirus	F1	0.179148311306902	NoLeakage
+Bepipred 3.0	Measles morbilivirus	MCC	-0.0741362901593597	NoLeakage
+Bepipred 3.0	Measles morbilivirus	PPV	0.348571428571429	NoLeakage
+Bepipred 3.0	Measles morbilivirus	NPV	0.54868154158215	NoLeakage
+Bepipred 3.0	Measles morbilivirus	Sensitivity	0.120553359683794	NoLeakage
+Bepipred 3.0	Measles morbilivirus	Specificity	0.825954198473282	NoLeakage
+Bepipred 3.0	Measles morbilivirus	Balanced accuracy	0.473253779078538	NoLeakage
+Bepipred 3.0	Measles morbilivirus	Accuracy	0.518518518518518	NoLeakage
+Bepipred 3.0	Mononegavirales	AUC	0.53351596638194	NoLeakage
+Bepipred 3.0	Mononegavirales	F1	0.382168995342648	NoLeakage
+Bepipred 3.0	Mononegavirales	MCC	0.0459329581250694	NoLeakage
+Bepipred 3.0	Mononegavirales	PPV	0.344860710854947	NoLeakage
+Bepipred 3.0	Mononegavirales	NPV	0.698899371069182	NoLeakage
+Bepipred 3.0	Mononegavirales	Sensitivity	0.428528797373918	NoLeakage
+Bepipred 3.0	Mononegavirales	Specificity	0.6196849295971	NoLeakage
+Bepipred 3.0	Mononegavirales	Balanced accuracy	0.524106863485509	NoLeakage
+Bepipred 3.0	Mononegavirales	Accuracy	0.558817939946788	NoLeakage
+Bepipred 3.0	O. volvulus	AUC	0.657035844619474	NoLeakage
+Bepipred 3.0	O. volvulus	F1	0.272993375442921	NoLeakage
+Bepipred 3.0	O. volvulus	MCC	0.146923008203026	NoLeakage
+Bepipred 3.0	O. volvulus	PPV	0.179861956963053	NoLeakage
+Bepipred 3.0	O. volvulus	NPV	0.918281381634372	NoLeakage
+Bepipred 3.0	O. volvulus	Sensitivity	0.566134185303514	NoLeakage
+Bepipred 3.0	O. volvulus	Specificity	0.653813196229649	NoLeakage
+Bepipred 3.0	O. volvulus	Balanced accuracy	0.609973690766581	NoLeakage
+Bepipred 3.0	O. volvulus	Accuracy	0.643445409897998	NoLeakage
+Bepipred 3.0	B. pertussis	AUC	0.50047391052848	NoLeakage
+Bepipred 3.0	B. pertussis	F1	0.351681957186544	NoLeakage
+Bepipred 3.0	B. pertussis	MCC	0.0794719554122443	NoLeakage
+Bepipred 3.0	B. pertussis	PPV	0.555555555555556	NoLeakage
+Bepipred 3.0	B. pertussis	NPV	0.53984753984754	NoLeakage
+Bepipred 3.0	B. pertussis	Sensitivity	0.257270693512304	NoLeakage
+Bepipred 3.0	B. pertussis	Specificity	0.808930425752856	NoLeakage
+Bepipred 3.0	B. pertussis	Balanced accuracy	0.53310055963258	NoLeakage
+Bepipred 3.0	B. pertussis	Accuracy	0.543349488422186	NoLeakage
+Bepipred 3.0	Corynebacterium	AUC	0.679933363622596	NoLeakage
+Bepipred 3.0	Corynebacterium	F1	0.392592592592593	NoLeakage
+Bepipred 3.0	Corynebacterium	MCC	0.30435576142733	NoLeakage
+Bepipred 3.0	Corynebacterium	PPV	0.929824561403509	NoLeakage
+Bepipred 3.0	Corynebacterium	NPV	0.485530546623794	NoLeakage
+Bepipred 3.0	Corynebacterium	Sensitivity	0.248826291079812	NoLeakage
+Bepipred 3.0	Corynebacterium	Specificity	0.974193548387097	NoLeakage
+Bepipred 3.0	Corynebacterium	Balanced accuracy	0.611509919733454	NoLeakage
+Bepipred 3.0	Corynebacterium	Accuracy	0.554347826086957	NoLeakage
+Bepipred 3.0	E. coli	AUC	0.523047425679437	NoLeakage
+Bepipred 3.0	E. coli	F1	0.505908096280087	NoLeakage
+Bepipred 3.0	E. coli	MCC	-0.0690680252351601	NoLeakage
+Bepipred 3.0	E. coli	PPV	0.62962962962963	NoLeakage
+Bepipred 3.0	E. coli	NPV	0.304845814977974	NoLeakage
+Bepipred 3.0	E. coli	Sensitivity	0.422823701536211	NoLeakage
+Bepipred 3.0	E. coli	Specificity	0.504373177842566	NoLeakage
+Bepipred 3.0	E. coli	Balanced accuracy	0.463598439689388	NoLeakage
+Bepipred 3.0	E. coli	Accuracy	0.45007306380906	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	AUC	0.54741694933959	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	F1	0.365236523652365	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	MCC	0.0257641012582118	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	PPV	0.440026507620941	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	NPV	0.587771203155819	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	Sensitivity	0.312176774800188	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	Specificity	0.711702490617537	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	Balanced accuracy	0.511939632708862	NoLeakage
+Bepipred 3.0	Enterobacteriaceae	Accuracy	0.543693159351522	NoLeakage
+Bepipred 3.0	Lentivirus	AUC	0.471337126600284	NoLeakage
+Bepipred 3.0	Lentivirus	F1	0.398058252427185	NoLeakage
+Bepipred 3.0	Lentivirus	MCC	0.182994239225111	NoLeakage
+Bepipred 3.0	Lentivirus	PPV	0.950331125827815	NoLeakage
+Bepipred 3.0	Lentivirus	NPV	0.222424794895169	NoLeakage
+Bepipred 3.0	Lentivirus	Sensitivity	0.251754385964912	NoLeakage
+Bepipred 3.0	Lentivirus	Specificity	0.942084942084942	NoLeakage
+Bepipred 3.0	Lentivirus	Balanced accuracy	0.596919664024927	NoLeakage
+Bepipred 3.0	Lentivirus	Accuracy	0.379556826304503	NoLeakage
+Bepipred 3.0	M. tuberculosis	AUC	0.613110437795696	NoLeakage
+Bepipred 3.0	M. tuberculosis	F1	0.276269185360094	NoLeakage
+Bepipred 3.0	M. tuberculosis	MCC	0.0777838391993912	NoLeakage
+Bepipred 3.0	M. tuberculosis	PPV	0.540103866128102	NoLeakage
+Bepipred 3.0	M. tuberculosis	NPV	0.566954871362294	NoLeakage
+Bepipred 3.0	M. tuberculosis	Sensitivity	0.185603807257585	NoLeakage
+Bepipred 3.0	M. tuberculosis	Specificity	0.870910268869453	NoLeakage
+Bepipred 3.0	M. tuberculosis	Balanced accuracy	0.528257038063519	NoLeakage
+Bepipred 3.0	M. tuberculosis	Accuracy	0.562806454488722	NoLeakage
+Bepipred 3.0	Orthopoxvirus	AUC	0.771390894930615	NoLeakage
+Bepipred 3.0	Orthopoxvirus	F1	0.712250712250712	NoLeakage
+Bepipred 3.0	Orthopoxvirus	MCC	0.398598503667502	NoLeakage
+Bepipred 3.0	Orthopoxvirus	PPV	0.714285714285714	NoLeakage
+Bepipred 3.0	Orthopoxvirus	NPV	0.684210526315789	NoLeakage
+Bepipred 3.0	Orthopoxvirus	Sensitivity	0.710227272727273	NoLeakage
+Bepipred 3.0	Orthopoxvirus	Specificity	0.688473520249221	NoLeakage
+Bepipred 3.0	Orthopoxvirus	Balanced accuracy	0.699350396488247	NoLeakage
+Bepipred 3.0	Orthopoxvirus	Accuracy	0.699851411589896	NoLeakage
+Bepipred 3.0	P. aeruginosa	AUC	0.511900121275121	NoLeakage
+Bepipred 3.0	P. aeruginosa	F1	0.298136645962733	NoLeakage
+Bepipred 3.0	P. aeruginosa	MCC	0.100770081148075	NoLeakage
+Bepipred 3.0	P. aeruginosa	PPV	0.421052631578947	NoLeakage
+Bepipred 3.0	P. aeruginosa	NPV	0.702602230483271	NoLeakage
+Bepipred 3.0	P. aeruginosa	Sensitivity	0.230769230769231	NoLeakage
+Bepipred 3.0	P. aeruginosa	Specificity	0.851351351351351	NoLeakage
+Bepipred 3.0	P. aeruginosa	Balanced accuracy	0.541060291060291	NoLeakage
+Bepipred 3.0	P. aeruginosa	Accuracy	0.653374233128834	NoLeakage
+Bepipred 3.0	P. falciparum	AUC	0.559258074803079	NoLeakage
+Bepipred 3.0	P. falciparum	F1	0.353795966785291	NoLeakage
+Bepipred 3.0	P. falciparum	MCC	0.0299708079946678	NoLeakage
+Bepipred 3.0	P. falciparum	PPV	0.714513875024955	NoLeakage
+Bepipred 3.0	P. falciparum	NPV	0.318626016735912	NoLeakage
+Bepipred 3.0	P. falciparum	Sensitivity	0.235104775668396	NoLeakage
+Bepipred 3.0	P. falciparum	Specificity	0.792	NoLeakage
+Bepipred 3.0	P. falciparum	Balanced accuracy	0.513552387834198	NoLeakage
+Bepipred 3.0	P. falciparum	Accuracy	0.408362747759978	NoLeakage
+Bepipred 3.0	SARS-Cov-2	AUC	0.676308285547632	NoLeakage
+Bepipred 3.0	SARS-Cov-2	F1	0.172743362831858	NoLeakage
+Bepipred 3.0	SARS-Cov-2	MCC	0.0859372749083431	NoLeakage
+Bepipred 3.0	SARS-Cov-2	PPV	0.137905048982668	NoLeakage
+Bepipred 3.0	SARS-Cov-2	NPV	0.93047425977215	NoLeakage
+Bepipred 3.0	SARS-Cov-2	Sensitivity	0.231133564887907	NoLeakage
+Bepipred 3.0	SARS-Cov-2	Specificity	0.876870089333764	NoLeakage
+Bepipred 3.0	SARS-Cov-2	Balanced accuracy	0.554001827110835	NoLeakage
+Bepipred 3.0	SARS-Cov-2	Accuracy	0.826163497061813	NoLeakage
+Bepipred 3.0	S. mansoni	AUC	0.589063747840732	NoLeakage
+Bepipred 3.0	S. mansoni	F1	0.319888734353268	NoLeakage
+Bepipred 3.0	S. mansoni	MCC	0.0974224344153703	NoLeakage
+Bepipred 3.0	S. mansoni	PPV	0.307281229124917	NoLeakage
+Bepipred 3.0	S. mansoni	NPV	0.787489883223494	NoLeakage
+Bepipred 3.0	S. mansoni	Sensitivity	0.333575054387237	NoLeakage
+Bepipred 3.0	S. mansoni	Specificity	0.76657287563309	NoLeakage
+Bepipred 3.0	S. mansoni	Balanced accuracy	0.550073965010163	NoLeakage
+Bepipred 3.0	S. mansoni	Accuracy	0.664004122648802	NoLeakage
+Bepipred 3.0	T. gondii	AUC	0.483928831585082	NoLeakage
+Bepipred 3.0	T. gondii	F1	0.636539204325995	NoLeakage
+Bepipred 3.0	T. gondii	MCC	0.00767960880623424	NoLeakage
+Bepipred 3.0	T. gondii	PPV	0.614466815809098	NoLeakage
+Bepipred 3.0	T. gondii	NPV	0.393419170243204	NoLeakage
+Bepipred 3.0	T. gondii	Sensitivity	0.66025641025641	NoLeakage
+Bepipred 3.0	T. gondii	Specificity	0.347222222222222	NoLeakage
+Bepipred 3.0	T. gondii	Balanced accuracy	0.503739316239316	NoLeakage
+Bepipred 3.0	T. gondii	Accuracy	0.538725490196078	NoLeakage
+Epidope	C. difficile	AUC	0.525820654269025	NoLeakage
+Epidope	C. difficile	F1	0	NoLeakage
+Epidope	C. difficile	MCC	0	NoLeakage
+Epidope	C. difficile	PPV	0	NoLeakage
+Epidope	C. difficile	NPV	0.784567901234568	NoLeakage
+Epidope	C. difficile	Sensitivity	0	NoLeakage
+Epidope	C. difficile	Specificity	1	NoLeakage
+Epidope	C. difficile	Balanced accuracy	0.5	NoLeakage
+Epidope	C. difficile	Accuracy	0.784567901234568	NoLeakage
+Epidope	C. trachomatis	AUC	0.568631715739718	NoLeakage
+Epidope	C. trachomatis	F1	0.249080882352941	NoLeakage
+Epidope	C. trachomatis	MCC	-0.0598176933882279	NoLeakage
+Epidope	C. trachomatis	PPV	0.611738148984199	NoLeakage
+Epidope	C. trachomatis	NPV	0.313937118723604	NoLeakage
+Epidope	C. trachomatis	Sensitivity	0.156376226197346	NoLeakage
+Epidope	C. trachomatis	Specificity	0.795481569560048	NoLeakage
+Epidope	C. trachomatis	Balanced accuracy	0.475928897878697	NoLeakage
+Epidope	C. trachomatis	Accuracy	0.365190365190365	NoLeakage
+Epidope	Filoviridae	AUC	0.549206850431282	NoLeakage
+Epidope	Filoviridae	F1	0.16036308623298	NoLeakage
+Epidope	Filoviridae	MCC	0.1869025528811	NoLeakage
+Epidope	Filoviridae	PPV	0.828125	NoLeakage
+Epidope	Filoviridae	NPV	0.626373626373626	NoLeakage
+Epidope	Filoviridae	Sensitivity	0.0887772194304858	NoLeakage
+Epidope	Filoviridae	Specificity	0.988082340195016	NoLeakage
+Epidope	Filoviridae	Balanced accuracy	0.538429779812751	NoLeakage
+Epidope	Filoviridae	Accuracy	0.634868421052632	NoLeakage
+Epidope	Human Gammaherpesvirus 4	AUC	0.588383977035333	NoLeakage
+Epidope	Human Gammaherpesvirus 4	F1	0.192914285714286	NoLeakage
+Epidope	Human Gammaherpesvirus 4	MCC	0.0390192695443434	NoLeakage
+Epidope	Human Gammaherpesvirus 4	PPV	0.391102873030584	NoLeakage
+Epidope	Human Gammaherpesvirus 4	NPV	0.667707249392993	NoLeakage
+Epidope	Human Gammaherpesvirus 4	Sensitivity	0.128033980582524	NoLeakage
+Epidope	Human Gammaherpesvirus 4	Specificity	0.89785447761194	NoLeakage
+Epidope	Human Gammaherpesvirus 4	Balanced accuracy	0.512944229097232	NoLeakage
+Epidope	Human Gammaherpesvirus 4	Accuracy	0.637027138157895	NoLeakage
+Epidope	Influenza A	AUC	0.605042016806723	NoLeakage
+Epidope	Influenza A	F1	0.17964824120603	NoLeakage
+Epidope	Influenza A	MCC	0.0120133872799067	NoLeakage
+Epidope	Influenza A	PPV	0.722222222222222	NoLeakage
+Epidope	Influenza A	NPV	0.296004501969612	NoLeakage
+Epidope	Influenza A	Sensitivity	0.102582496413199	NoLeakage
+Epidope	Influenza A	Specificity	0.905335628227194	NoLeakage
+Epidope	Influenza A	Balanced accuracy	0.503959062320197	NoLeakage
+Epidope	Influenza A	Accuracy	0.33873417721519	NoLeakage
+Epidope	Measles morbilivirus	AUC	0.592546429016577	NoLeakage
+Epidope	Measles morbilivirus	F1	0.486187845303867	NoLeakage
+Epidope	Measles morbilivirus	MCC	0.0517899353597916	NoLeakage
+Epidope	Measles morbilivirus	PPV	0.647058823529412	NoLeakage
+Epidope	Measles morbilivirus	NPV	0.405172413793103	NoLeakage
+Epidope	Measles morbilivirus	Sensitivity	0.389380530973451	NoLeakage
+Epidope	Measles morbilivirus	Specificity	0.661971830985915	NoLeakage
+Epidope	Measles morbilivirus	Balanced accuracy	0.525676180979683	NoLeakage
+Epidope	Measles morbilivirus	Accuracy	0.494565217391304	NoLeakage
+Epidope	Mononegavirales	AUC	0.513875554135549	NoLeakage
+Epidope	Mononegavirales	F1	0.297147722435079	NoLeakage
+Epidope	Mononegavirales	MCC	-0.0841680818680639	NoLeakage
+Epidope	Mononegavirales	PPV	0.392575928008999	NoLeakage
+Epidope	Mononegavirales	NPV	0.513998250218723	NoLeakage
+Epidope	Mononegavirales	Sensitivity	0.239041095890411	NoLeakage
+Epidope	Mononegavirales	Specificity	0.685131195335277	NoLeakage
+Epidope	Mononegavirales	Balanced accuracy	0.462086145612844	NoLeakage
+Epidope	Mononegavirales	Accuracy	0.48	NoLeakage
+Epidope	O. volvulus	AUC	0.560457897848396	NoLeakage
+Epidope	O. volvulus	F1	0.0724365004703669	NoLeakage
+Epidope	O. volvulus	MCC	0.00463696412718609	NoLeakage
+Epidope	O. volvulus	PPV	0.130952380952381	NoLeakage
+Epidope	O. volvulus	NPV	0.876238881829733	NoLeakage
+Epidope	O. volvulus	Sensitivity	0.0500650195058518	NoLeakage
+Epidope	O. volvulus	Specificity	0.952924919391985	NoLeakage
+Epidope	O. volvulus	Balanced accuracy	0.501494969448919	NoLeakage
+Epidope	O. volvulus	Accuracy	0.840877914951989	NoLeakage
+Epidope	B. pertussis	AUC	0.643112354713732	NoLeakage
+Epidope	B. pertussis	F1	0.0669856459330144	NoLeakage
+Epidope	B. pertussis	MCC	0.0888334576481503	NoLeakage
+Epidope	B. pertussis	PPV	1	NoLeakage
+Epidope	B. pertussis	NPV	0.227722772277228	NoLeakage
+Epidope	B. pertussis	Sensitivity	0.0346534653465347	NoLeakage
+Epidope	B. pertussis	Specificity	1	NoLeakage
+Epidope	B. pertussis	Balanced accuracy	0.517326732673267	NoLeakage
+Epidope	B. pertussis	Accuracy	0.248554913294798	NoLeakage
+Epidope	Corynebacterium	AUC	0.628395061728395	NoLeakage
+Epidope	Corynebacterium	F1	0	NoLeakage
+Epidope	Corynebacterium	MCC	0	NoLeakage
+Epidope	Corynebacterium	PPV	0	NoLeakage
+Epidope	Corynebacterium	NPV	0.381679389312977	NoLeakage
+Epidope	Corynebacterium	Sensitivity	0	NoLeakage
+Epidope	Corynebacterium	Specificity	1	NoLeakage
+Epidope	Corynebacterium	Balanced accuracy	0.5	NoLeakage
+Epidope	Corynebacterium	Accuracy	0.381679389312977	NoLeakage
+Epidope	E. coli	AUC	0.767900293540487	NoLeakage
+Epidope	E. coli	F1	0.277628032345013	NoLeakage
+Epidope	E. coli	MCC	0.120843839862449	NoLeakage
+Epidope	E. coli	PPV	0.887931034482759	NoLeakage
+Epidope	E. coli	NPV	0.26025459688826	NoLeakage
+Epidope	E. coli	Sensitivity	0.164536741214058	NoLeakage
+Epidope	E. coli	Specificity	0.934010152284264	NoLeakage
+Epidope	E. coli	Balanced accuracy	0.549273446749161	NoLeakage
+Epidope	E. coli	Accuracy	0.348724179829891	NoLeakage
+Epidope	Enterobacteriaceae	AUC	0.69469568540603	NoLeakage
+Epidope	Enterobacteriaceae	F1	0.254175744371823	NoLeakage
+Epidope	Enterobacteriaceae	MCC	0.193036703827817	NoLeakage
+Epidope	Enterobacteriaceae	PPV	0.883838383838384	NoLeakage
+Epidope	Enterobacteriaceae	NPV	0.429545454545455	NoLeakage
+Epidope	Enterobacteriaceae	Sensitivity	0.148430873621713	NoLeakage
+Epidope	Enterobacteriaceae	Specificity	0.970474967907574	NoLeakage
+Epidope	Enterobacteriaceae	Balanced accuracy	0.559452920764644	NoLeakage
+Epidope	Enterobacteriaceae	Accuracy	0.475485188968335	NoLeakage
+Epidope	Lentivirus	AUC	0.579220779220779	NoLeakage
+Epidope	Lentivirus	F1	0.427260812581914	NoLeakage
+Epidope	Lentivirus	MCC	0.0617142497656744	NoLeakage
+Epidope	Lentivirus	PPV	0.970238095238095	NoLeakage
+Epidope	Lentivirus	NPV	0.0608695652173914	NoLeakage
+Epidope	Lentivirus	Sensitivity	0.273949579831933	NoLeakage
+Epidope	Lentivirus	Specificity	0.848484848484849	NoLeakage
+Epidope	Lentivirus	Balanced accuracy	0.561217214158391	NoLeakage
+Epidope	Lentivirus	Accuracy	0.304140127388535	NoLeakage
+Epidope	M. tuberculosis	AUC	0.589435785703412	NoLeakage
+Epidope	M. tuberculosis	F1	0.0585549288208434	NoLeakage
+Epidope	M. tuberculosis	MCC	0.0525294938398801	NoLeakage
+Epidope	M. tuberculosis	PPV	0.664634146341464	NoLeakage
+Epidope	M. tuberculosis	NPV	0.511746391168978	NoLeakage
+Epidope	M. tuberculosis	Sensitivity	0.0306265805001405	NoLeakage
+Epidope	M. tuberculosis	Specificity	0.985017706347044	NoLeakage
+Epidope	M. tuberculosis	Balanced accuracy	0.507822143423592	NoLeakage
+Epidope	M. tuberculosis	Accuracy	0.51521438450899	NoLeakage
+Epidope	Orthopoxvirus	AUC	0.66540404040404	NoLeakage
+Epidope	Orthopoxvirus	F1	0.346153846153846	NoLeakage
+Epidope	Orthopoxvirus	MCC	-0.3452256051846	NoLeakage
+Epidope	Orthopoxvirus	PPV	0.5625	NoLeakage
+Epidope	Orthopoxvirus	NPV	0.129032258064516	NoLeakage
+Epidope	Orthopoxvirus	Sensitivity	0.25	NoLeakage
+Epidope	Orthopoxvirus	Specificity	0.363636363636364	NoLeakage
+Epidope	Orthopoxvirus	Balanced accuracy	0.306818181818182	NoLeakage
+Epidope	Orthopoxvirus	Accuracy	0.276595744680851	NoLeakage
+Epidope	P. aeruginosa	AUC	0.634920634920635	NoLeakage
+Epidope	P. aeruginosa	F1	0.03125	NoLeakage
+Epidope	P. aeruginosa	MCC	0.084639987700317	NoLeakage
+Epidope	P. aeruginosa	PPV	1	NoLeakage
+Epidope	P. aeruginosa	NPV	0.451327433628319	NoLeakage
+Epidope	P. aeruginosa	Sensitivity	0.0158730158730159	NoLeakage
+Epidope	P. aeruginosa	Specificity	1	NoLeakage
+Epidope	P. aeruginosa	Balanced accuracy	0.507936507936508	NoLeakage
+Epidope	P. aeruginosa	Accuracy	0.456140350877193	NoLeakage
+Epidope	P. falciparum	AUC	0.521234362999538	NoLeakage
+Epidope	P. falciparum	F1	0.560476727331293	NoLeakage
+Epidope	P. falciparum	MCC	-0.0197910273027394	NoLeakage
+Epidope	P. falciparum	PPV	0.796824912227141	NoLeakage
+Epidope	P. falciparum	NPV	0.187388882304136	NoLeakage
+Epidope	P. falciparum	Sensitivity	0.43226233852269	NoLeakage
+Epidope	P. falciparum	Specificity	0.542925824175824	NoLeakage
+Epidope	P. falciparum	Balanced accuracy	0.487594081349257	NoLeakage
+Epidope	P. falciparum	Accuracy	0.453763010408327	NoLeakage
+Epidope	SARS-Cov-2	AUC	0.559597105108398	NoLeakage
+Epidope	SARS-Cov-2	F1	0.148939837958973	NoLeakage
+Epidope	SARS-Cov-2	MCC	0.0519639774562163	NoLeakage
+Epidope	SARS-Cov-2	PPV	0.112091333679294	NoLeakage
+Epidope	SARS-Cov-2	NPV	0.92651338766007	NoLeakage
+Epidope	SARS-Cov-2	Sensitivity	0.221879815100154	NoLeakage
+Epidope	SARS-Cov-2	Specificity	0.848066420991875	NoLeakage
+Epidope	SARS-Cov-2	Balanced accuracy	0.534973118046015	NoLeakage
+Epidope	SARS-Cov-2	Accuracy	0.798242746219861	NoLeakage
+Epidope	S. mansoni	AUC	0.607695780646161	NoLeakage
+Epidope	S. mansoni	F1	0.298892154646168	NoLeakage
+Epidope	S. mansoni	MCC	0.117680768957174	NoLeakage
+Epidope	S. mansoni	PPV	0.316874400767018	NoLeakage
+Epidope	S. mansoni	NPV	0.805861230163327	NoLeakage
+Epidope	S. mansoni	Sensitivity	0.282841249465126	NoLeakage
+Epidope	S. mansoni	Specificity	0.829992841803865	NoLeakage
+Epidope	S. mansoni	Balanced accuracy	0.556417045634496	NoLeakage
+Epidope	S. mansoni	Accuracy	0.710700625058308	NoLeakage
+Epidope	T. gondii	AUC	0.598090930451128	NoLeakage
+Epidope	T. gondii	F1	0.133152173913043	NoLeakage
+Epidope	T. gondii	MCC	-0.0213930826500304	NoLeakage
+Epidope	T. gondii	PPV	0.510416666666667	NoLeakage
+Epidope	T. gondii	NPV	0.450743494423792	NoLeakage
+Epidope	T. gondii	Sensitivity	0.0765625	NoLeakage
+Epidope	T. gondii	Specificity	0.911654135338346	NoLeakage
+Epidope	T. gondii	Balanced accuracy	0.494108317669173	NoLeakage
+Epidope	T. gondii	Accuracy	0.455631399317406	NoLeakage
+Epitope1D	C. difficile	AUC	0.501372185970147	NoLeakage
+Epitope1D	C. difficile	F1	0.269714285714286	NoLeakage
+Epitope1D	C. difficile	MCC	-0.0150226020052939	NoLeakage
+Epitope1D	C. difficile	PPV	0.17201166180758	NoLeakage
+Epitope1D	C. difficile	NPV	0.816062176165803	NoLeakage
+Epitope1D	C. difficile	Sensitivity	0.624338624338624	NoLeakage
+Epitope1D	C. difficile	Specificity	0.35673839184598	NoLeakage
+Epitope1D	C. difficile	Balanced accuracy	0.490538508092302	NoLeakage
+Epitope1D	C. difficile	Accuracy	0.403917910447761	NoLeakage
+Epitope1D	C. trachomatis	AUC	0.550858528932919	NoLeakage
+Epitope1D	C. trachomatis	F1	0.330674846625767	NoLeakage
+Epitope1D	C. trachomatis	MCC	0.0834915911056437	NoLeakage
+Epitope1D	C. trachomatis	PPV	0.649397590361446	NoLeakage
+Epitope1D	C. trachomatis	NPV	0.455513964871869	NoLeakage
+Epitope1D	C. trachomatis	Sensitivity	0.221810699588477	NoLeakage
+Epitope1D	C. trachomatis	Specificity	0.844634276561666	NoLeakage
+Epitope1D	C. trachomatis	Balanced accuracy	0.533222488075072	NoLeakage
+Epitope1D	C. trachomatis	Accuracy	0.492911921914943	NoLeakage
+Epitope1D	Filoviridae	AUC	0.612955631460782	NoLeakage
+Epitope1D	Filoviridae	F1	0.274682846111418	NoLeakage
+Epitope1D	Filoviridae	MCC	0.138106323014187	NoLeakage
+Epitope1D	Filoviridae	PPV	0.323376623376623	NoLeakage
+Epitope1D	Filoviridae	NPV	0.832665964172813	NoLeakage
+Epitope1D	Filoviridae	Sensitivity	0.238734419942474	NoLeakage
+Epitope1D	Filoviridae	Specificity	0.883497316636851	NoLeakage
+Epitope1D	Filoviridae	Balanced accuracy	0.561115868289663	NoLeakage
+Epitope1D	Filoviridae	Accuracy	0.761559383499547	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	AUC	0.609479758466508	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	F1	0.505188391321236	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	MCC	0.125808675382774	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	PPV	0.364247419380651	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	NPV	0.771616541353384	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	Sensitivity	0.824040550325851	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	Specificity	0.292457030902128	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	Balanced accuracy	0.55824879061399	NoLeakage
+Epitope1D	Human Gammaherpesvirus 4	Accuracy	0.467737121709545	NoLeakage
+Epitope1D	Influenza A	AUC	0.54885474539588	NoLeakage
+Epitope1D	Influenza A	F1	0.423880597014925	NoLeakage
+Epitope1D	Influenza A	MCC	0.109279591285664	NoLeakage
+Epitope1D	Influenza A	PPV	0.72710843373494	NoLeakage
+Epitope1D	Influenza A	NPV	0.392089423903697	NoLeakage
+Epitope1D	Influenza A	Sensitivity	0.29913258983891	NoLeakage
+Epitope1D	Influenza A	Specificity	0.801054018445323	NoLeakage
+Epitope1D	Influenza A	Balanced accuracy	0.550093304142116	NoLeakage
+Epitope1D	Influenza A	Accuracy	0.480196451204056	NoLeakage
+Epitope1D	Measles morbilivirus	AUC	0.583859336813203	NoLeakage
+Epitope1D	Measles morbilivirus	F1	0.12298682284041	NoLeakage
+Epitope1D	Measles morbilivirus	MCC	-0.169816572986956	NoLeakage
+Epitope1D	Measles morbilivirus	PPV	0.23728813559322	NoLeakage
+Epitope1D	Measles morbilivirus	NPV	0.528455284552846	NoLeakage
+Epitope1D	Measles morbilivirus	Sensitivity	0.08300395256917	NoLeakage
+Epitope1D	Measles morbilivirus	Specificity	0.793893129770992	NoLeakage
+Epitope1D	Measles morbilivirus	Balanced accuracy	0.438448541170081	NoLeakage
+Epitope1D	Measles morbilivirus	Accuracy	0.484065460809647	NoLeakage
+Epitope1D	Mononegavirales	AUC	0.536035074708207	NoLeakage
+Epitope1D	Mononegavirales	F1	0.249011113203993	NoLeakage
+Epitope1D	Mononegavirales	MCC	0.0682097749673486	NoLeakage
+Epitope1D	Mononegavirales	PPV	0.393452380952381	NoLeakage
+Epitope1D	Mononegavirales	NPV	0.696243987309385	NoLeakage
+Epitope1D	Mononegavirales	Sensitivity	0.182143841278589	NoLeakage
+Epitope1D	Mononegavirales	Specificity	0.869726412682178	NoLeakage
+Epitope1D	Mononegavirales	Balanced accuracy	0.525935126980384	NoLeakage
+Epitope1D	Mononegavirales	Accuracy	0.651820801676709	NoLeakage
+Epitope1D	O. volvulus	AUC	0.635238165635925	NoLeakage
+Epitope1D	O. volvulus	F1	0.179271708683473	NoLeakage
+Epitope1D	O. volvulus	MCC	0.044427676343913	NoLeakage
+Epitope1D	O. volvulus	PPV	0.149026248941575	NoLeakage
+Epitope1D	O. volvulus	NPV	0.88843925319599	NoLeakage
+Epitope1D	O. volvulus	Sensitivity	0.224920127795527	NoLeakage
+Epitope1D	O. volvulus	Specificity	0.827763496143959	NoLeakage
+Epitope1D	O. volvulus	Balanced accuracy	0.526341811969743	NoLeakage
+Epitope1D	O. volvulus	Accuracy	0.756479032867397	NoLeakage
+Epitope1D	B. pertussis	AUC	0.53964470648909	NoLeakage
+Epitope1D	B. pertussis	F1	0.311969111969112	NoLeakage
+Epitope1D	B. pertussis	MCC	0.0234420853424715	NoLeakage
+Epitope1D	B. pertussis	PPV	0.503740648379052	NoLeakage
+Epitope1D	B. pertussis	NPV	0.524725274725275	NoLeakage
+Epitope1D	B. pertussis	Sensitivity	0.225950782997763	NoLeakage
+Epitope1D	B. pertussis	Specificity	0.793354101765317	NoLeakage
+Epitope1D	B. pertussis	Balanced accuracy	0.50965244238154	NoLeakage
+Epitope1D	B. pertussis	Accuracy	0.520193861066236	NoLeakage
+Epitope1D	Corynebacterium	AUC	0.540784491897622	NoLeakage
+Epitope1D	Corynebacterium	F1	0.547461368653422	NoLeakage
+Epitope1D	Corynebacterium	MCC	-0.172324825033519	NoLeakage
+Epitope1D	Corynebacterium	PPV	0.516666666666667	NoLeakage
+Epitope1D	Corynebacterium	NPV	0.3046875	NoLeakage
+Epitope1D	Corynebacterium	Sensitivity	0.582159624413146	NoLeakage
+Epitope1D	Corynebacterium	Specificity	0.251612903225806	NoLeakage
+Epitope1D	Corynebacterium	Balanced accuracy	0.416886263819476	NoLeakage
+Epitope1D	Corynebacterium	Accuracy	0.442934782608696	NoLeakage
+Epitope1D	E. coli	AUC	0.544055954495917	NoLeakage
+Epitope1D	E. coli	F1	0.409679234665166	NoLeakage
+Epitope1D	E. coli	MCC	0.235055810808859	NoLeakage
+Epitope1D	E. coli	PPV	0.88780487804878	NoLeakage
+Epitope1D	E. coli	NPV	0.389531345100426	NoLeakage
+Epitope1D	E. coli	Sensitivity	0.266276517922458	NoLeakage
+Epitope1D	E. coli	Specificity	0.932944606413994	NoLeakage
+Epitope1D	E. coli	Balanced accuracy	0.599610562168226	NoLeakage
+Epitope1D	E. coli	Accuracy	0.489040428641013	NoLeakage
+Epitope1D	Enterobacteriaceae	AUC	0.56964212300559	NoLeakage
+Epitope1D	Enterobacteriaceae	F1	0.356314826113484	NoLeakage
+Epitope1D	Enterobacteriaceae	MCC	0.095507535379602	NoLeakage
+Epitope1D	Enterobacteriaceae	PPV	0.507384882710686	NoLeakage
+Epitope1D	Enterobacteriaceae	NPV	0.605067826977221	NoLeakage
+Epitope1D	Enterobacteriaceae	Sensitivity	0.274565115185708	NoLeakage
+Epitope1D	Enterobacteriaceae	Specificity	0.806550665301945	NoLeakage
+Epitope1D	Enterobacteriaceae	Balanced accuracy	0.540557890243826	NoLeakage
+Epitope1D	Enterobacteriaceae	Accuracy	0.582839066824832	NoLeakage
+Epitope1D	Lentivirus	AUC	0.567349576870002	NoLeakage
+Epitope1D	Lentivirus	F1	0.405012531328321	NoLeakage
+Epitope1D	Lentivirus	MCC	-0.0870631817370922	NoLeakage
+Epitope1D	Lentivirus	PPV	0.765151515151515	NoLeakage
+Epitope1D	Lentivirus	NPV	0.161010260457774	NoLeakage
+Epitope1D	Lentivirus	Sensitivity	0.275391956373551	NoLeakage
+Epitope1D	Lentivirus	Specificity	0.621951219512195	NoLeakage
+Epitope1D	Lentivirus	Balanced accuracy	0.448671587942873	NoLeakage
+Epitope1D	Lentivirus	Accuracy	0.338718662952646	NoLeakage
+Epitope1D	M. tuberculosis	AUC	0.53629284044579	NoLeakage
+Epitope1D	M. tuberculosis	F1	0.529781068898905	NoLeakage
+Epitope1D	M. tuberculosis	MCC	0.0200521659222584	NoLeakage
+Epitope1D	M. tuberculosis	PPV	0.453993654297144	NoLeakage
+Epitope1D	M. tuberculosis	NPV	0.566597653554175	NoLeakage
+Epitope1D	M. tuberculosis	Sensitivity	0.635942028985507	NoLeakage
+Epitope1D	M. tuberculosis	Specificity	0.383585111353372	NoLeakage
+Epitope1D	M. tuberculosis	Balanced accuracy	0.50976357016944	NoLeakage
+Epitope1D	M. tuberculosis	Accuracy	0.496205588133839	NoLeakage
+Epitope1D	Orthopoxvirus	AUC	0.643766680600662	NoLeakage
+Epitope1D	Orthopoxvirus	F1	0.593288590604027	NoLeakage
+Epitope1D	Orthopoxvirus	MCC	0.307432072647154	NoLeakage
+Epitope1D	Orthopoxvirus	PPV	0.426640926640927	NoLeakage
+Epitope1D	Orthopoxvirus	NPV	0.95	NoLeakage
+Epitope1D	Orthopoxvirus	Sensitivity	0.973568281938326	NoLeakage
+Epitope1D	Orthopoxvirus	Specificity	0.277372262773723	NoLeakage
+Epitope1D	Orthopoxvirus	Balanced accuracy	0.625470272356024	NoLeakage
+Epitope1D	Orthopoxvirus	Accuracy	0.525078369905956	NoLeakage
+Epitope1D	P. aeruginosa	AUC	0.552548943173943	NoLeakage
+Epitope1D	P. aeruginosa	F1	0.236024844720497	NoLeakage
+Epitope1D	P. aeruginosa	MCC	0.0141375746758376	NoLeakage
+Epitope1D	P. aeruginosa	PPV	0.333333333333333	NoLeakage
+Epitope1D	P. aeruginosa	NPV	0.684014869888476	NoLeakage
+Epitope1D	P. aeruginosa	Sensitivity	0.182692307692308	NoLeakage
+Epitope1D	P. aeruginosa	Specificity	0.828828828828829	NoLeakage
+Epitope1D	P. aeruginosa	Balanced accuracy	0.505760568260568	NoLeakage
+Epitope1D	P. aeruginosa	Accuracy	0.622699386503067	NoLeakage
+Epitope1D	P. falciparum	AUC	0.569805720118566	NoLeakage
+Epitope1D	P. falciparum	F1	0.751697945832063	NoLeakage
+Epitope1D	P. falciparum	MCC	0.0761968667951177	NoLeakage
+Epitope1D	P. falciparum	PPV	0.664770777151263	NoLeakage
+Epitope1D	P. falciparum	NPV	0.435569755058573	NoLeakage
+Epitope1D	P. falciparum	Sensitivity	0.86477867074882	NoLeakage
+Epitope1D	P. falciparum	Specificity	0.193083913607931	NoLeakage
+Epitope1D	P. falciparum	Balanced accuracy	0.528931292178376	NoLeakage
+Epitope1D	P. falciparum	Accuracy	0.629125087988075	NoLeakage
+Epitope1D	SARS-Cov-2	AUC	0.597260563248152	NoLeakage
+Epitope1D	SARS-Cov-2	F1	0.159090909090909	NoLeakage
+Epitope1D	SARS-Cov-2	MCC	0.107158898584471	NoLeakage
+Epitope1D	SARS-Cov-2	PPV	0.208910034602076	NoLeakage
+Epitope1D	SARS-Cov-2	NPV	0.925476997248311	NoLeakage
+Epitope1D	SARS-Cov-2	Sensitivity	0.128457446808511	NoLeakage
+Epitope1D	SARS-Cov-2	Specificity	0.956990005878895	NoLeakage
+Epitope1D	SARS-Cov-2	Balanced accuracy	0.542723726343703	NoLeakage
+Epitope1D	SARS-Cov-2	Accuracy	0.889683482769796	NoLeakage
+Epitope1D	S. mansoni	AUC	0.521727022795098	NoLeakage
+Epitope1D	S. mansoni	F1	0.242271505376344	NoLeakage
+Epitope1D	S. mansoni	MCC	-0.0161166634916275	NoLeakage
+Epitope1D	S. mansoni	PPV	0.225735754539762	NoLeakage
+Epitope1D	S. mansoni	NPV	0.75890637945319	NoLeakage
+Epitope1D	S. mansoni	Sensitivity	0.261421319796954	NoLeakage
+Epitope1D	S. mansoni	Specificity	0.721665728756331	NoLeakage
+Epitope1D	S. mansoni	Balanced accuracy	0.491543524276643	NoLeakage
+Epitope1D	S. mansoni	Accuracy	0.612642789659023	NoLeakage
+Epitope1D	T. gondii	AUC	0.509298716329966	NoLeakage
+Epitope1D	T. gondii	F1	0.670616939700244	NoLeakage
+Epitope1D	T. gondii	MCC	-0.0738733717337415	NoLeakage
+Epitope1D	T. gondii	PPV	0.593460826650216	NoLeakage
+Epitope1D	T. gondii	NPV	0.317422434367542	NoLeakage
+Epitope1D	T. gondii	Sensitivity	0.770833333333333	NoLeakage
+Epitope1D	T. gondii	Specificity	0.167929292929293	NoLeakage
+Epitope1D	T. gondii	Balanced accuracy	0.469381313131313	NoLeakage
+Epitope1D	T. gondii	Accuracy	0.536764705882353	NoLeakage
+EpitopeTransfer	C. difficile	AUC	0.706520406912612	NoLeakage
+EpitopeTransfer	C. difficile	F1	0.236111111111111	NoLeakage
+EpitopeTransfer	C. difficile	MCC	0.172511556860175	NoLeakage
+EpitopeTransfer	C. difficile	PPV	0.137651821862348	NoLeakage
+EpitopeTransfer	C. difficile	NPV	0.963541666666667	NoLeakage
+EpitopeTransfer	C. difficile	Sensitivity	0.829268292682927	NoLeakage
+EpitopeTransfer	C. difficile	Specificity	0.464824120603015	NoLeakage
+EpitopeTransfer	C. difficile	Balanced accuracy	0.647046206642971	NoLeakage
+EpitopeTransfer	C. difficile	Accuracy	0.498861047835991	NoLeakage
+EpitopeTransfer	C. trachomatis	AUC	0.773421812248996	NoLeakage
+EpitopeTransfer	C. trachomatis	F1	0.716599190283401	NoLeakage
+EpitopeTransfer	C. trachomatis	MCC	0.447121288823959	NoLeakage
+EpitopeTransfer	C. trachomatis	PPV	0.743697478991597	NoLeakage
+EpitopeTransfer	C. trachomatis	NPV	0.704119850187266	NoLeakage
+EpitopeTransfer	C. trachomatis	Sensitivity	0.69140625	NoLeakage
+EpitopeTransfer	C. trachomatis	Specificity	0.755020080321285	NoLeakage
+EpitopeTransfer	C. trachomatis	Balanced accuracy	0.723213165160643	NoLeakage
+EpitopeTransfer	C. trachomatis	Accuracy	0.722772277227723	NoLeakage
+EpitopeTransfer	Filoviridae	AUC	0.971612338362069	NoLeakage
+EpitopeTransfer	Filoviridae	F1	0.780141843971631	NoLeakage
+EpitopeTransfer	Filoviridae	MCC	0.765919196345281	NoLeakage
+EpitopeTransfer	Filoviridae	PPV	0.662650602409638	NoLeakage
+EpitopeTransfer	Filoviridae	NPV	0.993839835728953	NoLeakage
+EpitopeTransfer	Filoviridae	Sensitivity	0.948275862068966	NoLeakage
+EpitopeTransfer	Filoviridae	Specificity	0.9453125	NoLeakage
+EpitopeTransfer	Filoviridae	Balanced accuracy	0.946794181034483	NoLeakage
+EpitopeTransfer	Filoviridae	Accuracy	0.945614035087719	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	AUC	0.593038481683458	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	F1	0.444015444015444	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	MCC	0.240911452563318	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	PPV	0.680473372781065	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	NPV	0.609022556390977	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	Sensitivity	0.329512893982808	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	Specificity	0.870967741935484	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	Balanced accuracy	0.600240317959146	NoLeakage
+EpitopeTransfer	Human Gammaherpesvirus 4	Accuracy	0.624755700325733	NoLeakage
+EpitopeTransfer	Influenza A	AUC	0.755717925030094	NoLeakage
+EpitopeTransfer	Influenza A	F1	0.817950889077053	NoLeakage
+EpitopeTransfer	Influenza A	MCC	0.175976033435571	NoLeakage
+EpitopeTransfer	Influenza A	PPV	0.786644951140065	NoLeakage
+EpitopeTransfer	Influenza A	NPV	0.408450704225352	NoLeakage
+EpitopeTransfer	Influenza A	Sensitivity	0.851851851851852	NoLeakage
+EpitopeTransfer	Influenza A	Specificity	0.306878306878307	NoLeakage
+EpitopeTransfer	Influenza A	Balanced accuracy	0.579365079365079	NoLeakage
+EpitopeTransfer	Influenza A	Accuracy	0.715608465608466	NoLeakage
+EpitopeTransfer	Measles morbilivirus	AUC	0.686121323529412	NoLeakage
+EpitopeTransfer	Measles morbilivirus	F1	0.69060773480663	NoLeakage
+EpitopeTransfer	Measles morbilivirus	MCC	0.386335784313726	NoLeakage
+EpitopeTransfer	Measles morbilivirus	PPV	0.651041666666667	NoLeakage
+EpitopeTransfer	Measles morbilivirus	NPV	0.735294117647059	NoLeakage
+EpitopeTransfer	Measles morbilivirus	Sensitivity	0.735294117647059	NoLeakage
+EpitopeTransfer	Measles morbilivirus	Specificity	0.651041666666667	NoLeakage
+EpitopeTransfer	Measles morbilivirus	Balanced accuracy	0.693167892156863	NoLeakage
+EpitopeTransfer	Measles morbilivirus	Accuracy	0.69060773480663	NoLeakage
+EpitopeTransfer	Mononegavirales	AUC	0.725381535066513	NoLeakage
+EpitopeTransfer	Mononegavirales	F1	0.565074135090609	NoLeakage
+EpitopeTransfer	Mononegavirales	MCC	0.286167160029344	NoLeakage
+EpitopeTransfer	Mononegavirales	PPV	0.481065918653576	NoLeakage
+EpitopeTransfer	Mononegavirales	NPV	0.790450928381963	NoLeakage
+EpitopeTransfer	Mononegavirales	Sensitivity	0.684630738522954	NoLeakage
+EpitopeTransfer	Mononegavirales	Specificity	0.616977225672878	NoLeakage
+EpitopeTransfer	Mononegavirales	Balanced accuracy	0.650803982097916	NoLeakage
+EpitopeTransfer	Mononegavirales	Accuracy	0.640081799591002	NoLeakage
+EpitopeTransfer	O. volvulus	AUC	0.626022741112255	NoLeakage
+EpitopeTransfer	O. volvulus	F1	0.362179487179487	NoLeakage
+EpitopeTransfer	O. volvulus	MCC	0.272042861609763	NoLeakage
+EpitopeTransfer	O. volvulus	PPV	0.423220973782772	NoLeakage
+EpitopeTransfer	O. volvulus	NPV	0.884578997161779	NoLeakage
+EpitopeTransfer	O. volvulus	Sensitivity	0.316526610644258	NoLeakage
+EpitopeTransfer	O. volvulus	Specificity	0.923913043478261	NoLeakage
+EpitopeTransfer	O. volvulus	Balanced accuracy	0.620219827061259	NoLeakage
+EpitopeTransfer	O. volvulus	Accuracy	0.832843343133137	NoLeakage
+EpitopeTransfer	B. pertussis	AUC	0.554517133956386	NoLeakage
+EpitopeTransfer	B. pertussis	F1	0.8359375	NoLeakage
+EpitopeTransfer	B. pertussis	MCC	0	NoLeakage
+EpitopeTransfer	B. pertussis	PPV	0.718120805369127	NoLeakage
+EpitopeTransfer	B. pertussis	NPV	0	NoLeakage
+EpitopeTransfer	B. pertussis	Sensitivity	1	NoLeakage
+EpitopeTransfer	B. pertussis	Specificity	0	NoLeakage
+EpitopeTransfer	B. pertussis	Balanced accuracy	0.5	NoLeakage
+EpitopeTransfer	B. pertussis	Accuracy	0.718120805369127	NoLeakage
+EpitopeTransfer	Corynebacterium	AUC	0.768827160493827	NoLeakage
+EpitopeTransfer	Corynebacterium	F1	0.707070707070707	NoLeakage
+EpitopeTransfer	Corynebacterium	MCC	0.49183710666061	NoLeakage
+EpitopeTransfer	Corynebacterium	PPV	0.777777777777778	NoLeakage
+EpitopeTransfer	Corynebacterium	NPV	0.72463768115942	NoLeakage
+EpitopeTransfer	Corynebacterium	Sensitivity	0.648148148148148	NoLeakage
+EpitopeTransfer	Corynebacterium	Specificity	0.833333333333333	NoLeakage
+EpitopeTransfer	Corynebacterium	Balanced accuracy	0.740740740740741	NoLeakage
+EpitopeTransfer	Corynebacterium	Accuracy	0.745614035087719	NoLeakage
+EpitopeTransfer	E. coli	AUC	0.853259554910498	NoLeakage
+EpitopeTransfer	E. coli	F1	0.872370266479663	NoLeakage
+EpitopeTransfer	E. coli	MCC	0.325406771440337	NoLeakage
+EpitopeTransfer	E. coli	PPV	0.775561097256858	NoLeakage
+EpitopeTransfer	E. coli	NPV	0.941176470588236	NoLeakage
+EpitopeTransfer	E. coli	Sensitivity	0.996794871794872	NoLeakage
+EpitopeTransfer	E. coli	Specificity	0.150943396226415	NoLeakage
+EpitopeTransfer	E. coli	Balanced accuracy	0.573869134010643	NoLeakage
+EpitopeTransfer	E. coli	Accuracy	0.782296650717703	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	AUC	0.825584116507884	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	F1	0.738377392889699	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	MCC	0.479421182379271	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	PPV	0.691126279863481	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	NPV	0.788844621513944	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	Sensitivity	0.792563600782779	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	Specificity	0.68630849220104	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	Balanced accuracy	0.739436046491909	NoLeakage
+EpitopeTransfer	Enterobacteriaceae	Accuracy	0.736213235294118	NoLeakage
+EpitopeTransfer	Lentivirus	AUC	0.789048789048789	NoLeakage
+EpitopeTransfer	Lentivirus	F1	0.925	NoLeakage
+EpitopeTransfer	Lentivirus	MCC	0.769589628905795	NoLeakage
+EpitopeTransfer	Lentivirus	PPV	0.86046511627907	NoLeakage
+EpitopeTransfer	Lentivirus	NPV	1	NoLeakage
+EpitopeTransfer	Lentivirus	Sensitivity	1	NoLeakage
+EpitopeTransfer	Lentivirus	Specificity	0.688311688311688	NoLeakage
+EpitopeTransfer	Lentivirus	Balanced accuracy	0.844155844155844	NoLeakage
+EpitopeTransfer	Lentivirus	Accuracy	0.893333333333333	NoLeakage
+EpitopeTransfer	M. tuberculosis	AUC	0.522180072976599	NoLeakage
+EpitopeTransfer	M. tuberculosis	F1	0.58593054318789	NoLeakage
+EpitopeTransfer	M. tuberculosis	MCC	-0.0306635517105727	NoLeakage
+EpitopeTransfer	M. tuberculosis	PPV	0.508762886597938	NoLeakage
+EpitopeTransfer	M. tuberculosis	NPV	0.457668711656442	NoLeakage
+EpitopeTransfer	M. tuberculosis	Sensitivity	0.690692792162351	NoLeakage
+EpitopeTransfer	M. tuberculosis	Specificity	0.281297134238311	NoLeakage
+EpitopeTransfer	M. tuberculosis	Balanced accuracy	0.485994963200331	NoLeakage
+EpitopeTransfer	M. tuberculosis	Accuracy	0.493647912885662	NoLeakage
+EpitopeTransfer	Orthopoxvirus	AUC	0.69757860040568	NoLeakage
+EpitopeTransfer	Orthopoxvirus	F1	0.442105263157895	NoLeakage
+EpitopeTransfer	Orthopoxvirus	MCC	0.365812086013634	NoLeakage
+EpitopeTransfer	Orthopoxvirus	PPV	0.567567567567568	NoLeakage
+EpitopeTransfer	Orthopoxvirus	NPV	0.873720136518771	NoLeakage
+EpitopeTransfer	Orthopoxvirus	Sensitivity	0.362068965517241	NoLeakage
+EpitopeTransfer	Orthopoxvirus	Specificity	0.941176470588235	NoLeakage
+EpitopeTransfer	Orthopoxvirus	Balanced accuracy	0.651622718052738	NoLeakage
+EpitopeTransfer	Orthopoxvirus	Accuracy	0.839393939393939	NoLeakage
+EpitopeTransfer	P. aeruginosa	AUC	0.72053872053872	NoLeakage
+EpitopeTransfer	P. aeruginosa	F1	0.835051546391753	NoLeakage
+EpitopeTransfer	P. aeruginosa	MCC	0.147382635309143	NoLeakage
+EpitopeTransfer	P. aeruginosa	PPV	0.716814159292035	NoLeakage
+EpitopeTransfer	P. aeruginosa	NPV	1	NoLeakage
+EpitopeTransfer	P. aeruginosa	Sensitivity	1	NoLeakage
+EpitopeTransfer	P. aeruginosa	Specificity	0.0303030303030303	NoLeakage
+EpitopeTransfer	P. aeruginosa	Balanced accuracy	0.515151515151515	NoLeakage
+EpitopeTransfer	P. aeruginosa	Accuracy	0.719298245614035	NoLeakage
+EpitopeTransfer	P. falciparum	AUC	0.81044911944787	NoLeakage
+EpitopeTransfer	P. falciparum	F1	0.826028190770419	NoLeakage
+EpitopeTransfer	P. falciparum	MCC	0.505325441216076	NoLeakage
+EpitopeTransfer	P. falciparum	PPV	0.792515746572805	NoLeakage
+EpitopeTransfer	P. falciparum	NPV	0.731918238993711	NoLeakage
+EpitopeTransfer	P. falciparum	Sensitivity	0.8625	NoLeakage
+EpitopeTransfer	P. falciparum	Specificity	0.624413145539906	NoLeakage
+EpitopeTransfer	P. falciparum	Balanced accuracy	0.743456572769953	NoLeakage
+EpitopeTransfer	P. falciparum	Accuracy	0.773105011332158	NoLeakage
+EpitopeTransfer	SARS-Cov-2	AUC	0.547382832948538	NoLeakage
+EpitopeTransfer	SARS-Cov-2	F1	0.119844357976654	NoLeakage
+EpitopeTransfer	SARS-Cov-2	MCC	0.0433957627630588	NoLeakage
+EpitopeTransfer	SARS-Cov-2	PPV	0.151277013752456	NoLeakage
+EpitopeTransfer	SARS-Cov-2	NPV	0.901285129219037	NoLeakage
+EpitopeTransfer	SARS-Cov-2	Sensitivity	0.0992268041237113	NoLeakage
+EpitopeTransfer	SARS-Cov-2	Specificity	0.936601115350748	NoLeakage
+EpitopeTransfer	SARS-Cov-2	Balanced accuracy	0.51791395973723	NoLeakage
+EpitopeTransfer	SARS-Cov-2	Accuracy	0.85098814229249	NoLeakage
+EpitopeTransfer	S. mansoni	AUC	0.556675464273718	NoLeakage
+EpitopeTransfer	S. mansoni	F1	0.437463641652123	NoLeakage
+EpitopeTransfer	S. mansoni	MCC	0.0562945514980207	NoLeakage
+EpitopeTransfer	S. mansoni	PPV	0.29746835443038	NoLeakage
+EpitopeTransfer	S. mansoni	NPV	0.764880952380952	NoLeakage
+EpitopeTransfer	S. mansoni	Sensitivity	0.826373626373626	NoLeakage
+EpitopeTransfer	S. mansoni	Specificity	0.224454148471616	NoLeakage
+EpitopeTransfer	S. mansoni	Balanced accuracy	0.525413887422621	NoLeakage
+EpitopeTransfer	S. mansoni	Accuracy	0.395625	NoLeakage
+EpitopeTransfer	T. gondii	AUC	0.705363942987705	NoLeakage
+EpitopeTransfer	T. gondii	F1	0.81057268722467	NoLeakage
+EpitopeTransfer	T. gondii	MCC	0.218267589534157	NoLeakage
+EpitopeTransfer	T. gondii	PPV	0.73015873015873	NoLeakage
+EpitopeTransfer	T. gondii	NPV	0.560975609756098	NoLeakage
+EpitopeTransfer	T. gondii	Sensitivity	0.910891089108911	NoLeakage
+EpitopeTransfer	T. gondii	Specificity	0.252747252747253	NoLeakage
+EpitopeTransfer	T. gondii	Balanced accuracy	0.581819170928082	NoLeakage
+EpitopeTransfer	T. gondii	Accuracy	0.706484641638225	NoLeakage
+EpitopeVec	C. difficile	AUC	0.510322878702325	NoLeakage
+EpitopeVec	C. difficile	F1	0.3	NoLeakage
+EpitopeVec	C. difficile	MCC	0.07576051865587	NoLeakage
+EpitopeVec	C. difficile	PPV	0.192592592592593	NoLeakage
+EpitopeVec	C. difficile	NPV	0.865291262135922	NoLeakage
+EpitopeVec	C. difficile	Sensitivity	0.678260869565217	NoLeakage
+EpitopeVec	C. difficile	Specificity	0.420897284533648	NoLeakage
+EpitopeVec	C. difficile	Balanced accuracy	0.549579077049433	NoLeakage
+EpitopeVec	C. difficile	Accuracy	0.464443354585581	NoLeakage
+EpitopeVec	C. trachomatis	AUC	0.568259163970095	NoLeakage
+EpitopeVec	C. trachomatis	F1	0.595424836601307	NoLeakage
+EpitopeVec	C. trachomatis	MCC	0.127359578708344	NoLeakage
+EpitopeVec	C. trachomatis	PPV	0.654924514737599	NoLeakage
+EpitopeVec	C. trachomatis	NPV	0.470300489168414	NoLeakage
+EpitopeVec	C. trachomatis	Sensitivity	0.545835829838227	NoLeakage
+EpitopeVec	C. trachomatis	Specificity	0.583694709453599	NoLeakage
+EpitopeVec	C. trachomatis	Balanced accuracy	0.564765269645913	NoLeakage
+EpitopeVec	C. trachomatis	Accuracy	0.561304039688164	NoLeakage
+EpitopeVec	Filoviridae	AUC	0.549524875836132	NoLeakage
+EpitopeVec	Filoviridae	F1	0.510483135824977	NoLeakage
+EpitopeVec	Filoviridae	MCC	0.0984924723158123	NoLeakage
+EpitopeVec	Filoviridae	PPV	0.477001703577513	NoLeakage
+EpitopeVec	Filoviridae	NPV	0.620462046204621	NoLeakage
+EpitopeVec	Filoviridae	Sensitivity	0.549019607843137	NoLeakage
+EpitopeVec	Filoviridae	Specificity	0.550512445095168	NoLeakage
+EpitopeVec	Filoviridae	Balanced accuracy	0.549766026469153	NoLeakage
+EpitopeVec	Filoviridae	Accuracy	0.549874266554904	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	AUC	0.522054131219353	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	F1	0.376445164775797	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	MCC	0.0345504926800905	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	PPV	0.323551263001486	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	NPV	0.708635554947311	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	Sensitivity	0.450012916559029	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	Specificity	0.587074829931973	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	Balanced accuracy	0.518543873245501	NoLeakage
+EpitopeVec	Human Gammaherpesvirus 4	Accuracy	0.545268300370341	NoLeakage
+EpitopeVec	Influenza A	AUC	0.488943488943489	NoLeakage
+EpitopeVec	Influenza A	F1	0.511848341232227	NoLeakage
+EpitopeVec	Influenza A	MCC	-0.0587734862854531	NoLeakage
+EpitopeVec	Influenza A	PPV	0.521545319465082	NoLeakage
+EpitopeVec	Influenza A	NPV	0.419866444073456	NoLeakage
+EpitopeVec	Influenza A	Sensitivity	0.502505368647101	NoLeakage
+EpitopeVec	Influenza A	Specificity	0.438535309503051	NoLeakage
+EpitopeVec	Influenza A	Balanced accuracy	0.470520339075076	NoLeakage
+EpitopeVec	Influenza A	Accuracy	0.473663522012579	NoLeakage
+EpitopeVec	Measles morbilivirus	AUC	0.506204819277108	NoLeakage
+EpitopeVec	Measles morbilivirus	F1	0.613333333333333	NoLeakage
+EpitopeVec	Measles morbilivirus	MCC	0.0163717713828878	NoLeakage
+EpitopeVec	Measles morbilivirus	PPV	0.552	NoLeakage
+EpitopeVec	Measles morbilivirus	NPV	0.46551724137931	NoLeakage
+EpitopeVec	Measles morbilivirus	Sensitivity	0.69	NoLeakage
+EpitopeVec	Measles morbilivirus	Specificity	0.325301204819277	NoLeakage
+EpitopeVec	Measles morbilivirus	Balanced accuracy	0.507650602409639	NoLeakage
+EpitopeVec	Measles morbilivirus	Accuracy	0.524590163934426	NoLeakage
+EpitopeVec	Mononegavirales	AUC	0.517958065904581	NoLeakage
+EpitopeVec	Mononegavirales	F1	0.512163892445583	NoLeakage
+EpitopeVec	Mononegavirales	MCC	0.0441147401121413	NoLeakage
+EpitopeVec	Mononegavirales	PPV	0.491702519975415	NoLeakage
+EpitopeVec	Mononegavirales	NPV	0.552344251766217	NoLeakage
+EpitopeVec	Mononegavirales	Sensitivity	0.53440213760855	NoLeakage
+EpitopeVec	Mononegavirales	Specificity	0.509780675755779	NoLeakage
+EpitopeVec	Mononegavirales	Balanced accuracy	0.522091406682165	NoLeakage
+EpitopeVec	Mononegavirales	Accuracy	0.521356783919598	NoLeakage
+EpitopeVec	O. volvulus	AUC	0.533713900033474	NoLeakage
+EpitopeVec	O. volvulus	F1	0.212418794379816	NoLeakage
+EpitopeVec	O. volvulus	MCC	0.032186228645896	NoLeakage
+EpitopeVec	O. volvulus	PPV	0.138413073439654	NoLeakage
+EpitopeVec	O. volvulus	NPV	0.88324731482773	NoLeakage
+EpitopeVec	O. volvulus	Sensitivity	0.456493506493507	NoLeakage
+EpitopeVec	O. volvulus	Specificity	0.591333582368323	NoLeakage
+EpitopeVec	O. volvulus	Balanced accuracy	0.523913544430915	NoLeakage
+EpitopeVec	O. volvulus	Accuracy	0.574379490529066	NoLeakage
+EpitopeVec	B. pertussis	AUC	0.575001916573677	NoLeakage
+EpitopeVec	B. pertussis	F1	0.50354609929078	NoLeakage
+EpitopeVec	B. pertussis	MCC	-0.0278819505194097	NoLeakage
+EpitopeVec	B. pertussis	PPV	0.698360655737705	NoLeakage
+EpitopeVec	B. pertussis	NPV	0.275938189845475	NoLeakage
+EpitopeVec	B. pertussis	Sensitivity	0.393715341959335	NoLeakage
+EpitopeVec	B. pertussis	Specificity	0.576036866359447	NoLeakage
+EpitopeVec	B. pertussis	Balanced accuracy	0.484876104159391	NoLeakage
+EpitopeVec	B. pertussis	Accuracy	0.445910290237467	NoLeakage
+EpitopeVec	Corynebacterium	AUC	0.521394395078606	NoLeakage
+EpitopeVec	Corynebacterium	F1	0.374384236453202	NoLeakage
+EpitopeVec	Corynebacterium	MCC	0.160014855560438	NoLeakage
+EpitopeVec	Corynebacterium	PPV	0.775510204081633	NoLeakage
+EpitopeVec	Corynebacterium	NPV	0.42	NoLeakage
+EpitopeVec	Corynebacterium	Sensitivity	0.246753246753247	NoLeakage
+EpitopeVec	Corynebacterium	Specificity	0.884210526315789	NoLeakage
+EpitopeVec	Corynebacterium	Balanced accuracy	0.565481886534518	NoLeakage
+EpitopeVec	Corynebacterium	Accuracy	0.48995983935743	NoLeakage
+EpitopeVec	E. coli	AUC	0.661818181818182	NoLeakage
+EpitopeVec	E. coli	F1	0.502708559046587	NoLeakage
+EpitopeVec	E. coli	MCC	-0.280423989301628	NoLeakage
+EpitopeVec	E. coli	PPV	0.640883977900553	NoLeakage
+EpitopeVec	E. coli	NPV	0.120320855614973	NoLeakage
+EpitopeVec	E. coli	Sensitivity	0.413547237076649	NoLeakage
+EpitopeVec	E. coli	Specificity	0.257142857142857	NoLeakage
+EpitopeVec	E. coli	Balanced accuracy	0.335345047109753	NoLeakage
+EpitopeVec	E. coli	Accuracy	0.376358695652174	NoLeakage
+EpitopeVec	Enterobacteriaceae	AUC	0.601877004799881	NoLeakage
+EpitopeVec	Enterobacteriaceae	F1	0.473239436619718	NoLeakage
+EpitopeVec	Enterobacteriaceae	MCC	0.134044975418022	NoLeakage
+EpitopeVec	Enterobacteriaceae	PPV	0.450805008944544	NoLeakage
+EpitopeVec	Enterobacteriaceae	NPV	0.680904522613065	NoLeakage
+EpitopeVec	Enterobacteriaceae	Sensitivity	0.49802371541502	NoLeakage
+EpitopeVec	Enterobacteriaceae	Specificity	0.638398115429918	NoLeakage
+EpitopeVec	Enterobacteriaceae	Balanced accuracy	0.568210915422469	NoLeakage
+EpitopeVec	Enterobacteriaceae	Accuracy	0.585977859778598	NoLeakage
+EpitopeVec	Lentivirus	AUC	0.608509142053446	NoLeakage
+EpitopeVec	Lentivirus	F1	0.697749196141479	NoLeakage
+EpitopeVec	Lentivirus	MCC	-0.00253950151010216	NoLeakage
+EpitopeVec	Lentivirus	PPV	0.955947136563877	NoLeakage
+EpitopeVec	Lentivirus	NPV	0.0430107526881721	NoLeakage
+EpitopeVec	Lentivirus	Sensitivity	0.549367088607595	NoLeakage
+EpitopeVec	Lentivirus	Specificity	0.444444444444444	NoLeakage
+EpitopeVec	Lentivirus	Balanced accuracy	0.49690576652602	NoLeakage
+EpitopeVec	Lentivirus	Accuracy	0.544794188861985	NoLeakage
+EpitopeVec	M. tuberculosis	AUC	0.550751617581437	NoLeakage
+EpitopeVec	M. tuberculosis	F1	0.520330578512397	NoLeakage
+EpitopeVec	M. tuberculosis	MCC	-0.043077138516319	NoLeakage
+EpitopeVec	M. tuberculosis	PPV	0.656380316930776	NoLeakage
+EpitopeVec	M. tuberculosis	NPV	0.303152246814219	NoLeakage
+EpitopeVec	M. tuberculosis	Sensitivity	0.430996714129244	NoLeakage
+EpitopeVec	M. tuberculosis	Specificity	0.523148148148148	NoLeakage
+EpitopeVec	M. tuberculosis	Balanced accuracy	0.477072431138696	NoLeakage
+EpitopeVec	M. tuberculosis	Accuracy	0.460594795539033	NoLeakage
+EpitopeVec	Orthopoxvirus	AUC	0.571969696969697	NoLeakage
+EpitopeVec	Orthopoxvirus	F1	0.5	NoLeakage
+EpitopeVec	Orthopoxvirus	MCC	-0.134074818161151	NoLeakage
+EpitopeVec	Orthopoxvirus	PPV	0.7	NoLeakage
+EpitopeVec	Orthopoxvirus	NPV	0.185185185185185	NoLeakage
+EpitopeVec	Orthopoxvirus	Sensitivity	0.388888888888889	NoLeakage
+EpitopeVec	Orthopoxvirus	Specificity	0.454545454545455	NoLeakage
+EpitopeVec	Orthopoxvirus	Balanced accuracy	0.421717171717172	NoLeakage
+EpitopeVec	Orthopoxvirus	Accuracy	0.404255319148936	NoLeakage
+EpitopeVec	P. aeruginosa	AUC	0.57843137254902	NoLeakage
+EpitopeVec	P. aeruginosa	F1	0.495412844036697	NoLeakage
+EpitopeVec	P. aeruginosa	MCC	-0.107047802857579	NoLeakage
+EpitopeVec	P. aeruginosa	PPV	0.442622950819672	NoLeakage
+EpitopeVec	P. aeruginosa	NPV	0.447368421052632	NoLeakage
+EpitopeVec	P. aeruginosa	Sensitivity	0.5625	NoLeakage
+EpitopeVec	P. aeruginosa	Specificity	0.333333333333333	NoLeakage
+EpitopeVec	P. aeruginosa	Balanced accuracy	0.447916666666667	NoLeakage
+EpitopeVec	P. aeruginosa	Accuracy	0.444444444444444	NoLeakage
+EpitopeVec	P. falciparum	AUC	0.564152602870143	NoLeakage
+EpitopeVec	P. falciparum	F1	0.708145140827201	NoLeakage
+EpitopeVec	P. falciparum	MCC	0.0585651909589734	NoLeakage
+EpitopeVec	P. falciparum	PPV	0.828720750682979	NoLeakage
+EpitopeVec	P. falciparum	NPV	0.218251088534107	NoLeakage
+EpitopeVec	P. falciparum	Sensitivity	0.618199539252171	NoLeakage
+EpitopeVec	P. falciparum	Specificity	0.454820415879017	NoLeakage
+EpitopeVec	P. falciparum	Balanced accuracy	0.536509977565594	NoLeakage
+EpitopeVec	P. falciparum	Accuracy	0.58717967123681	NoLeakage
+EpitopeVec	SARS-Cov-2	AUC	0.620801977001162	NoLeakage
+EpitopeVec	SARS-Cov-2	F1	0.174746174746175	NoLeakage
+EpitopeVec	SARS-Cov-2	MCC	0.0886050505367424	NoLeakage
+EpitopeVec	SARS-Cov-2	PPV	0.104955767413897	NoLeakage
+EpitopeVec	SARS-Cov-2	NPV	0.943249126714929	NoLeakage
+EpitopeVec	SARS-Cov-2	Sensitivity	0.521553563807085	NoLeakage
+EpitopeVec	SARS-Cov-2	Specificity	0.641310708016384	NoLeakage
+EpitopeVec	SARS-Cov-2	Balanced accuracy	0.581432135911734	NoLeakage
+EpitopeVec	SARS-Cov-2	Accuracy	0.632373550770799	NoLeakage
+EpitopeVec	S. mansoni	AUC	0.492478983398381	NoLeakage
+EpitopeVec	S. mansoni	F1	0.297502714440825	NoLeakage
+EpitopeVec	S. mansoni	MCC	0.0350325185085382	NoLeakage
+EpitopeVec	S. mansoni	PPV	0.236381562731082	NoLeakage
+EpitopeVec	S. mansoni	NPV	0.793566070398153	NoLeakage
+EpitopeVec	S. mansoni	Sensitivity	0.401255230125523	NoLeakage
+EpitopeVec	S. mansoni	Specificity	0.639725549482498	NoLeakage
+EpitopeVec	S. mansoni	Balanced accuracy	0.520490389804011	NoLeakage
+EpitopeVec	S. mansoni	Accuracy	0.587860587860588	NoLeakage
+EpitopeVec	T. gondii	AUC	0.697125926795104	NoLeakage
+EpitopeVec	T. gondii	F1	0.661775495231108	NoLeakage
+EpitopeVec	T. gondii	MCC	0.277720108715187	NoLeakage
+EpitopeVec	T. gondii	PPV	0.644285714285714	NoLeakage
+EpitopeVec	T. gondii	NPV	0.63448275862069	NoLeakage
+EpitopeVec	T. gondii	Sensitivity	0.680241327300151	NoLeakage
+EpitopeVec	T. gondii	Specificity	0.596434359805511	NoLeakage
+EpitopeVec	T. gondii	Balanced accuracy	0.638337843552831	NoLeakage
+EpitopeVec	T. gondii	Accuracy	0.63984375	NoLeakage
+ESM-1b bl.	C. difficile	AUC	0.486211545532541	NoLeakage
+ESM-1b bl.	C. difficile	F1	0.176991150442478	NoLeakage
+ESM-1b bl.	C. difficile	MCC	0.0517383821375513	NoLeakage
+ESM-1b bl.	C. difficile	PPV	0.097323600973236	NoLeakage
+ESM-1b bl.	C. difficile	NPV	0.964285714285714	NoLeakage
+ESM-1b bl.	C. difficile	Sensitivity	0.975609756097561	NoLeakage
+ESM-1b bl.	C. difficile	Specificity	0.0678391959798995	NoLeakage
+ESM-1b bl.	C. difficile	Balanced accuracy	0.52172447603873	NoLeakage
+ESM-1b bl.	C. difficile	Accuracy	0.152619589977221	NoLeakage
+ESM-1b bl.	C. trachomatis	AUC	0.768746862449799	NoLeakage
+ESM-1b bl.	C. trachomatis	F1	0.617924528301887	NoLeakage
+ESM-1b bl.	C. trachomatis	MCC	0.385305726943011	NoLeakage
+ESM-1b bl.	C. trachomatis	PPV	0.779761904761905	NoLeakage
+ESM-1b bl.	C. trachomatis	NPV	0.629080118694362	NoLeakage
+ESM-1b bl.	C. trachomatis	Sensitivity	0.51171875	NoLeakage
+ESM-1b bl.	C. trachomatis	Specificity	0.85140562248996	NoLeakage
+ESM-1b bl.	C. trachomatis	Balanced accuracy	0.68156218624498	NoLeakage
+ESM-1b bl.	C. trachomatis	Accuracy	0.679207920792079	NoLeakage
+ESM-1b bl.	Filoviridae	AUC	0.943595096982759	NoLeakage
+ESM-1b bl.	Filoviridae	F1	0.602941176470588	NoLeakage
+ESM-1b bl.	Filoviridae	MCC	0.558264943237627	NoLeakage
+ESM-1b bl.	Filoviridae	PPV	0.525641025641026	NoLeakage
+ESM-1b bl.	Filoviridae	NPV	0.965447154471545	NoLeakage
+ESM-1b bl.	Filoviridae	Sensitivity	0.706896551724138	NoLeakage
+ESM-1b bl.	Filoviridae	Specificity	0.927734375	NoLeakage
+ESM-1b bl.	Filoviridae	Balanced accuracy	0.817315463362069	NoLeakage
+ESM-1b bl.	Filoviridae	Accuracy	0.905263157894737	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	AUC	0.607527737553618	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	F1	0.376873661670236	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	MCC	0.24912736104327	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	PPV	0.745762711864407	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	NPV	0.598152424942263	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	Sensitivity	0.25214899713467	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	Specificity	0.92831541218638	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	Balanced accuracy	0.590232204660525	NoLeakage
+ESM-1b bl.	Human Gammaherpesvirus 4	Accuracy	0.620846905537459	NoLeakage
+ESM-1b bl.	Influenza A	AUC	0.718671556414061	NoLeakage
+ESM-1b bl.	Influenza A	F1	0.823899371069182	NoLeakage
+ESM-1b bl.	Influenza A	MCC	-0.0578513272334432	NoLeakage
+ESM-1b bl.	Influenza A	PPV	0.743262411347518	NoLeakage
+ESM-1b bl.	Influenza A	NPV	0.156862745098039	NoLeakage
+ESM-1b bl.	Influenza A	Sensitivity	0.924162257495591	NoLeakage
+ESM-1b bl.	Influenza A	Specificity	0.0423280423280423	NoLeakage
+ESM-1b bl.	Influenza A	Balanced accuracy	0.483245149911817	NoLeakage
+ESM-1b bl.	Influenza A	Accuracy	0.703703703703704	NoLeakage
+ESM-1b bl.	Measles morbilivirus	AUC	0.577420343137255	NoLeakage
+ESM-1b bl.	Measles morbilivirus	F1	0.608040201005025	NoLeakage
+ESM-1b bl.	Measles morbilivirus	MCC	0.159664344969828	NoLeakage
+ESM-1b bl.	Measles morbilivirus	PPV	0.530701754385965	NoLeakage
+ESM-1b bl.	Measles morbilivirus	NPV	0.634328358208955	NoLeakage
+ESM-1b bl.	Measles morbilivirus	Sensitivity	0.711764705882353	NoLeakage
+ESM-1b bl.	Measles morbilivirus	Specificity	0.442708333333333	NoLeakage
+ESM-1b bl.	Measles morbilivirus	Balanced accuracy	0.577236519607843	NoLeakage
+ESM-1b bl.	Measles morbilivirus	Accuracy	0.569060773480663	NoLeakage
+ESM-1b bl.	Mononegavirales	AUC	0.740039589557944	NoLeakage
+ESM-1b bl.	Mononegavirales	F1	0.59308314937454	NoLeakage
+ESM-1b bl.	Mononegavirales	MCC	0.32084140651009	NoLeakage
+ESM-1b bl.	Mononegavirales	PPV	0.46969696969697	NoLeakage
+ESM-1b bl.	Mononegavirales	NPV	0.839080459770115	NoLeakage
+ESM-1b bl.	Mononegavirales	Sensitivity	0.80439121756487	NoLeakage
+ESM-1b bl.	Mononegavirales	Specificity	0.528985507246377	NoLeakage
+ESM-1b bl.	Mononegavirales	Balanced accuracy	0.666688362405624	NoLeakage
+ESM-1b bl.	Mononegavirales	Accuracy	0.623040218132243	NoLeakage
+ESM-1b bl.	O. volvulus	AUC	0.672958808029141	NoLeakage
+ESM-1b bl.	O. volvulus	F1	0.250497017892644	NoLeakage
+ESM-1b bl.	O. volvulus	MCC	0.201578330456862	NoLeakage
+ESM-1b bl.	O. volvulus	PPV	0.431506849315068	NoLeakage
+ESM-1b bl.	O. volvulus	NPV	0.868456375838926	NoLeakage
+ESM-1b bl.	O. volvulus	Sensitivity	0.176470588235294	NoLeakage
+ESM-1b bl.	O. volvulus	Specificity	0.95899209486166	NoLeakage
+ESM-1b bl.	O. volvulus	Balanced accuracy	0.567731341548477	NoLeakage
+ESM-1b bl.	O. volvulus	Accuracy	0.841663166736665	NoLeakage
+ESM-1b bl.	B. pertussis	AUC	0.527481085892301	NoLeakage
+ESM-1b bl.	B. pertussis	F1	0.822134387351779	NoLeakage
+ESM-1b bl.	B. pertussis	MCC	-0.0898083993027845	NoLeakage
+ESM-1b bl.	B. pertussis	PPV	0.712328767123288	NoLeakage
+ESM-1b bl.	B. pertussis	NPV	0	NoLeakage
+ESM-1b bl.	B. pertussis	Sensitivity	0.97196261682243	NoLeakage
+ESM-1b bl.	B. pertussis	Specificity	0	NoLeakage
+ESM-1b bl.	B. pertussis	Balanced accuracy	0.485981308411215	NoLeakage
+ESM-1b bl.	B. pertussis	Accuracy	0.697986577181208	NoLeakage
+ESM-1b bl.	Corynebacterium	AUC	0.51712962962963	NoLeakage
+ESM-1b bl.	Corynebacterium	F1	0.683544303797468	NoLeakage
+ESM-1b bl.	Corynebacterium	MCC	0.294174202707276	NoLeakage
+ESM-1b bl.	Corynebacterium	PPV	0.519230769230769	NoLeakage
+ESM-1b bl.	Corynebacterium	NPV	1	NoLeakage
+ESM-1b bl.	Corynebacterium	Sensitivity	1	NoLeakage
+ESM-1b bl.	Corynebacterium	Specificity	0.166666666666667	NoLeakage
+ESM-1b bl.	Corynebacterium	Balanced accuracy	0.583333333333333	NoLeakage
+ESM-1b bl.	Corynebacterium	Accuracy	0.56140350877193	NoLeakage
+ESM-1b bl.	E. coli	AUC	0.854983067247218	NoLeakage
+ESM-1b bl.	E. coli	F1	0.862690707350901	NoLeakage
+ESM-1b bl.	E. coli	MCC	0.21661312239165	NoLeakage
+ESM-1b bl.	E. coli	PPV	0.76039119804401	NoLeakage
+ESM-1b bl.	E. coli	NPV	0.888888888888889	NoLeakage
+ESM-1b bl.	E. coli	Sensitivity	0.996794871794872	NoLeakage
+ESM-1b bl.	E. coli	Specificity	0.0754716981132075	NoLeakage
+ESM-1b bl.	E. coli	Balanced accuracy	0.53613328495404	NoLeakage
+ESM-1b bl.	E. coli	Accuracy	0.763157894736842	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	AUC	0.722479794605338	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	F1	0.631578947368421	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	MCC	-0.0348986886857516	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	PPV	0.467166979362101	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	NPV	0.409090909090909	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	Sensitivity	0.974559686888454	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	Specificity	0.0155979202772964	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	Balanced accuracy	0.495078803582875	NoLeakage
+ESM-1b bl.	Enterobacteriaceae	Accuracy	0.465992647058824	NoLeakage
+ESM-1b bl.	Lentivirus	AUC	0.794489294489295	NoLeakage
+ESM-1b bl.	Lentivirus	F1	0.876623376623377	NoLeakage
+ESM-1b bl.	Lentivirus	MCC	0.614975326035242	NoLeakage
+ESM-1b bl.	Lentivirus	PPV	0.84375	NoLeakage
+ESM-1b bl.	Lentivirus	NPV	0.8	NoLeakage
+ESM-1b bl.	Lentivirus	Sensitivity	0.912162162162162	NoLeakage
+ESM-1b bl.	Lentivirus	Specificity	0.675324675324675	NoLeakage
+ESM-1b bl.	Lentivirus	Balanced accuracy	0.793743418743419	NoLeakage
+ESM-1b bl.	Lentivirus	Accuracy	0.831111111111111	NoLeakage
+ESM-1b bl.	M. tuberculosis	AUC	0.50623900311053	NoLeakage
+ESM-1b bl.	M. tuberculosis	F1	0.647742633144093	NoLeakage
+ESM-1b bl.	M. tuberculosis	MCC	0.0392287884825752	NoLeakage
+ESM-1b bl.	M. tuberculosis	PPV	0.527753303964758	NoLeakage
+ESM-1b bl.	M. tuberculosis	NPV	0.523711340206186	NoLeakage
+ESM-1b bl.	M. tuberculosis	Sensitivity	0.838348495451365	NoLeakage
+ESM-1b bl.	M. tuberculosis	Specificity	0.191553544494721	NoLeakage
+ESM-1b bl.	M. tuberculosis	Balanced accuracy	0.514951019973043	NoLeakage
+ESM-1b bl.	M. tuberculosis	Accuracy	0.527041742286751	NoLeakage
+ESM-1b bl.	Orthopoxvirus	AUC	0.693141480730223	NoLeakage
+ESM-1b bl.	Orthopoxvirus	F1	0.396551724137931	NoLeakage
+ESM-1b bl.	Orthopoxvirus	MCC	0.245873504012445	NoLeakage
+ESM-1b bl.	Orthopoxvirus	PPV	0.264367816091954	NoLeakage
+ESM-1b bl.	Orthopoxvirus	NPV	0.923076923076923	NoLeakage
+ESM-1b bl.	Orthopoxvirus	Sensitivity	0.793103448275862	NoLeakage
+ESM-1b bl.	Orthopoxvirus	Specificity	0.529411764705882	NoLeakage
+ESM-1b bl.	Orthopoxvirus	Balanced accuracy	0.661257606490872	NoLeakage
+ESM-1b bl.	Orthopoxvirus	Accuracy	0.575757575757576	NoLeakage
+ESM-1b bl.	P. aeruginosa	AUC	0.669098391320614	NoLeakage
+ESM-1b bl.	P. aeruginosa	F1	0.690647482014389	NoLeakage
+ESM-1b bl.	P. aeruginosa	MCC	0.262683909374395	NoLeakage
+ESM-1b bl.	P. aeruginosa	PPV	0.827586206896552	NoLeakage
+ESM-1b bl.	P. aeruginosa	NPV	0.410714285714286	NoLeakage
+ESM-1b bl.	P. aeruginosa	Sensitivity	0.592592592592593	NoLeakage
+ESM-1b bl.	P. aeruginosa	Specificity	0.696969696969697	NoLeakage
+ESM-1b bl.	P. aeruginosa	Balanced accuracy	0.644781144781145	NoLeakage
+ESM-1b bl.	P. aeruginosa	Accuracy	0.62280701754386	NoLeakage
+ESM-1b bl.	P. falciparum	AUC	0.791586075593345	NoLeakage
+ESM-1b bl.	P. falciparum	F1	0.814591951861602	NoLeakage
+ESM-1b bl.	P. falciparum	MCC	0.453271236562517	NoLeakage
+ESM-1b bl.	P. falciparum	PPV	0.763213530655391	NoLeakage
+ESM-1b bl.	P. falciparum	NPV	0.722859664607237	NoLeakage
+ESM-1b bl.	P. falciparum	Sensitivity	0.873387096774194	NoLeakage
+ESM-1b bl.	P. falciparum	Specificity	0.549295774647887	NoLeakage
+ESM-1b bl.	P. falciparum	Balanced accuracy	0.71134143571104	NoLeakage
+ESM-1b bl.	P. falciparum	Accuracy	0.751699823721984	NoLeakage
+ESM-1b bl.	SARS-Cov-2	AUC	0.46088877810693	NoLeakage
+ESM-1b bl.	SARS-Cov-2	F1	0.163890739506995	NoLeakage
+ESM-1b bl.	SARS-Cov-2	MCC	0.0723132017299886	NoLeakage
+ESM-1b bl.	SARS-Cov-2	PPV	0.169655172413793	NoLeakage
+ESM-1b bl.	SARS-Cov-2	NPV	0.904879825200291	NoLeakage
+ESM-1b bl.	SARS-Cov-2	Sensitivity	0.158505154639175	NoLeakage
+ESM-1b bl.	SARS-Cov-2	Specificity	0.911652480187849	NoLeakage
+ESM-1b bl.	SARS-Cov-2	Balanced accuracy	0.535078817413512	NoLeakage
+ESM-1b bl.	SARS-Cov-2	Accuracy	0.834650856389987	NoLeakage
+ESM-1b bl.	S. mansoni	AUC	0.543571188636691	NoLeakage
+ESM-1b bl.	S. mansoni	F1	0.329774614472123	NoLeakage
+ESM-1b bl.	S. mansoni	MCC	0.0926527760270721	NoLeakage
+ESM-1b bl.	S. mansoni	PPV	0.358247422680412	NoLeakage
+ESM-1b bl.	S. mansoni	NPV	0.739273927392739	NoLeakage
+ESM-1b bl.	S. mansoni	Sensitivity	0.305494505494506	NoLeakage
+ESM-1b bl.	S. mansoni	Specificity	0.782532751091703	NoLeakage
+ESM-1b bl.	S. mansoni	Balanced accuracy	0.544013628293104	NoLeakage
+ESM-1b bl.	S. mansoni	Accuracy	0.646875	NoLeakage
+ESM-1b bl.	T. gondii	AUC	0.654063758024154	NoLeakage
+ESM-1b bl.	T. gondii	F1	0.805970149253731	NoLeakage
+ESM-1b bl.	T. gondii	MCC	0.127740215810867	NoLeakage
+ESM-1b bl.	T. gondii	PPV	0.707865168539326	NoLeakage
+ESM-1b bl.	T. gondii	NPV	0.5	NoLeakage
+ESM-1b bl.	T. gondii	Sensitivity	0.935643564356436	NoLeakage
+ESM-1b bl.	T. gondii	Specificity	0.142857142857143	NoLeakage
+ESM-1b bl.	T. gondii	Balanced accuracy	0.539250353606789	NoLeakage
+ESM-1b bl.	T. gondii	Accuracy	0.689419795221843	NoLeakage
+NPTransfer bl.	C. difficile	AUC	0.58426277730114	NoLeakage
+NPTransfer bl.	C. difficile	F1	0.170833333333333	NoLeakage
+NPTransfer bl.	C. difficile	MCC	0	NoLeakage
+NPTransfer bl.	C. difficile	PPV	0.0933940774487472	NoLeakage
+NPTransfer bl.	C. difficile	NPV	0	NoLeakage
+NPTransfer bl.	C. difficile	Sensitivity	1	NoLeakage
+NPTransfer bl.	C. difficile	Specificity	0	NoLeakage
+NPTransfer bl.	C. difficile	Balanced accuracy	0.5	NoLeakage
+NPTransfer bl.	C. difficile	Accuracy	0.0933940774487472	NoLeakage
+NPTransfer bl.	C. trachomatis	AUC	0.775484751506024	NoLeakage
+NPTransfer bl.	C. trachomatis	F1	0.711382113821138	NoLeakage
+NPTransfer bl.	C. trachomatis	MCC	0.439511088461213	NoLeakage
+NPTransfer bl.	C. trachomatis	PPV	0.741525423728813	NoLeakage
+NPTransfer bl.	C. trachomatis	NPV	0.698884758364312	NoLeakage
+NPTransfer bl.	C. trachomatis	Sensitivity	0.68359375	NoLeakage
+NPTransfer bl.	C. trachomatis	Specificity	0.755020080321285	NoLeakage
+NPTransfer bl.	C. trachomatis	Balanced accuracy	0.719306915160643	NoLeakage
+NPTransfer bl.	C. trachomatis	Accuracy	0.718811881188119	NoLeakage
+NPTransfer bl.	Filoviridae	AUC	0.966258081896552	NoLeakage
+NPTransfer bl.	Filoviridae	F1	0.742424242424242	NoLeakage
+NPTransfer bl.	Filoviridae	MCC	0.715986861403242	NoLeakage
+NPTransfer bl.	Filoviridae	PPV	0.662162162162162	NoLeakage
+NPTransfer bl.	Filoviridae	NPV	0.981854838709677	NoLeakage
+NPTransfer bl.	Filoviridae	Sensitivity	0.844827586206897	NoLeakage
+NPTransfer bl.	Filoviridae	Specificity	0.951171875	NoLeakage
+NPTransfer bl.	Filoviridae	Balanced accuracy	0.897999730603448	NoLeakage
+NPTransfer bl.	Filoviridae	Accuracy	0.940350877192982	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	AUC	0.59328752914112	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	F1	0.42911877394636	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	MCC	0.208733447042548	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	PPV	0.647398843930636	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	NPV	0.6013456686291	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	Sensitivity	0.320916905444126	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	Specificity	0.854241338112306	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	Balanced accuracy	0.587579121778216	NoLeakage
+NPTransfer bl.	Human Gammaherpesvirus 4	Accuracy	0.611726384364821	NoLeakage
+NPTransfer bl.	Influenza A	AUC	0.631682577008856	NoLeakage
+NPTransfer bl.	Influenza A	F1	0.814262023217247	NoLeakage
+NPTransfer bl.	Influenza A	MCC	0.099241625856968	NoLeakage
+NPTransfer bl.	Influenza A	PPV	0.768388106416275	NoLeakage
+NPTransfer bl.	Influenza A	NPV	0.35042735042735	NoLeakage
+NPTransfer bl.	Influenza A	Sensitivity	0.865961199294533	NoLeakage
+NPTransfer bl.	Influenza A	Specificity	0.216931216931217	NoLeakage
+NPTransfer bl.	Influenza A	Balanced accuracy	0.541446208112875	NoLeakage
+NPTransfer bl.	Influenza A	Accuracy	0.703703703703704	NoLeakage
+NPTransfer bl.	Measles morbilivirus	AUC	0.633547794117647	NoLeakage
+NPTransfer bl.	Measles morbilivirus	F1	0.658385093167702	NoLeakage
+NPTransfer bl.	Measles morbilivirus	MCC	0.194331969249576	NoLeakage
+NPTransfer bl.	Measles morbilivirus	PPV	0.507987220447284	NoLeakage
+NPTransfer bl.	Measles morbilivirus	NPV	0.775510204081633	NoLeakage
+NPTransfer bl.	Measles morbilivirus	Sensitivity	0.935294117647059	NoLeakage
+NPTransfer bl.	Measles morbilivirus	Specificity	0.197916666666667	NoLeakage
+NPTransfer bl.	Measles morbilivirus	Balanced accuracy	0.566605392156863	NoLeakage
+NPTransfer bl.	Measles morbilivirus	Accuracy	0.544198895027624	NoLeakage
+NPTransfer bl.	Mononegavirales	AUC	0.739081877652562	NoLeakage
+NPTransfer bl.	Mononegavirales	F1	0.547028274668205	NoLeakage
+NPTransfer bl.	Mononegavirales	MCC	0.208712700843372	NoLeakage
+NPTransfer bl.	Mononegavirales	PPV	0.38474025974026	NoLeakage
+NPTransfer bl.	Mononegavirales	NPV	0.885106382978723	NoLeakage
+NPTransfer bl.	Mononegavirales	Sensitivity	0.946107784431138	NoLeakage
+NPTransfer bl.	Mononegavirales	Specificity	0.215320910973085	NoLeakage
+NPTransfer bl.	Mononegavirales	Balanced accuracy	0.580714347702111	NoLeakage
+NPTransfer bl.	Mononegavirales	Accuracy	0.464894342194956	NoLeakage
+NPTransfer bl.	O. volvulus	AUC	0.635519425161369	NoLeakage
+NPTransfer bl.	O. volvulus	F1	0.347249834327369	NoLeakage
+NPTransfer bl.	O. volvulus	MCC	0.210153153809439	NoLeakage
+NPTransfer bl.	O. volvulus	PPV	0.227430555555556	NoLeakage
+NPTransfer bl.	O. volvulus	NPV	0.922701383238405	NoLeakage
+NPTransfer bl.	O. volvulus	Sensitivity	0.733893557422969	NoLeakage
+NPTransfer bl.	O. volvulus	Specificity	0.560276679841897	NoLeakage
+NPTransfer bl.	O. volvulus	Balanced accuracy	0.647085118632433	NoLeakage
+NPTransfer bl.	O. volvulus	Accuracy	0.586308273834523	NoLeakage
+NPTransfer bl.	B. pertussis	AUC	0.588340008900757	NoLeakage
+NPTransfer bl.	B. pertussis	F1	0.8359375	NoLeakage
+NPTransfer bl.	B. pertussis	MCC	0	NoLeakage
+NPTransfer bl.	B. pertussis	PPV	0.718120805369127	NoLeakage
+NPTransfer bl.	B. pertussis	NPV	0	NoLeakage
+NPTransfer bl.	B. pertussis	Sensitivity	1	NoLeakage
+NPTransfer bl.	B. pertussis	Specificity	0	NoLeakage
+NPTransfer bl.	B. pertussis	Balanced accuracy	0.5	NoLeakage
+NPTransfer bl.	B. pertussis	Accuracy	0.718120805369127	NoLeakage
+NPTransfer bl.	Corynebacterium	AUC	0.55	NoLeakage
+NPTransfer bl.	Corynebacterium	F1	0.642857142857143	NoLeakage
+NPTransfer bl.	Corynebacterium	MCC	0	NoLeakage
+NPTransfer bl.	Corynebacterium	PPV	0.473684210526316	NoLeakage
+NPTransfer bl.	Corynebacterium	NPV	0	NoLeakage
+NPTransfer bl.	Corynebacterium	Sensitivity	1	NoLeakage
+NPTransfer bl.	Corynebacterium	Specificity	0	NoLeakage
+NPTransfer bl.	Corynebacterium	Balanced accuracy	0.5	NoLeakage
+NPTransfer bl.	Corynebacterium	Accuracy	0.473684210526316	NoLeakage
+NPTransfer bl.	E. coli	AUC	0.830400338655056	NoLeakage
+NPTransfer bl.	E. coli	F1	0.874285714285714	NoLeakage
+NPTransfer bl.	E. coli	MCC	0.349229268676267	NoLeakage
+NPTransfer bl.	E. coli	PPV	0.788659793814433	NoLeakage
+NPTransfer bl.	E. coli	NPV	0.8	NoLeakage
+NPTransfer bl.	E. coli	Sensitivity	0.980769230769231	NoLeakage
+NPTransfer bl.	E. coli	Specificity	0.226415094339623	NoLeakage
+NPTransfer bl.	E. coli	Balanced accuracy	0.603592162554427	NoLeakage
+NPTransfer bl.	E. coli	Accuracy	0.789473684210526	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	AUC	0.728238713637921	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	F1	0.61941251596424	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	MCC	-0.11276508519086	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	PPV	0.459715639810427	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	NPV	0.212121212121212	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	Sensitivity	0.949119373776908	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	Specificity	0.0121317157712305	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	Balanced accuracy	0.480625544774069	NoLeakage
+NPTransfer bl.	Enterobacteriaceae	Accuracy	0.452205882352941	NoLeakage
+NPTransfer bl.	Lentivirus	AUC	0.647683397683398	NoLeakage
+NPTransfer bl.	Lentivirus	F1	0.847058823529412	NoLeakage
+NPTransfer bl.	Lentivirus	MCC	0.468851732528178	NoLeakage
+NPTransfer bl.	Lentivirus	PPV	0.75	NoLeakage
+NPTransfer bl.	Lentivirus	NPV	0.878787878787879	NoLeakage
+NPTransfer bl.	Lentivirus	Sensitivity	0.972972972972973	NoLeakage
+NPTransfer bl.	Lentivirus	Specificity	0.376623376623377	NoLeakage
+NPTransfer bl.	Lentivirus	Balanced accuracy	0.674798174798175	NoLeakage
+NPTransfer bl.	Lentivirus	Accuracy	0.768888888888889	NoLeakage
+NPTransfer bl.	M. tuberculosis	AUC	0.559649714437102	NoLeakage
+NPTransfer bl.	M. tuberculosis	F1	0.57760663507109	NoLeakage
+NPTransfer bl.	M. tuberculosis	MCC	-0.0556824775315637	NoLeakage
+NPTransfer bl.	M. tuberculosis	PPV	0.500770416024653	NoLeakage
+NPTransfer bl.	M. tuberculosis	NPV	0.438118811881188	NoLeakage
+NPTransfer bl.	M. tuberculosis	Sensitivity	0.682295311406578	NoLeakage
+NPTransfer bl.	M. tuberculosis	Specificity	0.266968325791855	NoLeakage
+NPTransfer bl.	M. tuberculosis	Balanced accuracy	0.474631818599217	NoLeakage
+NPTransfer bl.	M. tuberculosis	Accuracy	0.482395644283122	NoLeakage
+NPTransfer bl.	Orthopoxvirus	AUC	0.635775862068966	NoLeakage
+NPTransfer bl.	Orthopoxvirus	F1	0.337209302325581	NoLeakage
+NPTransfer bl.	Orthopoxvirus	MCC	0.181122692847289	NoLeakage
+NPTransfer bl.	Orthopoxvirus	PPV	0.202797202797203	NoLeakage
+NPTransfer bl.	Orthopoxvirus	NPV	1	NoLeakage
+NPTransfer bl.	Orthopoxvirus	Sensitivity	1	NoLeakage
+NPTransfer bl.	Orthopoxvirus	Specificity	0.161764705882353	NoLeakage
+NPTransfer bl.	Orthopoxvirus	Balanced accuracy	0.580882352941177	NoLeakage
+NPTransfer bl.	Orthopoxvirus	Accuracy	0.309090909090909	NoLeakage
+NPTransfer bl.	P. aeruginosa	AUC	0.789749345304901	NoLeakage
+NPTransfer bl.	P. aeruginosa	F1	0.581196581196581	NoLeakage
+NPTransfer bl.	P. aeruginosa	MCC	0.350407345771308	NoLeakage
+NPTransfer bl.	P. aeruginosa	PPV	0.944444444444444	NoLeakage
+NPTransfer bl.	P. aeruginosa	NPV	0.397435897435897	NoLeakage
+NPTransfer bl.	P. aeruginosa	Sensitivity	0.419753086419753	NoLeakage
+NPTransfer bl.	P. aeruginosa	Specificity	0.939393939393939	NoLeakage
+NPTransfer bl.	P. aeruginosa	Balanced accuracy	0.679573512906846	NoLeakage
+NPTransfer bl.	P. aeruginosa	Accuracy	0.570175438596491	NoLeakage
+NPTransfer bl.	P. falciparum	AUC	0.785573927435581	NoLeakage
+NPTransfer bl.	P. falciparum	F1	0.783640081799591	NoLeakage
+NPTransfer bl.	P. falciparum	MCC	0.437470370500401	NoLeakage
+NPTransfer bl.	P. falciparum	PPV	0.795020746887967	NoLeakage
+NPTransfer bl.	P. falciparum	NPV	0.638693145419603	NoLeakage
+NPTransfer bl.	P. falciparum	Sensitivity	0.77258064516129	NoLeakage
+NPTransfer bl.	P. falciparum	Specificity	0.668678739101274	NoLeakage
+NPTransfer bl.	P. falciparum	Balanced accuracy	0.720629692131282	NoLeakage
+NPTransfer bl.	P. falciparum	Accuracy	0.733568370687484	NoLeakage
+NPTransfer bl.	SARS-Cov-2	AUC	0.497627969553285	NoLeakage
+NPTransfer bl.	SARS-Cov-2	F1	0.119402985074627	NoLeakage
+NPTransfer bl.	SARS-Cov-2	MCC	0.037037049528598	NoLeakage
+NPTransfer bl.	SARS-Cov-2	PPV	0.141843971631206	NoLeakage
+NPTransfer bl.	SARS-Cov-2	NPV	0.900939368061486	NoLeakage
+NPTransfer bl.	SARS-Cov-2	Sensitivity	0.103092783505155	NoLeakage
+NPTransfer bl.	SARS-Cov-2	Specificity	0.92896976812445	NoLeakage
+NPTransfer bl.	SARS-Cov-2	Balanced accuracy	0.516031275814802	NoLeakage
+NPTransfer bl.	SARS-Cov-2	Accuracy	0.844532279314888	NoLeakage
+NPTransfer bl.	S. mansoni	AUC	0.555681174720476	NoLeakage
+NPTransfer bl.	S. mansoni	F1	0.22	NoLeakage
+NPTransfer bl.	S. mansoni	MCC	0.119521307591149	NoLeakage
+NPTransfer bl.	S. mansoni	PPV	0.455172413793104	NoLeakage
+NPTransfer bl.	S. mansoni	NPV	0.732646048109966	NoLeakage
+NPTransfer bl.	S. mansoni	Sensitivity	0.145054945054945	NoLeakage
+NPTransfer bl.	S. mansoni	Specificity	0.931004366812227	NoLeakage
+NPTransfer bl.	S. mansoni	Balanced accuracy	0.538029655933586	NoLeakage
+NPTransfer bl.	S. mansoni	Accuracy	0.7075	NoLeakage
+NPTransfer bl.	T. gondii	AUC	0.602056359482102	NoLeakage
+NPTransfer bl.	T. gondii	F1	0.718204488778055	NoLeakage
+NPTransfer bl.	T. gondii	MCC	0.107532144776619	NoLeakage
+NPTransfer bl.	T. gondii	PPV	0.723618090452261	NoLeakage
+NPTransfer bl.	T. gondii	NPV	0.382978723404255	NoLeakage
+NPTransfer bl.	T. gondii	Sensitivity	0.712871287128713	NoLeakage
+NPTransfer bl.	T. gondii	Specificity	0.395604395604396	NoLeakage
+NPTransfer bl.	T. gondii	Balanced accuracy	0.554237841366554	NoLeakage
+NPTransfer bl.	T. gondii	Accuracy	0.614334470989761	NoLeakage
