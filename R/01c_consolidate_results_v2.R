@@ -2,9 +2,9 @@ library(dplyr)
 library(tidyr)
 library(parallel)
 library(pbapply)
-source("myfuns.R")
+source("utils.R")
 
-ncpus <- 19
+ncpus <- min(18, parallel::detectCores() - 2)
 cl = parallel::makePSOCKcluster(ncpus)
 
 # Load and consolidate results
