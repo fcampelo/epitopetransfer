@@ -89,15 +89,15 @@ est_CIs <- function(mydf){
 
 process_epitope1d <- function(resdir, datadir, cl = 1){
   ### Process Epitope1D predictions
-  ### CSV files with predictions was retrieved from Epitope1D in September 2024.
+  ### CSV files with predictions were retrieved from Epitope1D in September 2024.
   
   dirs         <- dir(resdir, full.names = TRUE)
   dirnames     <- dir(resdir, full.names = FALSE)
   datadirs     <- dir(datadir, full.names = TRUE)
   datadirnames <- dir(datadir, full.names = FALSE)
   
-  mymean <- function(z){ifelse(all(is.na(z)), NA, mean(z, na.rm = TRUE))}
-  mymax <- function(z){ifelse(all(is.na(z)), NA, max(z, na.rm = TRUE))}
+  protmean <- function(z){ifelse(all(is.na(z)), NA, mean(z, na.rm = TRUE))}
+  protmax <- function(z){ifelse(all(is.na(z)), NA, max(z, na.rm = TRUE))}
   
   for (i in seq_along(dirs)){
     preds <- read.csv(dir(dirs[i], pattern = "output\\_prediction.csv", full.names = TRUE), header = TRUE) %>%
@@ -145,7 +145,7 @@ process_epitope1d <- function(resdir, datadir, cl = 1){
                                              Predicted_prob = NA) %>%
                                left_join(labels, by = "Position") %>%
                                rowwise() %>%
-                               mutate(Predicted_prob = mymax(tmp$Prob[tmp$start <= Position & tmp$end >= Position]))
+                               mutate(Predicted_prob = protmax(tmp$Prob[tmp$start <= Position & tmp$end >= Position]))
                              
                              return(x)
                            }, 

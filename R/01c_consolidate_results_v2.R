@@ -11,10 +11,10 @@ cl = parallel::makePSOCKcluster(ncpus)
 fp <- dir("../results", pattern = "prob\\_by", full.names = TRUE, recursive = TRUE)
 
 # # Process Epitope1D results (only needs ot be done once)
-cat("\nProcessing Epitope1D results\n")
-process_epitope1d(resdir = "../results/epitope1d/",
-                  datadir = "../data/lindeberg/",
-                  cl = cl)
+# cat("\nProcessing Epitope1D results\n")
+# process_epitope1d(resdir  = "../results/epitope1d/",
+#                   datadir = "../data/datasets/",
+#                   cl = cl)
 
 cat("\nReading results\n")
 X <- pblapply(fp, 
@@ -33,7 +33,7 @@ X <- pblapply(fp,
          Prob            = Predicted_prob)
 
 # Load and prepare data about the external predictors' training sets
-inTraining <- readRDS("../data/peptides_in_baseline_training_sets.rds") %>%
+inTraining <- readRDS("../data/baselines/peptides_in_baseline_training_sets.rds") %>%
   rowwise() %>%
   mutate(ll = Info_end_pos - Info_start_pos + 1) %>%
   uncount(ll) %>%
@@ -65,6 +65,6 @@ Y <- X %>%
   bind_rows(b)
 
 
-saveRDS(Y, "../data/results/consolidated_results_v8.rds")
+saveRDS(Y, "../results/consolidated_results_v8.rds")
 
 parallel::stopCluster(cl)
