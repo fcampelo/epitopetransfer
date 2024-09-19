@@ -42,7 +42,7 @@ for (i in seq_along(preds)){
   
   outfile <- paste0("../data/baselines/", preds[i], "-matches.tsv")
   system(paste0("../diamond/diamond blastp -d ../data/diamond/", preds[i], "_entries ", 
-                "-q ../data/unique_peptides.fa --ultra-sensitive -o ", outfile))
+                "-q ../data/diamond/unique_peptides.fa --ultra-sensitive -o ", outfile))
 
   scores <- read.table(outfile, sep = "\t",
                        header = FALSE, stringsAsFactors = FALSE)
@@ -67,5 +67,5 @@ for (i in seq_along(preds)){
 df <- df %>%
   mutate(across(everything(), ~ifelse(is.na(.x), 0, .x)))
 
-saveRDS(df, "../data/peptides_in_baseline_training_sets.rds")
+saveRDS(df, "../data/baselines/peptides_in_baseline_training_sets.rds")
 #===============================================================================
