@@ -10,6 +10,7 @@ Francisco Pereira Lobo and Felipe Campelo.
 -   [Dependencies](#dependencies)
 -   [Running Models for Published
     Metrics](#run-models-for-paper-metrics)
+-   [Running the analyses](#run-analyses)
 -   [Contact](#contact)
 
 ## Dependencies {#dependencies}
@@ -17,23 +18,6 @@ Francisco Pereira Lobo and Felipe Campelo.
 This project requires Python 3.10, although other versions are likely
 compatible. Follow the instructions below to set up your environment and
 install the required dependencies.
-
-The analysis of the results was done using R version 4.4.1 (reproducible
-using the script under folder `./R`). The main packages used in the
-analysis were:
-
--   dplyr_1.1.4
--   tidyr_1.3.1
--   yardstick_1.3.1
--   pROC_1.18.5
--   multcomp_1.4-26
--   ggplot2_3.5.1
--   ggrepel_0.9.5
--   see_0.9.0
--   stringr_1.5.1
--   wrappedtools_0.9.5
-
-The full details of the R session used in the analysis are available in `/R/SessionInfo.txt`
 
 1.  **Install Python 3.10**
 
@@ -86,6 +70,25 @@ Available Taxa
 
 obs: To run the taxa in the second column, upgrade scikit-learn to
 version 1.3.2 (pip install scikit-learn-1.3.2)
+
+## Running the analyses {#run-analyses}
+
+The analysis of the results was done using R version 4.4.1 (reproducible
+using the script under folder `./R`). The main packages used in the
+analysis were:
+
+-   dplyr_1.1.4
+-   tidyr_1.3.1
+-   yardstick_1.3.1
+-   pROC_1.18.5
+-   multcomp_1.4-26
+-   ggplot2_3.5.1
+-   ggrepel_0.9.5
+-   see_0.9.0
+-   stringr_1.5.1
+-   wrappedtools_0.9.5
+
+The full details of the R session used in the analysis are available in `/R/SessionInfo.txt`
 
 *****
 Contact Email:
