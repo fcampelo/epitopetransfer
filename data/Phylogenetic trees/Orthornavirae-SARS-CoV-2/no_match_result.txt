@@ -1,0 +1,5 @@
+------These 1 taxids are not in taxonomy database-----
+2847144
+
+
+
