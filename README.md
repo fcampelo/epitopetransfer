@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # EpitopeTransfer
 
 This repository contains data and code for the paper **EpitopeTransfer:
