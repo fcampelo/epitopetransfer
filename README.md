@@ -91,7 +91,6 @@ analysis were:
 The full details of the R session used in the analysis are available in `/R/SessionInfo.txt`
 
 *****
-Contact Email:
-[f.campelo\@bristol.ac.uk](mailto:f.campelo@bristol.ac.uk) - Principal
-investigator <br> Email:
-[lindpessoa\@gmail.com](mailto:lindpessoa@gmail.com)
+### Contact Email:  
+[Felipe Campelo](mailto:f.campelo@bristol.ac.uk) - Principal investigator  
+[Lindeberg Leite](mailto:lindpessoa@gmail.com) - First author
