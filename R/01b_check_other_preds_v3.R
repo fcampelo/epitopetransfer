@@ -6,7 +6,7 @@ library(boot)
 library(tidyr)
 library(rlang)
 
-fl <- dir("../data/lindeberg/", full.names = TRUE)
+fl <- dir("../data/datasets/", full.names = TRUE)
 
 for (i in seq_along(fl)){
   tmp <- readRDS(dir(fl[i], full.names = TRUE)[grep("peptides.+\\.rds$", dir(fl[i]))]) %>%
@@ -26,10 +26,10 @@ prots <- df %>%
 
 seqinr::write.fasta(sequences = as.list(df$Info_peptide),
                     names     = df$Info_PepID,
-                    file.out  = "../data/unique_peptides.fa")
+                    file.out  = "../data/diamond/unique_peptides.fa")
 seqinr::write.fasta(sequences = as.list(prots$Info_sequence),
                     names     = prots$Info_protein_id,
-                    file.out  = paste0("../data/unique_prots.fa"))
+                    file.out  = paste0("../data/diamond/unique_prots.fa"))
 
 # ==============================
 # Flag which  entries are included in the training sets of other predictors
@@ -38,11 +38,10 @@ thres <- 0.8
 preds <- c("BP2", "BP3", "EpDop", "EpVec", "Ep1D")
 
 for (i in seq_along(preds)){
-  system(paste0("diamond/diamond makedb --in ../data/baselines/", preds[i], "_training.fa -d ../data/diamond/", preds[i], "_entries"))
-  
+  system(paste0("../diamond/diamond makedb --in ../data/baselines/", preds[i], "_training.fa -d ../data/diamond/", preds[i], "_entries"))
   
   outfile <- paste0("../data/baselines/", preds[i], "-matches.tsv")
-  system(paste0("diamond/diamond blastp -d ../data/diamond/", preds[i], "_entries ", 
+  system(paste0("../diamond/diamond blastp -d ../data/diamond/", preds[i], "_entries ", 
                 "-q ../data/unique_peptides.fa --ultra-sensitive -o ", outfile))
 
   scores <- read.table(outfile, sep = "\t",
