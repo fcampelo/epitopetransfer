@@ -64,7 +64,7 @@ To exit the `esm2` environment, use this command: `deactivate`
 
 ``` bash
   source esm1b_v2/bin/activate
-   (esm1b_v2) python3.10 main.py esm1b mononegavirales
+  (esm1b_v2) python3.10 main.py esm1b mononegavirales
 ```
 
 Available Taxa
