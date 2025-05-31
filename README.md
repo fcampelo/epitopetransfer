@@ -15,8 +15,7 @@ Francisco Pereira Lobo and Felipe Campelo.
 ## Dependencies 
 
 This project requires Python 3.11, although other versions are likely
-compatible. Follow the instructions below to set up your environment and
-install the required dependencies.
+compatible. Follow the instructions below to set up your environment.
 
 1.  **Install Python 3.11**
 
