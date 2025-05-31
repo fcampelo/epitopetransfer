@@ -33,14 +33,12 @@ Ensure that Python 3.10 is installed on your system. If not, you can install it 
 
 ``` bash
   source esm2/bin/activate
-  or
+  # or
   source esm1b_v1/bin/activate
-  or
+  # or
   source esm1b_v2/bin/activate
-
-  # To exit any environment, run: deactivate
-
 ```
+To exit any environment, run: deactivate
 
 ## Running models for published metrics
 
