@@ -79,7 +79,6 @@ Available Taxa
 | **lentivirus**: *Lentivirus*                    | **cdifficile**: *Clostridioides difficile*               |
 | **mtuberculosis**: *Mycobacterium tuberculosis* | **measles_morbilivirus**: *Measles morbillivirus*        |
 | **paeruginosa**: *Pseudomonas aeruginosa*       | **mononegavirales**: *Mononegavirales*                   |
-| **sars_cov2**: *SARS-CoV-2*                     |                                                          |
 | **smansoni**: *Schistosoma mansoni*             |                                                          |
 | **tgondii**: *Toxoplasma gondii*                |                                                          |
 | **pfalciparum**: *Plasmodium falciparum*        |                                                          |
