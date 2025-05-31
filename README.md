@@ -8,7 +8,7 @@ Francisco Pereira Lobo and Felipe Campelo.
 ## Table of Contents
 
 -   [Dependencies](#Dependencies)
--   [Running models for published metrics](#Running-models-for-paper-metrics)
+-   [Running models for published metrics](#Running-models-for-published-metrics)
 -   [Running the analyses](#Running-the-analyses)
 -   [Contact](#contact)
 
