@@ -7,12 +7,12 @@ Francisco Pereira Lobo and Felipe Campelo.
 
 ## Table of Contents
 
--   [Dependencies](#dependencies)
--   [Running Models for Published Metrics](#run-models-for-paper-metrics)
+-   [Dependencies](#Dependencies)
+-   [Running models for published metrics](#Running-models-for-paper-metrics)
 -   [Running the analyses](#Running-the-analyses)
 -   [Contact](#contact)
 
-## Dependencies {#dependencies}
+## Dependencies 
 
 This project requires Python 3.11, although other versions are likely
 compatible. Follow the instructions below to set up your environment and
@@ -38,7 +38,7 @@ Ensure that Python 3.11 is installed on your system. If not, you can install it 
   pip install -r requirements.txt
 ```
 
-## Run Models for Paper Metrics {#run-models-for-paper-metrics}
+## Running models for published metrics
 
 To run the models for specific taxa or for all taxa included in the
 study, use the following command format in the terminal:
