@@ -38,7 +38,7 @@ Ensure that Python 3.10 is installed on your system. If not, you can install it 
   or
   source esm1b_v2/bin/activate
 
-  # To exit any environment, use this command: deactivate
+  # To exit any environment, run: deactivate
 
 ```
 
@@ -54,10 +54,19 @@ study, use the following command format in the terminal:
 Replace [base_model] to esm1b or esm2, and [taxa] to the desired taxa or all (for esm2 only). Example:
 
 ``` bash
+  source esm2/bin/activate
+  python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
+```
+# To exit the `esm2` environment, use this command: `deactivate`
+
+``` bash
+  source esm1b_v1/bin/activate
   python3.10 main.py esm1b bpertussis
 ```
+
 ``` bash
-  python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
+  source esm1b_v2/bin/activate
+  python3.10 main.py esm1b mononegavirales
 ```
 
 Available Taxa
