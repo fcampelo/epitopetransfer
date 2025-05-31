@@ -17,22 +17,29 @@ Francisco Pereira Lobo and Felipe Campelo.
 This project requires Python 3.11, although other versions are likely
 compatible. Follow the instructions below to set up your environment.
 
-1.  **Install Python 3.11**
+1.  **Install Python 3.10**
 
-Ensure that Python 3.11 is installed on your system. If not, you can install it using your system's package manager. For Ubuntu-based distributions, you can use:
+Ensure that Python 3.10 is installed on your system. If not, you can install it using your system's package manager. For Ubuntu-based distributions, you can use:
 
 ``` bash
-  sudo apt update
-  sudo apt install software-properties-common -y
-  sudo add-apt-repository ppa:deadsnakes/ppa -y
-  sudo apt update
-  sudo apt install python3.11 python3.11-venv python3.11-distutils -y
+    sudo apt update
+    sudo apt install software-properties-common -y
+    sudo add-apt-repository ppa:deadsnakes/ppa -y
+    sudo apt update
+    sudo apt install python3.10 python3.10-venv python3.10-distutils -y
 ```
 
 2.  **Activate epitopetransfer environment**
 
 ``` bash
-  source epitopetransfer/bin/activate
+  source esm2/bin/activate
+  or
+  source esm1b_v1/bin/activate
+  or
+  source esm1b_v2/bin/activate
+
+  # To exit any environment, use this command: deactivate
+
 ```
 
 ## Running models for published metrics
@@ -41,16 +48,16 @@ To run the models for specific taxa or for all taxa included in the
 study, use the following command format in the terminal:
 
 ``` bash
-  python main.py [taxa]
+  python3.10 main.py [base_model] [taxa]
 ```
 
-Replace [taxa] with the name of the taxa you wish to process from the list below, or use all to process all available taxa. Example:
+Replace [base_model] to esm1b or esm2, and [taxa] to the desired taxa or all (for esm2 only). Example:
 
 ``` bash
-  python main.py bpertussis
+  python3.10 main.py esm1b bpertussis
 ```
 ``` bash
-  python main.py all
+  python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
 ```
 
 Available Taxa
@@ -70,6 +77,8 @@ Available Taxa
 | **tgondii**: *Toxoplasma gondii*                |                                                          |
 | **pfalciparum**: *Plasmodium falciparum*        |                                                          |
 
+
+**Note:**  For the esm1b base model, activate the esm1b_v1 environment (source esm1b_v1/bin/activate) for taxa in the first column, or the esm1b_v2 environment (source esm1b_v2/bin/activate) for taxa in the second column. For the esm2 base model, activate the esm2 environment (source esm2/bin/activate) for all taxa. 
 
 ## Running the analyses
 
