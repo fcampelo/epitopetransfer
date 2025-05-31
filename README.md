@@ -53,18 +53,18 @@ Replace [base_model] to esm1b or esm2, and [taxa] to the desired taxa or all (fo
 
 ``` bash
   source esm2/bin/activate
-  python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
+  (esm2) python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
 ```
 To exit the `esm2` environment, use this command: `deactivate`
 
 ``` bash
   source esm1b_v1/bin/activate
-  python3.10 main.py esm1b bpertussis
+  (esm1b_v1) python3.10 main.py esm1b bpertussis
 ```
 
 ``` bash
   source esm1b_v2/bin/activate
-  python3.10 main.py esm1b mononegavirales
+   (esm1b_v2) python3.10 main.py esm1b mononegavirales
 ```
 
 Available Taxa
