@@ -1,7 +1,7 @@
 import sys
 import pandas as pd
 from joblib import load
-from sklearn.metrics import matthews_corrcoef, f1_score, roc_auc_score
+from sklearn.metrics import matthews_corrcoef, f1_score, roc_auc_score, balanced_accuracy_score, precision_score, recall_score, confusion_matrix
 import os
 
 if __name__ == "__main__":
@@ -35,12 +35,28 @@ if __name__ == "__main__":
         test_probs = model.predict_proba(test_features)[:, 1]
         test_predictions = (test_probs > best_threshold).astype(int)
 
+        # metrics
         test_mcc = matthews_corrcoef(test_labels, test_predictions)
         f1 = f1_score(test_labels, test_predictions)
         auc_score = roc_auc_score(test_labels, test_probs)
+        bacc = balanced_accuracy_score(test_labels, test_predictions)
+        ppv = precision_score(test_labels, test_predictions, zero_division=0)
+        sens = recall_score(test_labels, test_predictions, zero_division=0) 
 
-        # Print the evaluation results
+        tn, fp, fn, tp = confusion_matrix(test_labels, test_predictions).ravel()
+        specificity = tn / (tn + fp) if (tn + fp) > 0 else 0
+        npv = tn / (tn + fn) if (tn + fn) > 0 else 0
+
         title = f"{string_taxa}"
-        results = f"AUC: {auc_score:.3f}\nF1 : {f1:.3f}\nMCC: {test_mcc:.3f}"
+        results = (
+            f"AUC: {auc_score:.3f}\n"
+            f"F1 : {f1:.3f}\n"
+            f"MCC: {test_mcc:.3f}\n"
+            f"BACC: {bacc:.3f}\n"
+            f"PPV: {ppv:.3f}\n"
+            f"NPV: {npv:.3f}\n"
+            f"SENS: {sens:.3f}\n"
+            f"SPEC: {specificity:.3f}"
+        )
         print(f"{title}\n{'-' * len(title)}\n{results}\n")
 
