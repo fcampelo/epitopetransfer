@@ -28,14 +28,12 @@ Ensure that Python 3.11 is installed on your system. If not, you can install it 
   sudo add-apt-repository ppa:deadsnakes/ppa -y
   sudo apt update
   sudo apt install python3.11 python3.11-venv python3.11-distutils -y
-  
-  source epitopetransfer/bin/activate
 ```
 
-2.  **Project dependencies**
+2.  **Activate epitopetransfer environment**
 
 ``` bash
-  pip install -r requirements.txt
+  source epitopetransfer/bin/activate
 ```
 
 ## Running models for published metrics
