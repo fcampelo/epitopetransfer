@@ -55,7 +55,7 @@ Replace [base_model] to esm1b or esm2, and [taxa] to the desired taxa or all (fo
   source esm2/bin/activate
   python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
 ```
-# To exit the `esm2` environment, use this command: `deactivate`
+To exit the `esm2` environment, use this command: `deactivate`
 
 ``` bash
   source esm1b_v1/bin/activate
