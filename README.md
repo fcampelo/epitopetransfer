@@ -8,27 +8,29 @@ Francisco Pereira Lobo and Felipe Campelo.
 ## Table of Contents
 
 -   [Dependencies](#dependencies)
--   [Running Models for Published
-    Metrics](#running-models-for-paper-metrics)
+-   [Running Models for Published Metrics](#run-models-for-paper-metrics)
 -   [Running the analyses](#Running-the-analyses)
 -   [Contact](#contact)
 
 ## Dependencies {#dependencies}
 
-This project requires Python 3.10, although other versions are likely
+This project requires Python 3.11, although other versions are likely
 compatible. Follow the instructions below to set up your environment and
 install the required dependencies.
 
-1.  **Install Python 3.10**
+1.  **Install Python 3.11**
 
-Ensure that Python 3.10 is installed on your system. If not, you can download it from the [official Python website](https://www.python.org/downloads/release/python-3100/) or install it using your system's package manager. For Ubuntu-based distributions, you can use:
+Ensure that Python 3.11 is installed on your system. If not, you can install it using your system's package manager. For Ubuntu-based distributions, you can use:
 
 ``` bash
   sudo apt update
-  sudo apt install python3.10
+  sudo apt install software-properties-common -y
+  sudo add-apt-repository ppa:deadsnakes/ppa -y
+  sudo apt update
+  sudo apt install python3.11 python3.11-venv python3.11-distutils -y
+  
+  source epitopetransfer/bin/activate
 ```
-
-For those who prefer Conda, create a project environment following the [Conda environment management guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 2.  **Project dependencies**
 
@@ -50,6 +52,9 @@ Replace [taxa] with the name of the taxa you wish to process from the list below
 ``` bash
   python main.py bpertussis
 ```
+``` bash
+  python main.py all
+```
 
 Available Taxa
 
@@ -68,8 +73,6 @@ Available Taxa
 | **tgondii**: *Toxoplasma gondii*                |                                                          |
 | **pfalciparum**: *Plasmodium falciparum*        |                                                          |
 
-obs: To run the taxa in the second column, upgrade scikit-learn to
-version 1.3.2 (pip install scikit-learn-1.3.2)
 
 ## Running the analyses
 
