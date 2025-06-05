@@ -9,48 +9,64 @@ Francisco Pereira Lobo and Felipe Campelo.
 
 ## Table of Contents
 
--   [Dependencies](#dependencies)
--   [Running Models for Published
-    Metrics](#running-models-for-paper-metrics)
+-   [Dependencies](#Dependencies)
+-   [Running models for published metrics](#Running-models-for-published-metrics)
 -   [Running the analyses](#Running-the-analyses)
 -   [Contact](#contact)
 
-## Dependencies {#dependencies}
+## Dependencies 
 
 This project requires Python 3.10, although other versions are likely
-compatible. Follow the instructions below to set up your environment and
-install the required dependencies.
+compatible. Follow the instructions below to set up your environment.
 
 1.  **Install Python 3.10**
 
-Ensure that Python 3.10 is installed on your system. If not, you can download it from the [official Python website](https://www.python.org/downloads/release/python-3100/) or install it using your system's package manager. For Ubuntu-based distributions, you can use:
+Ensure that Python 3.10 is installed on your system. If not, you can install it using your system's package manager. For Ubuntu-based distributions, you can use:
 
 ``` bash
-  sudo apt update
-  sudo apt install python3.10
+    sudo apt update
+    sudo apt install software-properties-common -y
+    sudo add-apt-repository ppa:deadsnakes/ppa -y
+    sudo apt update
+    sudo apt install python3.10 python3.10-venv python3.10-distutils -y
 ```
 
-For those who prefer Conda, create a project environment following the [Conda environment management guide](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
-
-2.  **Project dependencies**
+2.  **Activate epitopetransfer environment**
 
 ``` bash
-  pip install -r requirements.txt
+  source esm2/bin/activate
+  # or
+  source esm1b_v1/bin/activate
+  # or
+  source esm1b_v2/bin/activate
 ```
+To exit any environment, run: deactivate
 
-## Run Models for Paper Metrics {#run-models-for-paper-metrics}
+## Running models for published metrics
 
 To run the models for specific taxa or for all taxa included in the
 study, use the following command format in the terminal:
 
 ``` bash
-  python main.py [taxa]
+  python3.10 main.py [base_model] [taxa]
 ```
 
-Replace [taxa] with the name of the taxa you wish to process from the list below, or use all to process all available taxa. Example:
+Replace [base_model] to esm1b or esm2, and [taxa] to the desired taxa or all (for esm2 only). Example:
 
 ``` bash
-  python main.py bpertussis
+  source esm2/bin/activate
+  (esm2) python3.10 main.py esm2 all # (the 'all' option is available for esm2 base model only)
+```
+To exit the `esm2` environment, use this command: `deactivate`
+
+``` bash
+  source esm1b_v1/bin/activate
+  (esm1b_v1) python3.10 main.py esm1b bpertussis
+```
+
+``` bash
+  source esm1b_v2/bin/activate
+  (esm1b_v2) python3.10 main.py esm1b mononegavirales
 ```
 
 Available Taxa
@@ -65,13 +81,12 @@ Available Taxa
 | **lentivirus**: *Lentivirus*                    | **cdifficile**: *Clostridioides difficile*               |
 | **mtuberculosis**: *Mycobacterium tuberculosis* | **measles_morbilivirus**: *Measles morbillivirus*        |
 | **paeruginosa**: *Pseudomonas aeruginosa*       | **mononegavirales**: *Mononegavirales*                   |
-| **sars_cov2**: *SARS-CoV-2*                     |                                                          |
 | **smansoni**: *Schistosoma mansoni*             |                                                          |
 | **tgondii**: *Toxoplasma gondii*                |                                                          |
 | **pfalciparum**: *Plasmodium falciparum*        |                                                          |
 
-obs: To run the taxa in the second column, upgrade scikit-learn to
-version 1.3.2 (pip install scikit-learn-1.3.2)
+
+**Note:**  For the esm1b base model, activate the esm1b_v1 environment (source esm1b_v1/bin/activate) for taxa in the first column, or the esm1b_v2 environment (source esm1b_v2/bin/activate) for taxa in the second column. For the esm2 base model, activate the esm2 environment (source esm2/bin/activate) for all taxa. 
 
 ## Running the analyses
 
