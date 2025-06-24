@@ -11,6 +11,7 @@ Francisco Pereira Lobo and Felipe Campelo.
 
 -   [Dependencies](#Dependencies)
 -   [Running models for published metrics](#Running-models-for-published-metrics)
+-   [Running the complete pipeline](#Running-the-complete-pipeline)
 -   [Running the analyses](#Running-the-analyses)
 -   [Contact](#contact)
 
@@ -87,6 +88,20 @@ Available Taxa
 
 
 **Note:**  For the esm1b base model, activate the esm1b_v1 environment (source esm1b_v1/bin/activate) for taxa in the first column, or the esm1b_v2 environment (source esm1b_v2/bin/activate) for taxa in the second column. For the esm2 base model, activate the esm2 environment (source esm2/bin/activate) for all taxa. 
+
+
+## Running the complete pipeline
+
+All steps of the pipeline for the *B. pertussis* taxon are available in the `pipeline` folder. The same procedure applies to the other taxa as well.
+
+Make sure to download the [ESM-2 model](https://huggingface.co/facebook/esm2_t33_650M_UR50D) or just point to this online repository, and adjust the file paths accordingly before execution.
+
+To run the complete process, execute the following notebooks in sequence:
+
+1. `dataset_generation_taxa.ipynb`  
+2. `finetune_higher_level.ipynb`  
+3. `feature_calculation_reduction.ipynb`
+
 
 ## Running the analyses
 
